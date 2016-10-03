@@ -1,0 +1,41 @@
+[
+  {
+    "name": "3bits Consulting AB",
+    "businessField": "E-commerce Consulting",
+    "employees": "30",
+    "website": "www.3bits.se",
+    "contact": "jobb@3bits.se",
+    "description": "<b>Vill du utveckla moderna e-handelslösningar tillsammans med oss på 3bits?</b><p>3bits grundades 2008, vi är 30 personer som brinner för e-handel och utvecklar tillsammans med våra kunder avancerade webb- och e-handelslösningar – allt från webb till logistik. Vi har fått förtroendet att leverera olika lösningar under många år till  era av våra framgångsrika kunder som Lindex, Tingstad, Focus Nordic och Scandinavian Photo. Vi är mycket väl insatta i hela processen och bygger e-handel som om den vore vår egen.</p><p>Vi genomför våra projekt in house eftersom vi tror att närhet till kollegor och gemenskap är viktigt både för arbetsmiljön och för ett effektivt samarbete. Det centrala kontoret i Göteborg har plats för  er när vi växer. Hos oss får du möjlighet att arbeta med aktuell teknik och spännande projekt tillsammans med dina kollegor i utvecklingsteamet.</p><p>Vi har tagit emot utmärkelsen Superföretag 2014 av Veckans affärer och Bisnode som en av få e-handelsleverantörer i Sverige. 3bits fanns även för andra året i rad med som Gasellföretag 2014, som utses av Dagens industri.</p><p>Är du intresserad av att göra ditt exjobb hos oss eller av en anställning på 3bits? Kom förbi vår monter och prata mer, eller skicka ditt CV till jobb@3bits.se.</p>",
+    "educations": [
+      "E",
+      "D",
+      "IT"
+    ],
+    "positions": [
+      "MSc Thesis"
+    ],
+    "location": "",
+    "pictureURL": "https://i.gyazo.com/feeb1c8f09b985be3aefd587e5657660.png"
+  },
+  {
+    "name": "Academic Work",
+    "businessField": "Staffing & Recruitment",
+    "employees": "630+ in Sweden",
+    "website": "www.academicwork.se",
+    "contact": "Amanda Jarl<br>amanda.jarl@academicwork.se<br>+46 - 72 640 21 29",
+    "description": "<p>Academic Work is Home of the Young Professionals. We work with staffing and recruitment of students and graduates in the start of their careers. It is our niche, our area of expertise and a target group we believe in. We operate in six countries, have a turnover of 1.6 billion SEK and mediate over 14 000 jobs each year. We are interested in you who study or have graduated, with up to five years of work experience. Through us, you can get stimulating work opportunities within various industries, establish important contacts for the future and get a great start of you career.</p><p>In our booth you will get information about current positions and assignments fitted for your personal interest. We are here to answer your questions and can even help you to improve your resume and cover letter.</p>",
+    "educations": [
+      "E",
+      "D",
+      "IT"
+    ],
+    "positions": [
+      "Trainee",
+      "Summer job",
+      "Part-time job",
+      "Full-time job"
+    ],
+    "location": "",
+    "pictureURL": "https://i.gyazo.com/682b8608d82a771d88a208029b2d6093.png"
+  }
+]

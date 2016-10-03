@@ -1,0 +1,250 @@
+<!-- Developed by Chalmers Teknologkonsulter (CTK) for DatE-IT in 2016 -->
+<!-- Tel: 031-772 8332 -->
+<!-- Mail: info(at)ctk(dot)se -->
+
+<!DOCTYPE html>
+<html lang="en" ng-app="dateitse">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>DatE-IT 2016</title>
+
+    <link rel="icon" type="img/ico" href="img/favicon.ico">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/date_it.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet"
+          type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" id="google-font-selector" rel="stylesheet"
+          type="text/css">
+    </div>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" ng-controller="CatalogController"
+      ng-init="fetchCompanies()">
+
+<!-- Navigation -->
+<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button id="navbar_toggle" type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target=".navbar-main-collapse">
+                <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="index.html#page-top">
+                <i class="fa fa-play-circle"></i> <span class="light">DatE-IT</span> 2016
+            </a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="index.html#latest">Latest</a>
+                </li>
+                <li>
+                    <a href="index.html#about">About</a>
+                </li>
+                <li>
+                    <a href="index.html#company">For companies</a>
+                </li>
+                <li>
+                    <a href="index.html#student">For students</a>
+                </li>
+                <li>
+                    <a href="index.html#contact">Contact</a>
+                </li>
+                <li>
+                    <a id="catalog-self" href="catalog.html">Catalog</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<!-- Intro Header -->
+<header class="intro intro-catalog">
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h1 class="brand-heading">DatE-IT 2016</h1>
+                </div>
+            </div>
+            <div class="row">
+
+                <!-- DatE-IT Catalog search form -->
+                <!-- The ng-submit attribute makes sure to call the appropriate function in catalog.js -->
+                <form class="form-group-lg form-group-sm" ng-submit="submitSearch()">
+
+                    <div class="form-group">
+                        <div class="input-group">
+                            <input class="form-control" type="text" placeholder="Search companies..."
+                                   ng-model="searchText">
+                            <span class="input-group-addon" ng-click="submitSearch()" style="cursor: pointer;"><i
+                                    class="fa fa-search"></i></span>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-12 col-sm-12 col-xs-12">
+
+                        <div class="col-lg-offset-4 col-lg-2 col-sm-offset-3 col-sm-3 col-xs-7">
+
+                            <div class="dateit-attribute-box">
+                                <div class="form-group dateit-attribute-header">
+                                    <label class="form-control-static">Position:</label>
+                                    <input type="checkbox" ng-click="toggleAllPositions()"
+                                           ng-model="allPositionsSelected">
+                                </div>
+
+                                <div class="form-group dateit-attribute" ng-repeat="position in positions">
+                                    <label for="{{position.title}}" ng-bind="position.title"></label>
+                                    <input type="checkbox" id="{{position.title}}" ng-model="position.selected"
+                                           ng-change="positionsToggled()">
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-2 col-sm-3 col-xs-5">
+
+                            <div class="dateit-attribute-box">
+                                <div class="form-group dateit-attribute-header">
+                                    <label class="form-control-static">Education:</label>
+                                    <input type="checkbox" ng-click="toggleAllEducations()"
+                                           ng-model="allEducationsSelected">
+                                </div>
+                                <div class="form-group dateit-attribute" ng-repeat="education in educations">
+                                    <label for="{{education.title}}" ng-bind="education.title"></label>
+                                    <input type="checkbox" id="{{education.title}}" ng-model="education.selected"
+                                           ng-change="educationsToggled()">
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+                </form>
+            </div>
+
+            <br>
+
+            <a href="#catalog" class="btn btn-circle page-scroll">
+                <i class="fa fa-angle-double-down animated"></i>
+            </a>
+        </div>
+    </div>
+</header>
+
+<!--Catalog Section-->
+<section id="catalog">
+    <!-- Display loading spinner while fetching companies -->
+    <div class="loading text-center" ng-hide="companies.length">
+        <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+        <span class="sr-only">Loading...</span>
+    </div>
+
+    <!-- Display fetched and filtered companies -->
+    <uib-accordion class="companies" close-others="true">
+        <div uib-accordion-group class="panel-default company" ng-repeat="company in companies track by company.name"
+             heading="{{company.name}}">
+            <div class="col-lg-4 col-sm-6 col-xs-12 company-details">
+                <label>Business Field</label>
+                <br>
+                <div ng-bind-html="company.businessField"></div>
+
+                <label>Employees</label>
+                <br>
+                <div ng-bind-html="company.employees"></div>
+
+                <label>Website</label>
+                <br>
+                <div ng-bind-html="company.website"></div>
+
+                <label>Contact</label>
+                <br>
+                <div ng-bind-html="company.contact"></div>
+                <br>
+                <img ng-src="{{company.pictureURL}}" width="80"/>
+            </div>
+            <div class="col-lg-8 col-sm-6 col-xs-12 company-description">
+
+                <p ng-bind-html="company.description"></p>
+
+            </div>
+        </div>
+    </uib-accordion>
+</section>
+
+<!-- Map Section
+<div id="map"></div>
+-->
+
+<!-- Footer -->
+<footer>
+    <div class="container text-center">
+        <p>Copyright &copy; DatE-IT 2015</p>
+    </div>
+</footer>
+
+<!-- jQuery Version 1.11.0 -->
+<script src="js/jquery-1.11.0.js"></script>
+
+<!-- AngularJS Version 1.5.6 -->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+
+<!-- ngAnimate for AngularJS Version 1.5.6 -->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular-animate.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular-touch.min.js"></script>
+
+<!-- ngSanitize Version 1.5.8 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.5.8/angular-sanitize.min.js"></script>
+
+<!-- UI Bootstrap for AngularJS -->
+<script src="js/ui-bootstrap/ui-bootstrap-custom-2.1.4.min.js"></script>
+<script src="js/ui-bootstrap/ui-bootstrap-custom-tpls-2.1.4.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="js/jquery.easing.min.js"></script>
+
+<!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/
+ <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+-->
+
+<!-- Custom Theme JavaScript -->
+<script src="js/grayscale.js"></script>
+
+<!-- Catalog stuff -->
+<script src="js/catalog.js"></script>
+
+</body>
+
+</html>
