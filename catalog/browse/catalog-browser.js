@@ -1,8 +1,6 @@
-angular.module('dateitse.browser', [
+angular.module('dateitse.browser', [])
 
-])
-
-.controller('BrowserController', BrowserController)
+  .controller('BrowserController', BrowserController)
 
 ;
 
@@ -11,25 +9,21 @@ function BrowserController() {
 
   vm.searchText = "";
 
-  vm.allPositionsSelected = true;
-
   // Available positions
   vm.positions = [
-    { title: "Trainee", selected: true },
-    { title: "MSc Thesis", selected: true },
-    { title: "Internship", selected: true },
-    { title: "Summer job", selected: true },
-    { title: "Part-time job", selected: true },
-    { title: "Full-time job", selected: true }
+    { title: "Trainee", selected: false },
+    { title: "MSc Thesis", selected: false },
+    { title: "Internship", selected: false },
+    { title: "Summer job", selected: false },
+    { title: "Part-time job", selected: false },
+    { title: "Full-time job", selected: false }
   ];
-
-  vm.allEducationsSelected = true;
 
   // Available educations
   vm.educations = [
-    { title: "E", selected: true },
-    { title: "D", selected: true },
-    { title: "IT", selected: true }
+    { title: "E", selected: false },
+    { title: "D", selected: false },
+    { title: "IT", selected: false }
   ];
 
 
@@ -39,12 +33,9 @@ function BrowserController() {
 
   // This function is called whenever the form is submitted
   vm.submitSearch = function () {
-    // Trigger a click on the scroll button to scroll down to the catalog
-    angular.element('a[href="#catalog"]').triggerHandler('click');
     //  TODO: Implement a filter on the vm.companies array
     var query = getQuery();
     console.log('[DEBUG] Searching for companies...', '[DEBUG] Query:', query);
-    vm.companies = getCompaniesByQuery(query);
   };
 
   // Build a query object based on the current text field value and checkbox status
