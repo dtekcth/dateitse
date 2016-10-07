@@ -13,18 +13,16 @@
         </div>
     </div>
 
-    <div class="col-lg-12">
 
-        <div class="col-lg-3">
-                <dateitse-attribute-filter filters="vm.educations"></dateitse-attribute-filter>
-                <dateitse-attribute-filter filters="vm.positions"></dateitse-attribute-filter>
-        </div>
-
-        <div class="col-lg-9">
-            <div class="dateitse-company" ng-repeat="company in $parent.vm.companies">
-                <dateitse-company dateitse-data="company"></dateitse-company>
-            </div>
-        </div>
-
+    <div class="col-lg-2 dateit-attribute-filterbar">
+        <dateitse-attribute-filter filters="vm.educations"></dateitse-attribute-filter>
+        <dateitse-attribute-filter filters="vm.positions"></dateitse-attribute-filter>
     </div>
+
+    <div class="col-lg-10 dateitse-companies">
+        <div class="dateitse-company" ng-repeat="company in $parent.vm.companies">
+            <dateitse-company dateitse-data="company"></dateitse-company>
+        </div>
+    </div>
+
 </div>

@@ -515,7 +515,29 @@ body {
     min-height: 80vh;
 }
 
+.dateit-attribute-filterbar {
+    margin-left: -15px;
+    padding-left: 0;
+}
+
 .dateit-attribute-filters {
-    border: 1px solid black;
+    border: 1px solid #ccc;
     border-radius: 4px;
+    padding: 6px;
+    margin-bottom: 10px;
+}
+
+.dateit-attribute-filter:last-child {
+    margin-bottom: 0;
+}
+
+.dateit-attribute-filter {
+    text-align: center;
+}
+
+.dateit-attribute-filter > label {
+}
+
+.dateit-attribute-filter > input {
+    float: right;
 }

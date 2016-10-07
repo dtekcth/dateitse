@@ -21,9 +21,9 @@ function BrowserController() {
 
   // Available educations
   vm.educations = [
-    { title: "E", selected: false },
-    { title: "D", selected: false },
-    { title: "IT", selected: false }
+    { title: "Elektroteknik", selected: false },
+    { title: "Datateknik", selected: false },
+    { title: "Informationsteknik", selected: false }
   ];
 
 
