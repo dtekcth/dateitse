@@ -1,6 +1,6 @@
 (function () {
 
-  angular.module('dateise.company', [
+  angular.module('dateitse.company', [
     'ui.router'
   ])
 
@@ -20,6 +20,8 @@
 
     .controller('CompanyController', CompanyController)
 
+    .directive('dateitseCompany', dateitseCompany)
+
   ;
 
   CompanyController.$inject = ['$scope'];
@@ -30,4 +32,17 @@
     vm.name = 'test company';
 
   }
+
+  function dateitseCompany() {
+    var directive = {
+      restrict: 'E',
+      templateUrl: 'company/dateitse-company.tpl.html',
+      scope: {
+        company: '=dateitseData'
+      }
+    };
+
+    return directive;
+  }
+
 })();

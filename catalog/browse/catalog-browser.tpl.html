@@ -1,0 +1,29 @@
+<div class="col-lg-12" ng-controller="BrowserController as vm">
+
+    <div class="row">
+        <div class="dateit-search-form">
+            <div class="form-group">
+                <div class="input-group">
+                    <input class="form-control" type="text" placeholder="Search companies..."
+                           ng-model="searchText">
+                    <span class="input-group-addon" ng-click="submitSearch()" style="cursor: pointer;"><i
+                            class="fa fa-search"></i></span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-12">
+
+        <div class="col-lg-3">
+            <h5>Filter</h5>
+        </div>
+
+        <div class="col-lg-9">
+            <div class="dateitse-company" ng-repeat="company in $parent.vm.companies">
+                <dateitse-company dateitse-data="company"></dateitse-company>
+            </div>
+        </div>
+
+    </div>
+</div>

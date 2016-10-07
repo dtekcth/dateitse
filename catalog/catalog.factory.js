@@ -1,16 +1,16 @@
 // Developed by Chalmers Teknologkonsulter (CTK) for DatE-IT in 2016
 // Tel: 031-772 8332
 // Mail: info(at)ctk(dot)se
-angular.module('dateitse.companiesFactory', [
+angular.module('dateitse.catalogFactory', [
 ])
 
-  .factory('companiesFactory', companiesFactory)
+  .factory('catalogFactory', catalogFactory)
 
 ;
 
-companiesFactory.$inject = ['$http'];
+catalogFactory.$inject = ['$http'];
 
-function companiesFactory($http) {
+function catalogFactory($http) {
 
   var factory = {
     GetCompanies: GetCompanies,
