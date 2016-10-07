@@ -30,10 +30,14 @@ function catalogFactory($http) {
         factory.companies.push(angular.copy(company));
         factory.companies.push(angular.copy(company));
         factory.companies.push(angular.copy(company));
+        company.name = 'Lorem ipsum';
+        factory.companies.push(angular.copy(company));
+        company.name = 'Bra företag';
         factory.companies.push(angular.copy(company));
         factory.companies.push(angular.copy(company));
+        company.name = 'Snuskhummer AB';
         factory.companies.push(angular.copy(company));
-        factory.companies.push(angular.copy(company));
+        company.name = 'Partyhattar AB';
         factory.companies.push(angular.copy(company));
 
       });

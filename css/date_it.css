@@ -527,30 +527,30 @@ body {
 }
 
 /* Filters */
-.dateitse-attribute-filterbar {
+.dateitse-filterbar {
     margin-left: -15px;
     padding-left: 0;
 }
 
-.dateitse-attribute-filters {
+.dateitse-filters {
     border: 1px solid #ccc;
     border-radius: 4px;
     padding: 6px;
     margin-bottom: 10px;
 }
 
-.dateitse-attribute-filter:last-child {
+.dateitse-filter:last-child {
     margin-bottom: 0;
 }
 
-.dateitse-attribute-filter {
+.dateitse-filter {
     text-align: center;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
 }
 
-.dateitse-attribute-filter > input {
+.dateitse-filter > input {
     float: right;
 }
 
@@ -592,7 +592,7 @@ body {
         margin: 5px auto;
     }
 
-    .dateitse-attribute-filters {
+    .dateitse-filters {
         border: none;
         border-radius: 0;
         padding: 0;
@@ -600,11 +600,11 @@ body {
         color: white;
     }
 
-    .dateitse-attribute-filters:last-child {
+    .dateitse-filters:last-child {
         border-top: 1px solid #ccc;
     }
 
-    .dateitse-attribute-filter {
+    .dateitse-filter {
         margin: 10px;
     }
 
@@ -619,7 +619,7 @@ body {
 }
 
 @media (min-width: 768px) {
-    .dateitse-attribute-filter {
+    .dateitsefilter {
         font-size: 12px;
     }
 }

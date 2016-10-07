@@ -13,8 +13,8 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
                 <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                <dateitse-attribute-filter filters="vm.educations"></dateitse-attribute-filter>
-                <dateitse-attribute-filter filters="vm.positions"></dateitse-attribute-filter>
+                <dateitse-filter filters="vm.educations"></dateitse-filter>
+                <dateitse-filter filters="vm.positions"></dateitse-filter>
             </div>
             <!-- /.navbar-collapse -->
         </div>
@@ -24,8 +24,8 @@
             <div class="form-group">
                 <div class="input-group">
                     <input class="form-control" type="text" placeholder="Search companies..."
-                           ng-model="searchText">
-                    <span class="input-group-addon" ng-click="submitSearch()" style="cursor: pointer;"><i
+                           ng-model="vm.searchText">
+                    <span class="input-group-addon"><i
                             class="fa fa-search"></i></span>
                 </div>
             </div>
@@ -33,13 +33,14 @@
     </div>
 
 
-    <div class="col-lg-2 col-md-3 col-sm-3 hidden-xs dateitse-attribute-filterbar">
-        <dateitse-attribute-filter filters="vm.educations"></dateitse-attribute-filter>
-        <dateitse-attribute-filter filters="vm.positions"></dateitse-attribute-filter>
+    <div class="col-lg-2 col-md-3 col-sm-3 hidden-xs dateitse-filterbar">
+        <dateitse-filter filters="vm.educations"></dateitse-filter>
+        <dateitse-filter filters="vm.positions"></dateitse-filter>
     </div>
 
     <div class="col-lg-10 col-md-9 col-sm-9 col-xs-12 dateitse-companies">
-        <div class="dateitse-company" ng-repeat="company in $parent.vm.companies">
+        <div class="dateitse-company"
+             ng-repeat="company in $parent.vm.companies | companyFilter:{searchText:vm.searchText, educations: vm.educations, positions: vm.positions}">
             <dateitse-company dateitse-data="company" ng-style="company.style"></dateitse-company>
         </div>
     </div>
