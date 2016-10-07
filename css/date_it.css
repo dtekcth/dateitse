@@ -510,34 +510,132 @@ body {
         Mail: info(at)ctk(dot)se
 */
 
-.dateit-catalog-content {
+/* Catalog */
+.dateitse-catalog-content {
     margin-top: 80px;
     min-height: 80vh;
 }
 
-.dateit-attribute-filterbar {
+/* Search */
+.dateitse-search-form > div > div > span {
+    cursor: pointer;
+}
+
+.dateitse-search-form > div > div > span:hover {
+    background-color: rgba(0, 0, 0, .25);
+    color: #eee;
+}
+
+/* Filters */
+.dateitse-attribute-filterbar {
     margin-left: -15px;
     padding-left: 0;
 }
 
-.dateit-attribute-filters {
+.dateitse-attribute-filters {
     border: 1px solid #ccc;
     border-radius: 4px;
     padding: 6px;
     margin-bottom: 10px;
 }
 
-.dateit-attribute-filter:last-child {
+.dateitse-attribute-filter:last-child {
     margin-bottom: 0;
 }
 
-.dateit-attribute-filter {
+.dateitse-attribute-filter {
     text-align: center;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
 }
 
-.dateit-attribute-filter > label {
-}
-
-.dateit-attribute-filter > input {
+.dateitse-attribute-filter > input {
     float: right;
+}
+
+/* Companies */
+.dateitse-companies {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.dateitse-company {
+    max-height: 300px;
+    max-width: 300px;
+    display: inline-flex;
+    position: relative;
+    margin: 5px;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.dateitse-company > * > img {
+    max-height: 300px;
+    max-width: 300px;
+}
+
+.dateitse-company > * > div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border: 1px solid green;
+}
+
+/* SM */
+@media (max-width: 768px) {
+    .dateitse-company {
+        margin: 5px auto;
+    }
+
+    .dateitse-attribute-filters {
+        border: none;
+        border-radius: 0;
+        padding: 0;
+        margin-bottom: 0;
+        color: white;
+    }
+
+    .dateitse-attribute-filters:last-child {
+        border-top: 1px solid #ccc;
+    }
+
+    .dateitse-attribute-filter {
+        margin: 10px;
+    }
+
+}
+
+/* SM */
+@media (min-width: 768px) {
+    .dateitse-company > * > img {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@media (min-width: 768px) {
+    .dateitse-attribute-filter {
+        font-size: 12px;
+    }
+}
+
+/* MD */
+@media (min-width: 992px) {
+    .dateitse-company > * > img {
+        width: 205px;
+        height: 205px;
+    }
+}
+
+/* LG */
+@media (min-width: 1200px) {
+    .dateitse-company > * > img {
+        width: 285px;
+        height: 285px;
+    }
 }

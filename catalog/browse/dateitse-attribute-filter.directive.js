@@ -11,7 +11,7 @@ function dateitseAttributeFilter() {
     scope: {
       filters: '='
     },
-    linkFn: linkFn
+    link: linkFn
   };
 
   return directive;
