@@ -1,2 +1,43 @@
-<h5>{{vm.name}}</h5>
-<p>Details about a specific company</p>
+<nav class="navbar navbar-custom navbar-fixed-top hidden-lg hidden-md hidden-sm" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand page-scroll" ui-sref="catalog">
+                <i class="fa fa-play-circle"></i> <span class="light">DatE-IT</span> 2016 - Web catalog
+            </a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+    </div>
+</nav>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <h3 ng-bind-html="vm.company.name"></h3>
+
+    <hr style="width: 100%;">
+
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <img style="position:relative; width: 95%;" ng-src="{{vm.company.largeImage}}"/>
+    </div>
+
+    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+        <div class="row">
+            <h5>Business Field</h5>
+            <span ng-bind-html="vm.company.businessField"></span>
+        </div>
+        <div class="row">
+            <h5>Employees</h5>
+            <span ng-bind-html="vm.company.employees"></span>
+        </div>
+        <div class="row">
+            <h5>Website</h5>
+            <span ng-bind-html="vm.company.website"></span>
+        </div>
+        <div class="row">
+            <h5>Contact</h5>
+            <span ng-bind-html="vm.company.contact"></span>
+        </div>
+        <hr style="width: 100%;">
+        <div class="row">
+            <p ng-bind-html="vm.company.description"></p>
+        </div>
+    </div>
+
+</div>

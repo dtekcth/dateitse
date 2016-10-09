@@ -31,7 +31,7 @@ function BrowserController() {
 
 function companyFilter() {
   return function (companies, query) {
-    var result = companies;
+    var result = [];
     var searchText = query.searchText;
     var educations = [];
     var positions = [];
@@ -64,7 +64,16 @@ function companyFilter() {
       }
     });
 
-    // angular.forEach(companies, function(company) {})
+    var textHit = true;
+    var educationHit = true;
+    var positionHit = true;
+
+    // TODO: Filter companies
+    angular.forEach(companies, function (company) {
+      if ((textHit && educationHit && positionHit)) {
+        result.push(company);
+      }
+    });
 
     return result;
   }

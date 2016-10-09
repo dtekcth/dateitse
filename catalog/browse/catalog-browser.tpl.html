@@ -7,7 +7,7 @@
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="../index.html#page-top">
-                    <i class="fa fa-play-circle"></i> <span class="light">DatE-IT</span> 2016 - Web catalog
+                    <i class="fa fa-play-circle"></i> <span class="light">DatE-IT</span> 2016
                 </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -41,7 +41,7 @@
     <div class="col-lg-10 col-md-9 col-sm-9 col-xs-12 dateitse-companies">
         <div class="dateitse-company-thumbnail"
              ng-repeat="company in $parent.vm.companies | companyFilter:{searchText:vm.searchText, educations: vm.educations, positions: vm.positions}">
-            <dateitse-company-thumbnail dateitse-data="company" ng-style="company.style"></dateitse-company-thumbnail>
+            <dateitse-company-thumbnail dateitse-data="company" ng-style="company.style" ui-sref="catalog.company({companyName: company.name})"></dateitse-company-thumbnail>
         </div>
     </div>
 

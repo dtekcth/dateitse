@@ -38,7 +38,7 @@ CatalogController.$inject = ['$scope', 'catalogFactory'];
 
 function CatalogController($scope, catalogFactory) {
   var vm = this;
-
+  console.log(catalogFactory.companies);
   vm.companies = catalogFactory.companies;
 
 }

@@ -1,15 +1,24 @@
 angular.module('dateitse.company', [
-  'ui.router'
+  'ui.router',
+  'dateitse.catalogFactory'
 ])
 
   .config(function ($stateProvider) {
 
     $stateProvider.state('catalog.company', {
-      url: '/test',
-      controller: 'CompanyController as vm',
+      url: '/:companyName',
+      resolve: {
+        companyPromise: function ($q, catalogFactory, $stateParams) {
+          var deferred = $q.defer();
+          // deferred.resolve(catalogFactory.GetCompanyByName($stateParams.companyName));
+          deferred.resolve(catalogFactory.GetCompanyByName($stateParams.companyName));
+          return deferred.promise;
+        }
+      },
       views: {
         '@': {
-          templateUrl: 'company-details.html'
+          controller: 'CompanyController as vm',
+          templateUrl: 'company/company-details.html'
         }
       }
 
@@ -20,12 +29,10 @@ angular.module('dateitse.company', [
 
 ;
 
-CompanyController.$inject = ['$scope'];
+CompanyController.$inject = ['companyPromise'];
 
-function CompanyController($scope) {
+function CompanyController(companyPromise) {
   var vm = this;
-
-  vm.name = 'test company';
-
+  vm.company = companyPromise;
 }
 
