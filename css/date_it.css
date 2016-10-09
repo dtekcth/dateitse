@@ -561,7 +561,7 @@ body {
     flex-wrap: wrap;
 }
 
-.dateitse-company {
+.dateitse-company-thumbnail {
     max-height: 300px;
     max-width: 300px;
     display: inline-flex;
@@ -570,25 +570,48 @@ body {
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
+    cursor: pointer;
 }
 
-.dateitse-company > * > img {
+.dateitse-company-thumbnail:hover {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+.dateitse-company-thumbnail:hover > * > img {
+    opacity: .5;
+}
+
+.dateitse-company-thumbnail:hover > * > div > span {
+    opacity: 1;
+}
+
+.dateitse-company-thumbnail > * > img {
     max-height: 300px;
     max-width: 300px;
 }
 
-.dateitse-company > * > div {
+.dateitse-company-thumbnail > * > div {
     position: absolute;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
-    border: 1px solid green;
+    padding: 12px 6px;
+}
+
+.dateitse-company-thumbnail > * > div > span {
+    opacity: .25;
+    font-family: Lora, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 12px;
+    left: 6px;
 }
 
 /* SM */
 @media (max-width: 768px) {
-    .dateitse-company {
+    .dateitse-company-thumbnail {
         margin: 5px auto;
     }
 
@@ -612,7 +635,7 @@ body {
 
 /* SM */
 @media (min-width: 768px) {
-    .dateitse-company > * > img {
+    .dateitse-company-thumbnail > * > img {
         width: 150px;
         height: 150px;
     }
@@ -626,7 +649,7 @@ body {
 
 /* MD */
 @media (min-width: 992px) {
-    .dateitse-company > * > img {
+    .dateitse-company-thumbnail > * > img {
         width: 205px;
         height: 205px;
     }
@@ -634,7 +657,7 @@ body {
 
 /* LG */
 @media (min-width: 1200px) {
-    .dateitse-company > * > img {
+    .dateitse-company-thumbnail > * > img {
         width: 285px;
         height: 285px;
     }

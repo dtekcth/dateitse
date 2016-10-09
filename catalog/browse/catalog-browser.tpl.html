@@ -39,9 +39,9 @@
     </div>
 
     <div class="col-lg-10 col-md-9 col-sm-9 col-xs-12 dateitse-companies">
-        <div class="dateitse-company"
+        <div class="dateitse-company-thumbnail"
              ng-repeat="company in $parent.vm.companies | companyFilter:{searchText:vm.searchText, educations: vm.educations, positions: vm.positions}">
-            <dateitse-company dateitse-data="company" ng-style="company.style"></dateitse-company>
+            <dateitse-company-thumbnail dateitse-data="company" ng-style="company.style"></dateitse-company-thumbnail>
         </div>
     </div>
 

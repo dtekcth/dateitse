@@ -1,13 +1,13 @@
 angular.module('dateitse.company')
 
-  .directive('dateitseCompany', dateitseCompany)
+  .directive('dateitseCompanyThumbnail', dateitseCompanyThumbnail)
 
 ;
 
-function dateitseCompany() {
+function dateitseCompanyThumbnail() {
   var directive = {
     restrict: 'E',
-    templateUrl: 'company/dateitse-company.tpl.html',
+    templateUrl: 'company/dateitse-company-thumbnail.tpl.html',
     scope: {
       company: '=dateitseData'
     },

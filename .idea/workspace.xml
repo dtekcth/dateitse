@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="605b7873-59b6-4c84-9979-4b21437c026d" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/browse/dateitse-attribute-filter.directive.js" afterPath="$PROJECT_DIR$/catalog/browse/dateitse-filter.directive.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/browse/dateitse-attribute-filter.tpl.html" afterPath="$PROJECT_DIR$/catalog/browse/dateitse-filter.tpl.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/company/dateitse-company.directive.js" afterPath="$PROJECT_DIR$/catalog/company/dateitse-company-thumbnail.directive.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/company/dateitse-company.tpl.html" afterPath="$PROJECT_DIR$/catalog/company/dateitse-company-thumbnail.tpl.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/browse/catalog-browser.js" afterPath="$PROJECT_DIR$/catalog/browse/catalog-browser.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/browse/catalog-browser.tpl.html" afterPath="$PROJECT_DIR$/catalog/browse/catalog-browser.tpl.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/catalog.factory.js" afterPath="$PROJECT_DIR$/catalog/catalog.factory.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/catalog.html" afterPath="$PROJECT_DIR$/catalog/catalog.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/date_it.css" afterPath="$PROJECT_DIR$/css/date_it.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/companies.json" afterPath="$PROJECT_DIR$/data/companies.json" />
     </list>
     <ignored path="dateitse.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,28 +34,38 @@
       <file leaf-file-name="catalog.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/catalog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
+            <state relative-caret-position="734">
+              <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="date_it.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="date_it.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/date_it.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="602" column="14" selection-start-line="602" selection-start-column="13" selection-end-line="602" selection-end-column="14" />
+            <state relative-caret-position="359">
+              <caret line="576" column="39" selection-start-line="576" selection-start-column="39" selection-end-line="576" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dateitse-company.tpl.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/catalog/company/dateitse-company.tpl.html">
+      <file leaf-file-name="dateitse-company-thumbnail.tpl.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/company/dateitse-company-thumbnail.tpl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="30">
+              <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dateitse-company-thumbnail.directive.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/company/dateitse-company-thumbnail.directive.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -67,17 +75,17 @@
         <entry file="file://$PROJECT_DIR$/catalog/browse/catalog-browser.tpl.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
-              <caret line="42" column="149" selection-start-line="42" selection-start-column="149" selection-end-line="42" selection-end-column="149" />
+              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="catalog-browser.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="catalog-browser.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/browse/catalog-browser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+            <state relative-caret-position="481">
+              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -86,8 +94,8 @@
       <file leaf-file-name="catalog.factory.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/catalog.factory.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            <state relative-caret-position="375">
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -108,16 +116,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="81" column="34" selection-start-line="54" selection-start-column="7" selection-end-line="81" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -177,13 +175,15 @@
         <option value="$PROJECT_DIR$/catalog/company/dateitse-company.directive.js" />
         <option value="$PROJECT_DIR$/catalog/browse/dateitse-attribute-filter.tpl.html" />
         <option value="$PROJECT_DIR$/catalog/browse/dateitse-filter.tpl.html" />
-        <option value="$PROJECT_DIR$/catalog/catalog.html" />
-        <option value="$PROJECT_DIR$/css/date_it.css" />
-        <option value="$PROJECT_DIR$/catalog/browse/catalog-browser.tpl.html" />
-        <option value="$PROJECT_DIR$/catalog/catalog.factory.js" />
         <option value="$PROJECT_DIR$/catalog/browse/dateitse-filter.directive.js" />
         <option value="$PROJECT_DIR$/data/companies.json" />
         <option value="$PROJECT_DIR$/catalog/browse/catalog-browser.js" />
+        <option value="$PROJECT_DIR$/catalog/browse/catalog-browser.tpl.html" />
+        <option value="$PROJECT_DIR$/catalog/catalog.html" />
+        <option value="$PROJECT_DIR$/catalog/company/dateitse-company-thumbnail.directive.js" />
+        <option value="$PROJECT_DIR$/catalog/company/dateitse-company-thumbnail.tpl.html" />
+        <option value="$PROJECT_DIR$/catalog/catalog.factory.js" />
+        <option value="$PROJECT_DIR$/css/date_it.css" />
       </list>
     </option>
   </component>
@@ -223,6 +223,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -335,8 +337,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,12 +451,13 @@
       <workItem from="1475571107470" duration="499000" />
       <workItem from="1475582538329" duration="991000" />
       <workItem from="1475596224879" duration="20000" />
-      <workItem from="1475836333610" duration="15152000" />
+      <workItem from="1475836333610" duration="15165000" />
+      <workItem from="1476016297838" duration="979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47065000" />
+    <option name="totallyTimeSpent" value="48057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
@@ -466,20 +467,20 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920128" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -697,27 +698,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/angularGrid.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="8021" selection-start-line="10" selection-start-column="8021" selection-end-line="10" selection-end-column="8021" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/catalog-controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/angularGrid.min.js" />
+    <entry file="file://$PROJECT_DIR$/catalog/catalog-controller.js" />
     <entry file="file://$PROJECT_DIR$/data/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="360">
             <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="26" selection-end-column="86" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -730,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,30 +728,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/catalog-companies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/catalog-search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/catalog-filter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/catalog-companies.html" />
+    <entry file="file://$PROJECT_DIR$/catalog/catalog-search.html" />
+    <entry file="file://$PROJECT_DIR$/catalog/catalog-filter.html" />
     <entry file="file://$PROJECT_DIR$/catalog/catalog.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -778,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -786,30 +750,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="328" column="48" selection-start-line="328" selection-start-column="48" selection-end-line="328" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/company/dateitse-company.directive.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
+        <state relative-caret-position="1215">
           <caret line="81" column="34" selection-start-line="54" selection-start-column="7" selection-end-line="81" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/company/dateitse-company.tpl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -822,18 +769,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/catalog.html">
+    <entry file="file://$PROJECT_DIR$/catalog/browse/dateitse-filter.directive.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/date_it.css">
+    <entry file="file://$PROJECT_DIR$/catalog/browse/catalog-browser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="602" column="14" selection-start-line="602" selection-start-column="13" selection-end-line="602" selection-end-column="14" />
+        <state relative-caret-position="481">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -841,7 +788,23 @@
     <entry file="file://$PROJECT_DIR$/catalog/browse/catalog-browser.tpl.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
-          <caret line="42" column="149" selection-start-line="42" selection-start-column="149" selection-end-line="42" selection-end-column="149" />
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/company/dateitse-company-thumbnail.directive.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/company/dateitse-company-thumbnail.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -854,26 +817,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/browse/dateitse-filter.directive.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/catalog.factory.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        <state relative-caret-position="375">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/browse/catalog-browser.js">
+    <entry file="file://$PROJECT_DIR$/catalog/catalog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        <state relative-caret-position="734">
+          <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/date_it.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="576" column="39" selection-start-line="576" selection-start-column="39" selection-end-line="576" selection-end-column="39" />
           <folding />
         </state>
       </provider>

@@ -25,17 +25,22 @@ function catalogFactory($http) {
 
       angular.forEach(response.data, function (company) {
         factory.companies.push(angular.copy(company));
+        company.name = 'Guld och silver AB';
         factory.companies.push(angular.copy(company));
+        company.name = 'Dammsugarsäljarna';
         factory.companies.push(angular.copy(company));
+        company.name = 'Bilmekaniker';
         factory.companies.push(angular.copy(company));
+        company.name = 'InformationsTeknikerna';
         factory.companies.push(angular.copy(company));
+        company.name = 'Dansk korv AB';
         factory.companies.push(angular.copy(company));
-        company.name = 'Lorem ipsum';
+        company.name = 'Intressant företag';
         factory.companies.push(angular.copy(company));
         company.name = 'Bra företag';
         factory.companies.push(angular.copy(company));
         factory.companies.push(angular.copy(company));
-        company.name = 'Snuskhummer AB';
+        company.name = 'Isglass AB';
         factory.companies.push(angular.copy(company));
         company.name = 'Partyhattar AB';
         factory.companies.push(angular.copy(company));
