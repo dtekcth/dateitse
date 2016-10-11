@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="605b7873-59b6-4c84-9979-4b21437c026d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/browse/dateitse-attribute.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/browse/dateitse-catalog-browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalog/dateitse-catalog.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/catalog/browse/dateitse-filter.directive.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/browse/catalog-browser.js" afterPath="$PROJECT_DIR$/catalog/browse/dateitse-catalog-company.filter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/browse/catalog-browser.tpl.html" afterPath="$PROJECT_DIR$/catalog/browse/dateitse-catalog-browser.tpl.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/browse/dateitse-filter.tpl.html" afterPath="$PROJECT_DIR$/catalog/browse/dateitse-attribute.tpl.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/catalog.factory.js" afterPath="$PROJECT_DIR$/catalog/dateitse-company.factory.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/catalog.html" afterPath="$PROJECT_DIR$/catalog/dateitse-catalog.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/catalog.js" afterPath="$PROJECT_DIR$/catalog/dateitse-catalog.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/company/company-details.html" afterPath="$PROJECT_DIR$/catalog/company/dateitse-company-details.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/catalog/company/company.js" afterPath="$PROJECT_DIR$/catalog/company/dateitse-company.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/date_it.css" afterPath="$PROJECT_DIR$/css/date_it.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/browse/dateitse-catalog-company.filter.js" afterPath="$PROJECT_DIR$/catalog/browse/dateitse-catalog-company.filter.js" />
     </list>
     <ignored path="dateitse.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -108,7 +95,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dateitse-catalog-browser.tpl.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dateitse-catalog-browser.tpl.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catalog/browse/dateitse-catalog-browser.tpl.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
@@ -118,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dateitse-catalog-company.filter.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dateitse-catalog-company.filter.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/catalog/browse/dateitse-catalog-company.filter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+            <state relative-caret-position="83">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -204,8 +191,8 @@
         <option value="$PROJECT_DIR$/catalog/dateitse-company.factory.js" />
         <option value="$PROJECT_DIR$/catalog/dateitse-catalog.js" />
         <option value="$PROJECT_DIR$/catalog/company/dateitse-company.js" />
-        <option value="$PROJECT_DIR$/catalog/browse/dateitse-catalog-company.filter.js" />
         <option value="$PROJECT_DIR$/catalog/browse/dateitse-catalog-browser.tpl.html" />
+        <option value="$PROJECT_DIR$/catalog/browse/dateitse-catalog-company.filter.js" />
       </list>
     </option>
   </component>
@@ -491,12 +478,12 @@
       <workItem from="1476016297838" duration="5399000" />
       <workItem from="1476186705116" duration="80000" />
       <workItem from="1476193536976" duration="499000" />
-      <workItem from="1476215880231" duration="2653000" />
+      <workItem from="1476215880231" duration="2796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55880000" />
+    <option name="totallyTimeSpent" value="56023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
@@ -853,14 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catalog/browse/dateitse-catalog-company.filter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/browse/dateitse-catalog-browser.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -881,6 +860,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/browse/dateitse-catalog-company.filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding />
         </state>
       </provider>

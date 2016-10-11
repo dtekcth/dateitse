@@ -6,7 +6,6 @@ angular.module('dateitse.catalog.company-filter', [])
 
 function companyFilter() {
   return function (companies, query) {
-    var result = [];
     var searchText = query.searchText;
     var educations = [];
     var positions = [];
@@ -41,27 +40,16 @@ function companyFilter() {
 
 
     return companies.filter(function (company) {
-      var educationHit = educations.length === 0;
-      var positionHit = positions.length === 0;
 
-      educationHit = educations.every(function (education) {
-        return company.educations.indexOf(education) > -1;
-      });
+      var educationHit = educations.length === 0 || educations.every(function (education) {
+          return company.educations.indexOf(education) > -1;
+        });
 
-      positionHit = positions.every(function (position) {
-        return company.positions.indexOf(position) > -1;
-      });
+      var positionHit = positions.length === 0 || positions.every(function (position) {
+          return company.positions.indexOf(position) > -1;
+        });
 
       return (company.name.trim().toLowerCase().indexOf(searchText.trim().toLowerCase()) > -1 && educationHit && positionHit);
     });
-
-    // // TODO: Filter companies
-    // angular.forEach(companies, function (company) {
-    //   if ((textHit && educationHit && positionHit)) {
-    //     result.push(company);
-    //   }
-    // });
-
-    // return result;
   }
 }
