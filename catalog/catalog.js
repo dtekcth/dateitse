@@ -16,15 +16,22 @@ angular.module('dateitse', [
     $urlRouterProvider.otherwise('/catalog');
 
     $stateProvider.state('catalog', {
-      url: '/catalog',
+      url: '',
       controller: 'CatalogController as vm',
+      abstract: true,
       resolve: {
         companies: function ($q, catalogFactory) {
           var deferred = $q.defer();
-          deferred.resolve(catalogFactory.GetCompanies());
+          catalogFactory.GetCompanies().then(function (response) {
+            deferred.resolve(catalogFactory.companies);
+          });
           return deferred.promise;
         }
       },
+      template: '<ui-view></ui-view>'
+    }).state('catalog.browser', {
+      url: '/catalog',
+      controller: 'BrowserController as vm',
       templateUrl: 'browse/catalog-browser.tpl.html'
     });
   })

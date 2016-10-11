@@ -35,17 +35,7 @@ function catalogFactory($http) {
   }
 
   function GetCompanyByName(name) {
-    if (factory.companies.length) {
-      return getArrayEntryByName(factory.companies, name);
-    } else {
-      return $http.get('../data/companies.json').then(function (response) {
-        return getArrayEntryByName(response.data, name);
-      }, function (response) {
-
-        console.log(response);
-
-      });
-    }
+    return getArrayEntryByName(factory.companies, name);
   }
 
   function getArrayEntryByName(array, name) {

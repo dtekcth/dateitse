@@ -6,22 +6,19 @@ angular.module('dateitse.company', [
   .config(function ($stateProvider) {
 
     $stateProvider.state('catalog.company', {
-      url: '/:companyName',
+      url: '/companies/:companyName',
       resolve: {
         companyPromise: function ($q, catalogFactory, $stateParams) {
           var deferred = $q.defer();
           // deferred.resolve(catalogFactory.GetCompanyByName($stateParams.companyName));
-          deferred.resolve(catalogFactory.GetCompanyByName($stateParams.companyName));
+          catalogFactory.GetCompanies().then(function () {
+            deferred.resolve(catalogFactory.GetCompanyByName($stateParams.companyName));
+          });
           return deferred.promise;
         }
       },
-      views: {
-        '@': {
-          controller: 'CompanyController as vm',
-          templateUrl: 'company/company-details.html'
-        }
-      }
-
+      controller: 'CompanyController as vm',
+      templateUrl: 'company/company-details.html'
     });
   })
 
