@@ -1,0 +1,6 @@
+<div class="dateitse-attributes">
+    <div class="form-group dateitse-attribute" ng-repeat="attribute in attributes">
+        <label for="{{attribute.title}}" ng-bind="attribute.title"></label>
+        <input type="checkbox" id="{{attribute.title}}" ng-model="attribute.selected">
+    </div>
+</div>

@@ -7,8 +7,9 @@ angular.module('dateitse', [
   'ngAnimate',
   'ngTouch',
   'ngSanitize',
-  'dateitse.catalogFactory',
-  'dateitse.browser',
+  'dateitse.catalog.companyFactory',
+  'dateitse.catalog.browser',
+  'dateitse.catalog.company-filter',
   'dateitse.company'
 ])
 
@@ -20,10 +21,10 @@ angular.module('dateitse', [
       controller: 'CatalogController as vm',
       abstract: true,
       resolve: {
-        companies: function ($q, catalogFactory) {
+        companies: function ($q, companyFactory) {
           var deferred = $q.defer();
-          catalogFactory.GetCompanies().then(function (response) {
-            deferred.resolve(catalogFactory.companies);
+          companyFactory.GetCompanies().then(function (response) {
+            deferred.resolve(companyFactory.companies);
           });
           return deferred.promise;
         }
@@ -32,7 +33,7 @@ angular.module('dateitse', [
     }).state('catalog.browser', {
       url: '/catalog',
       controller: 'BrowserController as vm',
-      templateUrl: 'browse/catalog-browser.tpl.html'
+      templateUrl: 'browse/dateitse-catalog-browser.tpl.html'
     });
   })
 
@@ -41,11 +42,11 @@ angular.module('dateitse', [
 ;
 
 
-CatalogController.$inject = ['$scope', 'catalogFactory'];
+CatalogController.$inject = ['$window', 'companyFactory'];
 
-function CatalogController($scope, catalogFactory) {
+function CatalogController($window, companyFactory) {
   var vm = this;
-  console.log(catalogFactory.companies);
-  vm.companies = catalogFactory.companies;
+  $window.scrollTo(0, 0);
 
+  vm.companies = companyFactory.companies;
 }

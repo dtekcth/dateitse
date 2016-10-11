@@ -23,6 +23,9 @@
     <!-- Custom CSS -->
     <link href="../css/date_it.css" rel="stylesheet">
 
+    <!-- Catalog CSS -->
+    <link href="../catalog/dateitse-catalog.css" rel="stylesheet">
+
     <!-- Custom Fonts -->
     <link href="../font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet"
@@ -50,7 +53,7 @@
             <a class="navbar-brand page-scroll" href="../index.html#page-top">
                 <i class="fa fa-play-circle"></i> <span class="light">DatE-IT</span>
             </a>
-            <a class="navbar-brand page-scroll" ui-sref="catalog">
+            <a class="navbar-brand page-scroll" ui-sref="catalog.browser">
                 2016 - Web catalog
             </a>
         </div>
@@ -99,13 +102,14 @@
 <script src="../js/grayscale.js"></script>
 
 <!-- Local Modules-->
-<script src="catalog.js"></script>
-<script src="catalog.factory.js"></script>
+<script src="dateitse-catalog.js"></script>
+<script src="dateitse-company.factory.js"></script>
 
-<script src="browse/catalog-browser.js"></script>
-<script src="browse/dateitse-filter.directive.js"></script>
+<script src="browse/dateitse-catalog-browser.js"></script>
+<script src="browse/dateitse-catalog-company.filter.js"></script>
+<script src="browse/dateitse-attribute.directive.js"></script>
 
-<script src="company/company.js"></script>
+<script src="company/dateitse-company.js"></script>
 <script src="company/dateitse-company-thumbnail.directive.js"></script>
 
 </body>

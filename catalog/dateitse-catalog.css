@@ -1,0 +1,159 @@
+/*
+    DatE-IT Catalog CSS
+        Developed by Chalmers Teknologkonsulter (CTK) for DatE-IT in 2016
+        Tel: 031-772 8332
+        Mail: info(at)ctk(dot)se
+*/
+
+/* Catalog */
+.dateitse-catalog-content {
+    margin-top: 80px;
+    min-height: 80vh;
+}
+
+/* Search */
+.dateitse-search-form > div > div > span {
+    cursor: pointer;
+}
+
+.dateitse-search-form > div > div > span:hover {
+    background-color: rgba(0, 0, 0, .25);
+    color: #eee;
+}
+
+/* Filters */
+.dateitse-attributes-bar {
+    /*margin-left: -15px;*/
+    /*padding-left: 0;*/
+}
+
+.dateitse-attributes {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 6px;
+    margin-bottom: 10px;
+}
+
+.dateitse-attribute:last-child {
+    margin-bottom: 0;
+}
+
+.dateitse-attribute {
+    text-align: center;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.dateitse-attribute > input {
+    float: right;
+}
+
+/* Companies */
+.dateitse-companies {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.dateitse-company-thumbnail {
+    max-height: 300px;
+    max-width: 300px;
+    display: inline-flex;
+    position: relative;
+    margin: 5px;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+
+.dateitse-company-thumbnail:hover {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+.dateitse-company-thumbnail:hover > * > img {
+    opacity: .5;
+}
+
+.dateitse-company-thumbnail:hover > * > div > span {
+    opacity: 1;
+}
+
+.dateitse-company-thumbnail > * > img {
+    max-height: 205px;
+    max-width: 205px;
+}
+
+.dateitse-company-thumbnail > * > div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    padding: 12px 6px;
+}
+
+.dateitse-company-thumbnail > * > div > span {
+    opacity: .25;
+    font-family: Lora, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 12px;
+    left: 6px;
+}
+
+/* SM */
+@media (max-width: 768px) {
+    .dateitse-company-thumbnail {
+        margin: 5px auto;
+    }
+
+    .dateitse-attributes {
+        border: none;
+        border-radius: 0;
+        padding: 0;
+        margin-bottom: 0;
+        color: white;
+    }
+
+    .dateitse-attributes:last-child {
+        border-top: 1px solid #ccc;
+    }
+
+    .dateitse-attribute {
+        margin: 10px;
+    }
+
+}
+
+/* SM */
+@media (min-width: 768px) {
+    .dateitse-company-thumbnail > * > img {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+@media (min-width: 768px) {
+    .dateitse-attribute {
+        font-size: 12px;
+    }
+}
+
+/* MD */
+@media (min-width: 992px) {
+    .dateitse-company-thumbnail > * > img {
+        width: 185px;
+        height: 185px;
+    }
+}
+
+/* LG */
+@media (min-width: 1200px) {
+    .dateitse-company-thumbnail > * > img {
+        width: 205px;
+        height: 205px;
+    }
+}

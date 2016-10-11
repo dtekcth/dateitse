@@ -1,15 +1,15 @@
 // Developed by Chalmers Teknologkonsulter (CTK) for DatE-IT in 2016
 // Tel: 031-772 8332
 // Mail: info(at)ctk(dot)se
-angular.module('dateitse.catalogFactory', [])
+angular.module('dateitse.catalog.companyFactory', [])
 
-  .factory('catalogFactory', catalogFactory)
+  .factory('companyFactory', companyFactory)
 
 ;
 
-catalogFactory.$inject = ['$http'];
+companyFactory.$inject = ['$http'];
 
-function catalogFactory($http) {
+function companyFactory($http) {
 
   var factory = {
     GetCompanies: GetCompanies,
@@ -21,15 +21,15 @@ function catalogFactory($http) {
 
   // Callback is optional
   function GetCompanies() {
-
+    factory.companies = [];
     // Fetch the data from the companies.json file
     return $http.get('../data/companies.json').then(function (response) {
       // TODO: Use
       // factory.companies = response.data;
       mockData(response.data);
-    }, function (response) {
+    }, function (error) {
 
-      console.log(response);
+      console.log(error);
 
     });
   }
