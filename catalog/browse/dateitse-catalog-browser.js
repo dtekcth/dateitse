@@ -2,6 +2,14 @@ angular.module('dateitse.catalog.browser', [
   'dateitse.catalog.company-filter'
 ])
 
+  .config(function ($stateProvider) {
+    $stateProvider.state('catalog.browser', {
+      url: '/catalog',
+      controller: 'BrowserController as vm',
+      templateUrl: 'browse/dateitse-catalog-browser.tpl.html'
+    });
+  })
+
   .controller('BrowserController', BrowserController)
 
 ;

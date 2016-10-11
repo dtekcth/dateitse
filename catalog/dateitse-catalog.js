@@ -30,10 +30,6 @@ angular.module('dateitse', [
         }
       },
       template: '<ui-view></ui-view>'
-    }).state('catalog.browser', {
-      url: '/catalog',
-      controller: 'BrowserController as vm',
-      templateUrl: 'browse/dateitse-catalog-browser.tpl.html'
     });
   })
 
