@@ -7,7 +7,7 @@ angular.module('dateitse.catalog.browser')
 function dateitseAttribute() {
   var directive = {
     restrict: 'E',
-    templateUrl: 'browse/dateitse-attribute.tpl.html',
+    templateUrl: 'browse/attribute.tpl.html',
     scope: {
       attributes: '='
     }

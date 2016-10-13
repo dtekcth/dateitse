@@ -18,7 +18,7 @@ angular.module('dateitse.company', [
         }
       },
       controller: 'CompanyController as vm',
-      templateUrl: 'company/dateitse-company-details.html'
+      templateUrl: 'company/company-details.html'
     });
   })
 

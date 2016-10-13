@@ -7,7 +7,7 @@ angular.module('dateitse.company')
 function dateitseCompanyThumbnail() {
   var directive = {
     restrict: 'E',
-    templateUrl: 'company/dateitse-company-thumbnail.tpl.html',
+    templateUrl: 'company/company-thumbnail.tpl.html',
     scope: {
       company: '=dateitseData'
     },
@@ -32,7 +32,7 @@ function dateitseCompanyThumbnail() {
     var random = getRandom();
     var inverseRandom = Math.floor(random - (randomColors.length / 2) % (randomColors.length - 1));
 
-    scope.logo = 'http://placehold.it/300x300' + '/' + randomColors[random] + '/' + randomColors[inverseRandom];
+    scope.logo = scope.company.smallImage;
   }
 
 }

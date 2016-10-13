@@ -6,7 +6,7 @@ angular.module('dateitse.catalog.browser', [
     $stateProvider.state('catalog.browser', {
       url: '/catalog',
       controller: 'BrowserController as vm',
-      templateUrl: 'browse/dateitse-catalog-browser.tpl.html'
+      templateUrl: 'browse/catalog-browser.tpl.html'
     });
   })
 
@@ -31,8 +31,8 @@ function BrowserController() {
 
   // Available educations
   vm.educations = [
-    { title: "Elektroteknik", selected: false },
-    { title: "Datateknik", selected: false },
-    { title: "Informationsteknik", selected: false }
+    { title: "Electrical Engineering", selected: false },
+    { title: "Computer Science", selected: false },
+    { title: "Software Engineering", selected: false }
   ];
 }

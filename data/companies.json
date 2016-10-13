@@ -1,41 +1,59 @@
 [
   {
-    "name": "3bits Consulting AB",
-    "businessField": "E-commerce Consulting",
-    "employees": "30",
-    "website": "www.3bits.se",
-    "contact": "jobb@3bits.se",
-    "description": "<b>Vill du utveckla moderna e-handelslösningar tillsammans med oss på 3bits?</b><p>3bits grundades 2008, vi är 30 personer som brinner för e-handel och utvecklar tillsammans med våra kunder avancerade webb- och e-handelslösningar – allt från webb till logistik. Vi har fått förtroendet att leverera olika lösningar under många år till  era av våra framgångsrika kunder som Lindex, Tingstad, Focus Nordic och Scandinavian Photo. Vi är mycket väl insatta i hela processen och bygger e-handel som om den vore vår egen.</p><p>Vi genomför våra projekt in house eftersom vi tror att närhet till kollegor och gemenskap är viktigt både för arbetsmiljön och för ett effektivt samarbete. Det centrala kontoret i Göteborg har plats för  er när vi växer. Hos oss får du möjlighet att arbeta med aktuell teknik och spännande projekt tillsammans med dina kollegor i utvecklingsteamet.</p><p>Vi har tagit emot utmärkelsen Superföretag 2014 av Veckans affärer och Bisnode som en av få e-handelsleverantörer i Sverige. 3bits fanns även för andra året i rad med som Gasellföretag 2014, som utses av Dagens industri.</p><p>Är du intresserad av att göra ditt exjobb hos oss eller av en anställning på 3bits? Kom förbi vår monter och prata mer, eller skicka ditt CV till jobb@3bits.se.</p>",
+    "name": "Squeed AB",
+    "businessField": "System development",
+    "employees": "54",
+    "website": "<a href=\"http://www.squeed.com\" target=\"_blank\">www.squeed.com</a>",
+    "contact": "Tomas Trolltoft<br><a href=\"mailto:tomas.trolltoft@squeed.com\">tomas.trolltoft@squeed.com</a><br>0709723864",
+    "description": "<p>Squeed AB är mjukvarubolaget som gör skillnad. För dig, för kunden och för hela branschen!<br>Vi satsar stort på anställdas kompetensutveckling och det märks. När andra bolag skickar folk på konferenser som deltagare åker Squeeders dit för att tala. I skrivande stund har vi 3 talare på JavaOne i San Francisco, världens största Javakonferens. Inget företag har fler utvecklare än oss på IDG:s lista över Sveriges vassaste utvecklare.</p><p>Squeeders jobbar med systemutveckling, arkitekturfrågor och agila metoder. Vår vardag består främst av Java, Microsoft .NET, webb och open source. Vi är ute som konsulter och bygger det våra kunder vill ha men arbetar också med att ta fram nya tjänster och produkter. Vi har skapat en innovationskraft där varje medarbetare hjälper till med att ta fram nya affärsidéer i form av produkter och tjänster. Denna innovationskraft leder och utvecklar individen och företaget.<br>Vi är samarbetspartners till Connect Väst där vi bidrar med teknisk expertis till framtidens unicorns.</p><p>Squeed är djupt engagerade i communityn kring mjukvaruutveckling och driver Javaforum, nforum mm. Vi finns i Göteborg & Stockholm där vi behöver fler ambitiösa utvecklare som vill vara med att uppnå ”Achieve the Amazing”.</p><p>We are growing. So can you!</p>",
     "educations": [
-      "E",
-      "D"
+      "Electrical Engineering",
+      "Computer Science"
     ],
     "positions": [
-      "MSc Thesis"
+      "MSc Thesis",
+      "Full-time job"
     ],
-    "smallImage": "",
-    "largeImage": "https://i.gyazo.com/682b8608d82a771d88a208029b2d6093.png",
+    "smallImage": "../img/squeed/squeed_logo.gif",
+    "largeImage": "../img/squeed/squeed_a4.jpg",
     "location": ""
   },
   {
-    "name": "Academic Work",
-    "businessField": "Staffing & Recruitment",
-    "employees": "630+ in Sweden",
-    "website": "www.academicwork.se",
-    "contact": "Amanda Jarl<br>amanda.jarl@academicwork.se<br>+46 - 72 640 21 29",
-    "description": "<p>Academic Work is Home of the Young Professionals. We work with staffing and recruitment of students and graduates in the start of their careers. It is our niche, our area of expertise and a target group we believe in. We operate in six countries, have a turnover of 1.6 billion SEK and mediate over 14 000 jobs each year. We are interested in you who study or have graduated, with up to five years of work experience. Through us, you can get stimulating work opportunities within various industries, establish important contacts for the future and get a great start of you career.</p><p>In our booth you will get information about current positions and assignments fitted for your personal interest. We are here to answer your questions and can even help you to improve your resume and cover letter.</p>",
+    "name": "Contexture AB",
+    "businessField": "Information Logistics, Product Information Management, Software Development and Consulting",
+    "employees": "38",
+    "website": "<a href=\"http://www.c4contexture.com\" target=\"_blank\">www.c4contexture.com</a>",
+    "contact": "Bengt Wass, Consultant Manager/HR<br><a href=\"mailto:bengt.wass@c4contexture.com\">bengt.wass@c4contexture.com</a><br>+4670-2655340<br><br>Helen Apelqvist, Project Manager Göteborg<br><a href=\"mailto:helen.apelqvist@c4contexture.com\">helen.apelqvist@c4contexture.com</a><br>+46 70 265 53 42",
+    "description": "<p>As experts in information logistics, we create value for our customers by simplifying, structuring and improving the quality of complex information structures. Through our experience and knowledge, we help our customers in selected industries to enhance their digital presence and clarify communications to free up capital, increase revenues and improve their business.</p><p>Our services are based on our C4 Contexture concept:<ul><li>PIM (Product Information Management) software</li><li>Various services and solutions for meeting our customers’ needs</li><li>A well-developed process for integration and project management</li><li>Staff with expertise to ensure maximum impact for our customers’ operations in each assignment</li></ul><p><p>Our basic values express our customer promises: We are competent, we collaborate, we are candid and we collaborate.</p><p>Our vision is to be a leader in information logistics.</p>",
     "educations": [
-      "E",
-      "IT"
+      "Computer Science",
+      "Software Engineering"
     ],
     "positions": [
-      "Trainee",
-      "Summer job",
-      "Part-time job",
+      "MSc Thesis",
       "Full-time job"
     ],
-    "smallImage": "",
-    "largeImage": "https://i.gyazo.com/feeb1c8f09b985be3aefd587e5657660.png",
+    "smallImage": "../img/contexture/contexture_logo.png",
+    "largeImage": "../img/contexture/contexture_a4.jpg",
+    "location": ""
+  },
+  {
+    "name": "Google Inc",
+    "businessField": "Google Inc",
+    "employees": "67000",
+    "website": "<a href=\"http://www.google.com\" target=\"_blank\">www.google.com</a>",
+    "contact": "<a href=\"mailto:exie@google.com\">exie@google.com</a>",
+    "description": "<p>Larry Page once described the “perfect search engine” as something that “understands exactly what you mean and gives you back exactly what you want.” Since then, Google has grown to offer products beyond search, but the spirit of what he said remains. With all our technologies our goal is to make it as easy as possible for you to find the information you need and get the things you need to do done.<br>This means making search smarter and faster, so it can understand that when you type [jaguar] you’re looking for the car, not photos of the animal. It means showing you when your friends like an ad or a search result, so that you know it might be valuable. It means making our products work intuitively, so that you can share documents with Gmail contacts without having to copy and paste, and open the same tabs on your Android phone that you have open on your Chrome browser on your desktop. Above all, it means making our products work better so that people can spend time on the stuff they’re good at—like enjoying time with family, camping in the wilderness, painting a picture or throwing a party.</p>",
+    "educations": [
+      "Computer Science",
+      "Software Engineering"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/google/google_logo.png",
+    "largeImage": "../img/google/google_a4.png",
     "location": ""
   }
 ]

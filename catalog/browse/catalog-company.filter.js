@@ -13,19 +13,7 @@ function companyFilter() {
     // Prepare the educations array to match that of the companies
     angular.forEach(query.educations, function (education) {
       if (education.selected) {
-        switch (education.title) {
-          case 'Elektroteknik':
-            searchEducations.push('E');
-            break;
-          case 'Datateknik':
-            searchEducations.push('D');
-            break;
-          case 'Informationsteknik':
-            searchEducations.push('IT');
-            break;
-          default:
-            break;
-        }
+        searchEducations.push(education.title);
       }
     });
 
