@@ -103,5 +103,113 @@
       "Full-time job"
     ],
     "smallImage": "../img/canea_logo.png"
+  },
+  {
+    "name": "Combitech",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/combitech_logo.png"
+  },
+  {
+    "name": "Cybercom AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/cybercom_logo.png"
+  },
+  {
+    "name": "Enfo AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/enfo_logo.png"
+  },
+  {
+    "name": "Ghost AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/ghost_logo.png"
+  },
+  {
+    "name": "Jeppesen AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/jeppesen_logo.png"
+  },
+  {
+    "name": "Knowit AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/knowit_logo.png"
+  },
+  {
+    "name": "Opera",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/opera_logo.png"
+  },
+  {
+    "name": "Purple Scout AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/purple_scout_logo.png"
+  },
+  {
+    "name": "SAAB AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/saab_logo.png"
   }
 ]

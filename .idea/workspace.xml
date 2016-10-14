@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="605b7873-59b6-4c84-9979-4b21437c026d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/browse/attribute.directive.js" afterPath="$PROJECT_DIR$/catalog/browse/attribute.directive.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/browse/catalog-browser.js" afterPath="$PROJECT_DIR$/catalog/browse/catalog-browser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/browse/catalog-browser.tpl.html" afterPath="$PROJECT_DIR$/catalog/browse/catalog-browser.tpl.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/catalog.css" afterPath="$PROJECT_DIR$/catalog/catalog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/company.factory.js" afterPath="$PROJECT_DIR$/catalog/company.factory.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/company/company-thumbnail.directive.js" afterPath="$PROJECT_DIR$/catalog/company/company-thumbnail.directive.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/catalog/company/company-thumbnail.tpl.html" afterPath="$PROJECT_DIR$/catalog/company/company-thumbnail.tpl.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/companies.json" afterPath="$PROJECT_DIR$/data/companies.json" />
     </list>
     <ignored path="dateitse.iws" />
@@ -36,8 +29,8 @@
       <file leaf-file-name="catalog.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/catalog/catalog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+            <state relative-caret-position="98">
+              <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -116,8 +109,8 @@
       <file leaf-file-name="companies.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/companies.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="809">
-              <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
+            <state relative-caret-position="15">
+              <caret line="128" column="39" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -187,10 +180,10 @@
         <option value="$PROJECT_DIR$/catalog/browse/catalog-browser.js" />
         <option value="$PROJECT_DIR$/catalog/company/company-thumbnail.tpl.html" />
         <option value="$PROJECT_DIR$/catalog/company/company-thumbnail.directive.js" />
-        <option value="$PROJECT_DIR$/data/companies.json" />
         <option value="$PROJECT_DIR$/catalog/company.factory.js" />
-        <option value="$PROJECT_DIR$/catalog/catalog.css" />
         <option value="$PROJECT_DIR$/catalog/browse/catalog-browser.tpl.html" />
+        <option value="$PROJECT_DIR$/data/companies.json" />
+        <option value="$PROJECT_DIR$/catalog/catalog.css" />
       </list>
     </option>
   </component>
@@ -486,12 +479,12 @@
       <workItem from="1476345821255" duration="1443000" />
       <workItem from="1476347992420" duration="730000" />
       <workItem from="1476355396762" duration="1068000" />
-      <workItem from="1476429543797" duration="2675000" />
+      <workItem from="1476429543797" duration="3146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63823000" />
+    <option name="totallyTimeSpent" value="64294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
@@ -798,14 +791,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/companies.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="809">
-          <caret line="104" column="31" selection-start-line="104" selection-start-column="31" selection-end-line="104" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/catalog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -854,10 +839,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/companies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="128" column="39" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/catalog/catalog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="72" column="21" selection-start-line="72" selection-start-column="21" selection-end-line="72" selection-end-column="21" />
+        <state relative-caret-position="98">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
           <folding />
         </state>
       </provider>

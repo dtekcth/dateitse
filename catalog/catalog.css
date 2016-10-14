@@ -58,7 +58,7 @@
 /* Companies */
 .dateitse-companies {
     /* Prevent vertical gaps */
-    line-height: 0;
+    line-height: 9em;
 
     -webkit-column-gap: 0;
     -moz-column-gap: 0;
@@ -103,11 +103,12 @@
 }
 
 .dateitse-company-thumbnail div > span {
-    top: 50%;
     font-family: Lora, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     position: relative;
+    display: block;
+    height: 100%;
 }
 
 .dateitse-company-thumbnail:hover div {
