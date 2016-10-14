@@ -45,72 +45,73 @@
     transition: all .2s ease-in-out;
 }
 
-.dateitse-attribute > input {
+.dateitse-attribute label {
+    margin: 0;
+    max-width: 75%
+}
+
+.dateitse-attribute input {
     float: right;
+    max-width: 25%
 }
 
 /* Companies */
 .dateitse-companies {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
     /* Prevent vertical gaps */
     line-height: 0;
 
-    -webkit-column-count: 5;
-    -webkit-column-gap:   0;
-    -moz-column-count:    5;
-    -moz-column-gap:      0;
-    column-count:         5;
-    column-gap:           0;
+    -webkit-column-gap: 0;
+    -moz-column-gap: 0;
+    column-gap: 0;
+}
+
+.dateitse-single-company {
+    display: flex;
+}
+
+.dateitse-no-companies {
+    margin-top: 50px;
+    display: flex;
 }
 
 .dateitse-company-thumbnail {
     max-height: 300px;
     max-width: 300px;
-    display: inline-flex;
     position: relative;
     margin: 5px;
-    -webkit-transition: all .2s ease-in-out;
-    -moz-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out;
     cursor: pointer;
 }
 
-.dateitse-company-thumbnail:hover {
-    background-color: rgba(0, 0, 0, 0.2) !important;
+.dateitse-company-thumbnail img {
+    width: 100% !important;
+    height: auto !important;
 }
 
-.dateitse-company-thumbnail:hover > * > img {
-    opacity: .5;
-}
-
-.dateitse-company-thumbnail:hover > * > div > span {
-    opacity: 1;
-}
-
-.dateitse-company-thumbnail > * > img {
-    max-height: 205px;
-    max-width: 205px;
-}
-
-.dateitse-company-thumbnail > * > div {
+.dateitse-company-thumbnail div {
     position: absolute;
+    background-color: rgba(248, 248, 248, .8);
+    opacity: 0;
     top: 0;
     left: 0;
     height: 100%;
     width: 100%;
     padding: 12px 6px;
+    text-align: center;
+    -webkit-transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    transition: opacity .2s ease-in-out;
 }
 
-.dateitse-company-thumbnail > * > div > span {
-    opacity: .25;
+.dateitse-company-thumbnail div > span {
+    top: 50%;
     font-family: Lora, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    position: absolute;
-    bottom: 12px;
-    left: 6px;
+    position: relative;
+}
+
+.dateitse-company-thumbnail:hover div {
+    opacity: 1;
 }
 
 /* SM */
@@ -139,9 +140,10 @@
 
 /* SM */
 @media (min-width: 768px) {
-    .dateitse-company-thumbnail > * > img {
-        max-width: 150px;
-        max-height: 150px;
+    .dateitse-companies {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
     }
 }
 
@@ -153,16 +155,18 @@
 
 /* MD */
 @media (min-width: 992px) {
-    .dateitse-company-thumbnail > * > img {
-        max-width: 185px;
-        max-height: 185px;
+    .dateitse-companies {
+        -webkit-column-count: 3;
+        -moz-column-count: 3;
+        column-count: 3;
     }
 }
 
 /* LG */
 @media (min-width: 1200px) {
-    .dateitse-company-thumbnail > * > img {
-        max-width: 205px;
-        max-height: 205px;
+    .dateitse-companies {
+        -webkit-column-count: 4;
+        -moz-column-count: 4;
+        column-count: 4;
     }
 }

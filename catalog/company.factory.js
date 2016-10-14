@@ -24,6 +24,7 @@ function companyFactory($http) {
     factory.companies = [];
     // Fetch the data from the companies.json file
     return $http.get('../data/companies.json').then(function (response) {
+      // factory.companies.push(response.data[1]);
       factory.companies = response.data;
     }, function (error) {
 

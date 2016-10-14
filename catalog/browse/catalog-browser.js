@@ -33,6 +33,6 @@ function BrowserController() {
   vm.educations = [
     { title: "Electrical Engineering", selected: false },
     { title: "Computer Science", selected: false },
-    { title: "Software Engineering", selected: false }
+    { title: "Information Technology", selected: false }
   ];
 }

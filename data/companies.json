@@ -20,14 +20,14 @@
   },
   {
     "name": "Contexture AB",
-    "businessField": "Information Logistics, Product Information Management, Software Development and Consulting",
+    "businessField": "Information Logistics<br>Product Information Management<br>Software Development and Consulting",
     "employees": "38",
     "website": "<a href=\"http://www.c4contexture.com\" target=\"_blank\">www.c4contexture.com</a>",
     "contact": "Bengt Wass, Consultant Manager/HR<br><a href=\"mailto:bengt.wass@c4contexture.com\">bengt.wass@c4contexture.com</a><br>+4670-2655340<br><br>Helen Apelqvist, Project Manager Göteborg<br><a href=\"mailto:helen.apelqvist@c4contexture.com\">helen.apelqvist@c4contexture.com</a><br>+46 70 265 53 42",
     "description": "<p>As experts in information logistics, we create value for our customers by simplifying, structuring and improving the quality of complex information structures. Through our experience and knowledge, we help our customers in selected industries to enhance their digital presence and clarify communications to free up capital, increase revenues and improve their business.</p><p>Our services are based on our C4 Contexture concept:<ul><li>PIM (Product Information Management) software</li><li>Various services and solutions for meeting our customers’ needs</li><li>A well-developed process for integration and project management</li><li>Staff with expertise to ensure maximum impact for our customers’ operations in each assignment</li></ul><p><p>Our basic values express our customer promises: We are competent, we collaborate, we are candid and we collaborate.</p><p>Our vision is to be a leader in information logistics.</p>",
     "educations": [
       "Computer Science",
-      "Software Engineering"
+      "Information Technology"
     ],
     "positions": [
       "MSc Thesis",
@@ -46,7 +46,7 @@
     "description": "<p>Larry Page once described the “perfect search engine” as something that “understands exactly what you mean and gives you back exactly what you want.” Since then, Google has grown to offer products beyond search, but the spirit of what he said remains. With all our technologies our goal is to make it as easy as possible for you to find the information you need and get the things you need to do done.<br>This means making search smarter and faster, so it can understand that when you type [jaguar] you’re looking for the car, not photos of the animal. It means showing you when your friends like an ad or a search result, so that you know it might be valuable. It means making our products work intuitively, so that you can share documents with Gmail contacts without having to copy and paste, and open the same tabs on your Android phone that you have open on your Chrome browser on your desktop. Above all, it means making our products work better so that people can spend time on the stuff they’re good at—like enjoying time with family, camping in the wilderness, painting a picture or throwing a party.</p>",
     "educations": [
       "Computer Science",
-      "Software Engineering"
+      "Information Technology"
     ],
     "positions": [
       "Internship",
@@ -55,5 +55,53 @@
     "smallImage": "../img/google/google_logo.png",
     "largeImage": "../img/google/google_a4.png",
     "location": ""
+  },
+  {
+    "name": "Accenture AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/accenture_logo.png"
+  },
+  {
+    "name": "Appear TV AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/appear_tv_logo.png"
+  },
+  {
+    "name": "Bekk",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/bekk_logo.png"
+  },
+  {
+    "name": "Canea AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/canea_logo.png"
   }
 ]
