@@ -7,7 +7,7 @@ angular.module('dateitse.company')
 function dateitseCompanyThumbnail() {
   var directive = {
     restrict: 'E',
-    templateUrl: 'company/company-thumbnail.tpl.html',
+    templateUrl: 'browse/company-thumbnail.tpl.html',
     replace: true,
     scope: {
       company: '=dateitseData'

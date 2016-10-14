@@ -12,20 +12,8 @@
 }
 
 /* Search */
-.dateitse-search-form > div > div > span {
-    cursor: pointer;
-}
-
-.dateitse-search-form > div > div > span:hover {
-    background-color: rgba(0, 0, 0, .25);
-    color: #eee;
-}
 
 /* Filters */
-.dateitse-attributes-bar {
-    /*margin-left: -15px;*/
-    /*padding-left: 0;*/
-}
 
 .dateitse-attributes {
     border: 1px solid #ccc;
@@ -40,12 +28,20 @@
 
 .dateitse-attribute {
     text-align: center;
+    margin-bottom: 0;
+    padding: 6px 12px;
+    border-radius: 4px;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
 }
 
+.dateitse-attribute:hover {
+    background: rgba(0, 0, 0, .1);
+}
+
 .dateitse-attribute label {
+    cursor: pointer;
     margin: 0;
     max-width: 75%
 }
