@@ -10,7 +10,6 @@ angular.module('dateitse.company', [
       resolve: {
         companyPromise: function ($q, companyFactory, $stateParams) {
           var deferred = $q.defer();
-          // deferred.resolve(companyFactory.GetCompanyByName($stateParams.companyName));
           companyFactory.GetCompanies().then(function () {
             deferred.resolve(companyFactory.GetCompanyByName($stateParams.companyName));
           });
@@ -32,5 +31,13 @@ function CompanyController($window, companyPromise) {
   var vm = this;
   $window.scrollTo(0, 0);
   vm.company = companyPromise;
+
+  vm.viewLargeImage = function (imgURL) {
+    vm.currentLargeImage = imgURL;
+  };
+
+  vm.dismissLargeImage = function () {
+    vm.currentLargeImage = '';
+  }
 }
 
