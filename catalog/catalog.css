@@ -11,9 +11,7 @@
     min-height: 80vh;
 }
 
-/* Search */
-
-/* Filters */
+/* Filters & Attributes */
 
 .dateitse-attributes {
     border: 1px solid #ccc;
@@ -130,7 +128,7 @@
     }
 
     .dateitse-attribute {
-        margin: 10px;
+        margin: 5px;
     }
 
 }
@@ -168,6 +166,7 @@
     }
 }
 
+/* Company details page */
 .dateitse-company-a4-thumbnail {
     text-align: center;
 }
@@ -204,4 +203,8 @@
     left: 50%;
     /* bring your own prefixes */
     transform: translate(-50%, -50%);
+}
+
+.dateitse-company-information > div > div > span {
+    font-size: 16px;
 }

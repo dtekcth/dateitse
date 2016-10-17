@@ -20,7 +20,7 @@
             <img ng-src="{{vm.company.largeImage}}" ng-click="vm.viewLargeImage(vm.company.largeImage)"/>
         </div>
         <!-- Informative row -->
-        <div class="row">
+        <div class="row dateitse-company-information">
 
             <!-- Various information -->
             <div class="col-lg-4">
@@ -67,10 +67,8 @@
         <hr style="width: 100%">
 
         <!-- Description -->
-        <div class="row">
-            <div class="row">
-                <p ng-bind-html="vm.company.description"></p>
-            </div>
+        <div class="row dateitse-company-description">
+            <p ng-bind-html="vm.company.description"></p>
         </div>
     </div>
 
