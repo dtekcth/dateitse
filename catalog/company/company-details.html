@@ -16,7 +16,7 @@
     <!-- Main content -->
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
         <!-- Thumbnail image -->
-        <div class="row dateitse-company-a4-thumbnail">
+        <div class="row dateitse-company-a4-thumbnail" data-ng-show="vm.company.largeImage">
             <img ng-src="{{vm.company.largeImage}}" ng-click="vm.viewLargeImage(vm.company.largeImage)"/>
         </div>
         <!-- Informative row -->
@@ -56,9 +56,9 @@
 
             <!-- EDIT house location -->
             <div class="col-lg-4">
-                <div class="row dateitse-company-location">
+                <div class="row dateitse-company-location" ng-show="vm.company.locationImage">
                     <h5>EDIT Location</h5>
-                    <img src="http://placehold.it/300x300" ng-click="vm.viewLargeImage('http://placehold.it/300x300')"/>
+                    <img ng-src="{{vm.company.locationImage}}" ng-click="vm.viewLargeImage(vm.company.locationImage)"/>
                 </div>
             </div>
 

@@ -16,7 +16,7 @@
     ],
     "smallImage": "../img/squeed/squeed_logo.gif",
     "largeImage": "../img/squeed/squeed_a4.jpg",
-    "location": ""
+    "locationImage": "http://placehold.it/300x300"
   },
   {
     "name": "Contexture AB",
@@ -35,7 +35,7 @@
     ],
     "smallImage": "../img/contexture/contexture_logo.png",
     "largeImage": "../img/contexture/contexture_a4.jpg",
-    "location": ""
+    "locationImage": "http://placehold.it/300x150"
   },
   {
     "name": "Google Inc",
@@ -54,7 +54,7 @@
     ],
     "smallImage": "../img/google/google_logo.png",
     "largeImage": "../img/google/google_a4.png",
-    "location": ""
+    "locationImage": "http://placehold.it/150x300"
   },
   {
     "name": "Accenture AB",

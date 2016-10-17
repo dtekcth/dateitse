@@ -176,11 +176,8 @@
     cursor: pointer;
 }
 
-.dateitse-company-location {
-    cursor: pointer;
-}
-
 .dateitse-company-location img {
+    cursor: pointer;
     max-width: 300px;
 }
 
