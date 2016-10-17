@@ -34,5 +34,12 @@ This route can easily later on be replaced by a backend call that
 fetches the companies from a database instead.
 
 #Browse
+Every file in the browse folder makes up the catalog browsing view.
+
+In here you'll find intial setup of the view (catalog-browser.js) 
+directives for the attribute filters in addition to the company 
+thumbnails that are displayed in the grid.
 
 #Company
+When clicking on a company in the catalog browser, you'll reach the company
+details page. The contents of the company folder makes up for this view.

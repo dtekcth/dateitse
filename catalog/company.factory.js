@@ -24,7 +24,6 @@ function companyFactory($http) {
     factory.companies = [];
     // Fetch the data from the companies.json file
     return $http.get('../data/companies.json').then(function (response) {
-      // factory.companies.push(response.data[1]);
       factory.companies = response.data;
     }, function (error) {
 
@@ -37,6 +36,9 @@ function companyFactory($http) {
     return getArrayEntryByName(factory.companies, name);
   }
 
+
+  // Compare by name
+  // If further development is done, this should be a backend call instead
   function getArrayEntryByName(array, name) {
     for (var i = 0; i < array.length; i++) {
       if (array[i].name === name) {
