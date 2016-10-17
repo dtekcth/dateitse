@@ -57,6 +57,8 @@
     -webkit-column-gap: 0;
     -moz-column-gap: 0;
     column-gap: 0;
+    -webkit-column-break-inside: avoid;
+    min-height: 100%;
 }
 
 .dateitse-single-company {
