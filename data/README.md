@@ -25,7 +25,7 @@ Please use the following template when adding more companies:
         ],
         "smallImage": "The small image to display for the company",
         "largeImage": "The large image to display for the company",
-        "location": "An URL to the image displaying the location in the EDIT-building"
+        "locationImage": "An URL to the image displaying the location in the EDIT-building"
     }
     
 For the sections and positions array, it is of important that the entries 
