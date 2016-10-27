@@ -142,9 +142,7 @@
         -moz-column-count: 2;
         column-count: 2;
     }
-}
 
-@media (min-width: 768px) {
     .dateitse-attribute {
         font-size: 12px;
     }

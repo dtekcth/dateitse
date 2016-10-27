@@ -242,7 +242,10 @@ hr {
     -moz-animation-timing-function: linear;
 }
 
-/* Rectangular button that looks like the circle */
+/* Additions made by Chalmers Teknologkonsulter (CTK)
+Rectangular button that looks like the circle
+*/
+
 .btn-rectangle {
     width: 420px;
     height: 70px;
@@ -256,6 +259,14 @@ hr {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
+}
+
+@media (max-width: 768px) {
+    .btn-rectangle {
+        width: 300px;
+        font-size: 28px;
+        height: 55px;
+    }
 }
 
 @-webkit-keyframes pulse {
