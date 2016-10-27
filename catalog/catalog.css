@@ -169,11 +169,17 @@
 /* Company details page */
 .dateitse-company-a4-thumbnail {
     text-align: center;
+    cursor: pointer;
 }
 
 .dateitse-company-a4-thumbnail img {
     max-width: 100px;
-    cursor: pointer;
+}
+
+.dateitse-company-a4-thumbnail span {
+    font-style: italic;
+    text-align: center;
+    font-size: 80%;
 }
 
 .dateitse-company-location img {
