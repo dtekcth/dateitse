@@ -1,0 +1,213 @@
+/*
+    DatE-IT Catalog CSS
+        Developed by Chalmers Teknologkonsulter (CTK) for DatE-IT in 2016
+        Tel: 031-772 8332
+        Mail: info(at)ctk(dot)se
+*/
+
+/* Catalog */
+.dateitse-catalog-content {
+    margin-top: 80px;
+    min-height: 80vh;
+}
+
+/* Filters & Attributes */
+
+.dateitse-attributes {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 6px;
+    margin-bottom: 10px;
+}
+
+.dateitse-attribute:last-child {
+    margin-bottom: 0;
+}
+
+.dateitse-attribute {
+    text-align: center;
+    margin-bottom: 0;
+    padding: 6px 12px;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.dateitse-attribute:hover {
+    background: rgba(0, 0, 0, .1);
+}
+
+.dateitse-attribute label {
+    cursor: pointer;
+    margin: 0;
+    max-width: 75%
+}
+
+.dateitse-attribute input {
+    float: right;
+    max-width: 25%
+}
+
+/* Companies */
+.dateitse-companies {
+    /* Prevent vertical gaps */
+    line-height: 9em;
+
+    -webkit-column-gap: 0;
+    -moz-column-gap: 0;
+    column-gap: 0;
+    -webkit-column-break-inside: avoid;
+    min-height: 100%;
+}
+
+.dateitse-single-company {
+    display: flex;
+}
+
+.dateitse-no-companies {
+    margin-top: 50px;
+    display: flex;
+}
+
+.dateitse-company-thumbnail {
+    max-height: 300px;
+    max-width: 300px;
+    position: relative;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.dateitse-company-thumbnail img {
+    width: 100% !important;
+    height: auto !important;
+}
+
+.dateitse-company-thumbnail div {
+    position: absolute;
+    background-color: rgba(248, 248, 248, .8);
+    opacity: 0;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    padding: 12px 6px;
+    text-align: center;
+    -webkit-transition: opacity .2s ease-in-out;
+    -moz-transition: opacity .2s ease-in-out;
+    transition: opacity .2s ease-in-out;
+}
+
+.dateitse-company-thumbnail div > span {
+    font-family: Lora, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: relative;
+    display: block;
+    height: 100%;
+}
+
+.dateitse-company-thumbnail:hover div {
+    opacity: 1;
+}
+
+/* SM */
+@media (max-width: 767px) {
+    .dateitse-company-thumbnail {
+        margin: 5px auto;
+    }
+
+    .dateitse-attributes {
+        border: none;
+        border-radius: 0;
+        padding: 0;
+        margin-bottom: 0;
+        color: white;
+    }
+
+    .dateitse-attributes:last-child {
+        border-top: 1px solid #ccc;
+    }
+
+    .dateitse-attribute {
+        margin: 5px;
+    }
+
+}
+
+/* SM */
+@media (min-width: 768px) {
+    .dateitse-companies {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+    }
+
+    .dateitse-attribute {
+        font-size: 12px;
+    }
+}
+
+/* MD */
+@media (min-width: 992px) {
+    .dateitse-companies {
+        -webkit-column-count: 3;
+        -moz-column-count: 3;
+        column-count: 3;
+    }
+}
+
+/* LG */
+@media (min-width: 1200px) {
+    .dateitse-companies {
+        -webkit-column-count: 4;
+        -moz-column-count: 4;
+        column-count: 4;
+    }
+}
+
+/* Company details page */
+.dateitse-company-a4-thumbnail {
+    text-align: center;
+    cursor: pointer;
+}
+
+.dateitse-company-a4-thumbnail img {
+    max-width: 100px;
+}
+
+.dateitse-company-a4-thumbnail span {
+    font-style: italic;
+    text-align: center;
+    font-size: 80%;
+}
+
+.dateitse-company-location img {
+    cursor: pointer;
+    max-width: 300px;
+}
+
+.dateitse-backdrop {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 10000;
+    background-color: rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+.dateitse-cover-image img {
+    max-height: 95vh;
+    max-width: 95vw;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+.dateitse-company-information > div > div > span {
+    font-size: 16px;
+}

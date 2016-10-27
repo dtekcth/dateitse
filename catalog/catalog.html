@@ -1,0 +1,118 @@
+<!-- Developed by Chalmers Teknologkonsulter (CTK) for DatE-IT in 2016 -->
+<!-- Tel: 031-772 8332 -->
+<!-- Mail: info(at)ctk(dot)se -->
+
+<!DOCTYPE html>
+<html lang="en" ng-app="dateitse">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>DatE-IT 2016</title>
+
+    <link rel="icon" type="img/ico" href="../img/favicon.ico">
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../css/date_it.css" rel="stylesheet">
+
+    <!-- Catalog CSS -->
+    <link href="../catalog/catalog.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="../font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet"
+          type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans" id="google-font-selector" rel="stylesheet"
+          type="text/css">
+    </div>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+<!-- Navigation -->
+<nav class="navbar navbar-custom navbar-fixed-top hidden-xs" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand page-scroll" href="../index.html#page-top">
+                <i class="fa fa-play-circle"></i> <span class="light">DatE-IT</span> 2016
+            </a>
+        </div>
+    </div>
+</nav>
+
+<div class="dateitse-catalog-content container">
+    <ui-view></ui-view>
+</div>
+
+<!-- Footer -->
+<footer>
+    <div class="container text-center">
+        <p>Copyright &copy; DatE-IT 2015</p>
+        <small>Developed by</small>
+        <br>
+        <img src="../img/ctk_logo.png" height="20">
+    </div>
+</footer>
+
+<!-- jQuery Version 1.11.0 -->
+<script src="../js/jquery-1.11.0.js"></script>
+
+<!-- AngularJS Version 1.5.6 -->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.js"></script>
+
+<!-- Angular UI Router Version 0.3.1-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.3.1/angular-ui-router.js"></script>
+
+<!-- ngAnimate for AngularJS Version 1.5.6 -->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular-animate.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular-touch.min.js"></script>
+
+<!-- ngSanitize Version 1.5.8 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.5.8/angular-sanitize.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="../js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="../js/jquery.easing.min.js"></script>
+
+<!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/
+ <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+-->
+
+<!-- Custom Theme JavaScript -->
+<script src="../js/grayscale.js"></script>
+
+<!-- Local core modules -->
+<script src="catalog.js"></script>
+<script src="company.factory.js"></script>
+<script src="browse/catalog-browser.js"></script>
+<script src="company/company.js"></script>
+
+<!-- Local sub modules -->
+<script src="browse/catalog-company.filter.js"></script>
+<script src="browse/attribute.directive.js"></script>
+<script src="browse/company-thumbnail.directive.js"></script>
+
+
+</body>
+
+</html>

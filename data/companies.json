@@ -1,0 +1,215 @@
+[
+  {
+    "name": "Squeed AB",
+    "businessField": "System development",
+    "employees": "54",
+    "website": "<a href=\"http://www.squeed.com\" target=\"_blank\">www.squeed.com</a>",
+    "contact": "Tomas Trolltoft<br><a href=\"mailto:tomas.trolltoft@squeed.com\">tomas.trolltoft@squeed.com</a><br>0709723864",
+    "description": "<p>Squeed AB är mjukvarubolaget som gör skillnad. För dig, för kunden och för hela branschen!<br>Vi satsar stort på anställdas kompetensutveckling och det märks. När andra bolag skickar folk på konferenser som deltagare åker Squeeders dit för att tala. I skrivande stund har vi 3 talare på JavaOne i San Francisco, världens största Javakonferens. Inget företag har fler utvecklare än oss på IDG:s lista över Sveriges vassaste utvecklare.</p><p>Squeeders jobbar med systemutveckling, arkitekturfrågor och agila metoder. Vår vardag består främst av Java, Microsoft .NET, webb och open source. Vi är ute som konsulter och bygger det våra kunder vill ha men arbetar också med att ta fram nya tjänster och produkter. Vi har skapat en innovationskraft där varje medarbetare hjälper till med att ta fram nya affärsidéer i form av produkter och tjänster. Denna innovationskraft leder och utvecklar individen och företaget.<br>Vi är samarbetspartners till Connect Väst där vi bidrar med teknisk expertis till framtidens unicorns.</p><p>Squeed är djupt engagerade i communityn kring mjukvaruutveckling och driver Javaforum, nforum mm. Vi finns i Göteborg & Stockholm där vi behöver fler ambitiösa utvecklare som vill vara med att uppnå ”Achieve the Amazing”.</p><p>We are growing. So can you!</p>",
+    "educations": [
+      "Electrical Engineering",
+      "Computer Science"
+    ],
+    "positions": [
+      "MSc Thesis",
+      "Full-time job"
+    ],
+    "smallImage": "../img/squeed/squeed_logo.gif",
+    "largeImage": "../img/squeed/squeed_a4.jpg",
+    "locationImage": "http://placehold.it/300x300"
+  },
+  {
+    "name": "Contexture AB",
+    "businessField": "Information Logistics<br>Product Information Management<br>Software Development and Consulting",
+    "employees": "38",
+    "website": "<a href=\"http://www.c4contexture.com\" target=\"_blank\">www.c4contexture.com</a>",
+    "contact": "Bengt Wass, Consultant Manager/HR<br><a href=\"mailto:bengt.wass@c4contexture.com\">bengt.wass@c4contexture.com</a><br>+4670-2655340<br><br>Helen Apelqvist, Project Manager Göteborg<br><a href=\"mailto:helen.apelqvist@c4contexture.com\">helen.apelqvist@c4contexture.com</a><br>+46 70 265 53 42",
+    "description": "<p>As experts in information logistics, we create value for our customers by simplifying, structuring and improving the quality of complex information structures. Through our experience and knowledge, we help our customers in selected industries to enhance their digital presence and clarify communications to free up capital, increase revenues and improve their business.</p><p>Our services are based on our C4 Contexture concept:<ul><li>PIM (Product Information Management) software</li><li>Various services and solutions for meeting our customers’ needs</li><li>A well-developed process for integration and project management</li><li>Staff with expertise to ensure maximum impact for our customers’ operations in each assignment</li></ul><p><p>Our basic values express our customer promises: We are competent, we collaborate, we are candid and we collaborate.</p><p>Our vision is to be a leader in information logistics.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "MSc Thesis",
+      "Full-time job"
+    ],
+    "smallImage": "../img/contexture/contexture_logo.png",
+    "largeImage": "../img/contexture/contexture_a4.jpg",
+    "locationImage": "http://placehold.it/300x150"
+  },
+  {
+    "name": "Google Inc",
+    "businessField": "Google Inc",
+    "employees": "67000",
+    "website": "<a href=\"http://www.google.com\" target=\"_blank\">www.google.com</a>",
+    "contact": "<a href=\"mailto:exie@google.com\">exie@google.com</a>",
+    "description": "<p>Larry Page once described the “perfect search engine” as something that “understands exactly what you mean and gives you back exactly what you want.” Since then, Google has grown to offer products beyond search, but the spirit of what he said remains. With all our technologies our goal is to make it as easy as possible for you to find the information you need and get the things you need to do done.<br>This means making search smarter and faster, so it can understand that when you type [jaguar] you’re looking for the car, not photos of the animal. It means showing you when your friends like an ad or a search result, so that you know it might be valuable. It means making our products work intuitively, so that you can share documents with Gmail contacts without having to copy and paste, and open the same tabs on your Android phone that you have open on your Chrome browser on your desktop. Above all, it means making our products work better so that people can spend time on the stuff they’re good at—like enjoying time with family, camping in the wilderness, painting a picture or throwing a party.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/google/google_logo.png",
+    "largeImage": "../img/google/google_a4.png",
+    "locationImage": "http://placehold.it/150x300"
+  },
+  {
+    "name": "Accenture AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/accenture_logo.png"
+  },
+  {
+    "name": "Appear TV AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/appear_tv_logo.png"
+  },
+  {
+    "name": "Bekk",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/bekk_logo.png"
+  },
+  {
+    "name": "Canea AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/canea_logo.png"
+  },
+  {
+    "name": "Combitech",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/combitech_logo.png"
+  },
+  {
+    "name": "Cybercom AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/cybercom_logo.png"
+  },
+  {
+    "name": "Enfo AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/enfo_logo.png"
+  },
+  {
+    "name": "Ghost AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/ghost_logo.png"
+  },
+  {
+    "name": "Jeppesen AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/jeppesen_logo.png"
+  },
+  {
+    "name": "Knowit AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/knowit_logo.png"
+  },
+  {
+    "name": "Opera",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/opera_logo.png"
+  },
+  {
+    "name": "Purple Scout AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/purple_scout_logo.png"
+  },
+  {
+    "name": "SAAB AB",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship",
+      "Full-time job"
+    ],
+    "smallImage": "../img/saab_logo.png"
+  }
+]
