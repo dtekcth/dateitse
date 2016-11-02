@@ -32,7 +32,7 @@ For the sections and positions array, it is of important that the entries
 match exactly as the search function looks for the exact string (case sensitive).
 
 For sections, use any of the following (where applicable):
-"E", "D" or "IT"
+"Electrical Engineering", "Computer Science", "Information Technology"
 
 For positions, use any of the following (where applicable):
 "Trainee", "MSc Thesis", "Internship", "Summer job", "Part-time job" or 
