@@ -14,7 +14,7 @@
     "positions": [
       "Trainee", "Internship", "Summer job", "Part-time job","Full-time job"
     ],
-    "smallImage": "../img/academicwork/academicwork_logo.jpg",
+    "smallImage": "../img/academicwork/academicwork_logo.png",
     "largeImage": "../img/academicwork/academicwork_a5.jpg",
     "locationImage": "../img/montermaps/1.jpg"
   },
@@ -51,7 +51,7 @@
     "positions": [
       "Internship", "Full-time job"
     ],
-    "smallImage": "../img/accenture/accenture_logo.jpg",
+    "smallImage": "../img/accenture/accenture_logo.png",
     "largeImage": "../img/accenture/accenture_a5.jpg",
     "locationImage": "../img/montermaps/23.jpg"
   },
@@ -71,7 +71,7 @@
       "MSc Thesis",
       "Full-time job"
     ],
-    "smallImage": "../img/af/af_logo.jpg",
+    "smallImage": "../img/af/af_logo.png",
     "largeImage": "../img/af/af_a5.jpg",
     "locationImage": "../img/montermaps/47.jpg"
   },
@@ -92,7 +92,7 @@
       "Full-time job",
       "Part-time job"
     ],
-    "smallImage": "../img/alten/alten_logo.jpg",
+    "smallImage": "../img/alten/alten_logo.png",
     "largeImage": "../img/alten/alten_a5.png",
     "locationImage": "../img/montermaps/13.jpg"
   },
@@ -133,7 +133,7 @@
       "Summer job",
       "Trainee"
     ],
-    "smallImage": "../img/aros/aros_logo.jpg",
+    "smallImage": "../img/aros/aros_logo.png",
     "largeImage": "../img/aros/aros_a5.png",
     "locationImage": "../img/montermaps/45.jpg"
   },
@@ -190,7 +190,7 @@
       "MSc Thesis",
       "Full-time job"
     ],
-    "smallImage": "../img/canea/canea_logo.jpg",
+    "smallImage": "../img/canea/canea_logo.png",
     "largeImage": "../img/canea/canea_a5.jpg",
     "locationImage": "../img/montermaps/14.jpg"
   },
@@ -358,7 +358,7 @@
       "Msc Thesis",
       "Full-time job"
     ],
-    "smallImage": "../img/diadrom/diadrom_logo.jpg",
+    "smallImage": "../img/diadrom/diadrom_logo.png",
     "largeImage": "../img/diadrom/diadrom_a5.png",
     "locationImage": "../img/montermaps/38.jpg"
   },
@@ -401,7 +401,7 @@
       "Summer job",
       "Full-time job"
     ],
-    "smallImage": "../img/ericsson/ericsson_logo2.gif",
+    "smallImage": "../img/ericsson/ericsson_logo2.png",
     "largeImage": "../img/ericsson/ericsson_a5.jpg",
     "locationImage": "../img/montermaps/6.jpg"
   },
@@ -421,7 +421,7 @@
       "MSc Thesis",
       "Full-time job"
     ],
-    "smallImage": "../img/evidente/evidente_logo.jpg",
+    "smallImage": "../img/evidente/evidente_logo.png",
     "largeImage": "../img/evidente/evidente_a5.jpg",
     "locationImage": "../img/montermaps/27.jpg"
   },
@@ -521,7 +521,7 @@
       "MSc Thesis",
       "Full-time job"
     ],
-    "smallImage": "../img/i3tex/i3tex_logo.jpg",
+    "smallImage": "../img/i3tex/i3tex_logo.png",
     "largeImage": "../img/i3tex/i3tex_a5.jpg",
     "locationImage": "../img/montermaps/12.jpg"
   },
@@ -582,7 +582,7 @@
       "Internship",
       "Full-time job"
     ],
-    "smallImage": "../img/jeppesen/jeppesen_logo.jpg",
+    "smallImage": "../img/jeppesen/jeppesen_logo.png",
     "largeImage": "../img/jeppesen/jeppesen_a5.jpg",
     "locationImage": "../img/montermaps/36.jpg"
   },
@@ -639,7 +639,7 @@
       "Summer job",
       "Full-time job"
     ],
-    "smallImage": "../img/netlight/netlight_logo.jpg",
+    "smallImage": "../img/netlight/netlight_logo.png",
     "largeImage": "../img/netlight/netlight_a5.png",
     "locationImage": "../img/montermaps/4.jpg"
   },
@@ -660,7 +660,7 @@
       "Internship",
       "Full-time job"
     ],
-    "smallImage": "../img/nevs/nevs_logo.jpg",
+    "smallImage": "../img/nevs/nevs_logo.png",
     "largeImage": "../img/nevs/nevs_a5.jpg",
     "locationImage": "../img/montermaps/46.jpg"
   },
@@ -699,7 +699,7 @@
       "Internship",
       "Full-time job"
     ],
-    "smallImage": "../img/palantir/palantir_logo.jpg",
+    "smallImage": "../img/palantir/palantir_logo.png",
     "largeImage": "../img/palantir/palantir_a5.jpg",
     "locationImage": "../img/montermaps/7.jpg"
   },
@@ -719,7 +719,7 @@
       "MSc Thesis",
       "Full-time job"
     ],
-    "smallImage": "../img/pelagicore/pelagicore_logo.jpg",
+    "smallImage": "../img/pelagicore/pelagicore_logo.png",
     "largeImage": "../img/pelagicore/pelagicore_a5.png",
     "locationImage": "../img/montermaps/33.jpg"
   },
@@ -757,7 +757,7 @@
       "MSc Thesis",
       "Full-time job"
     ],
-    "smallImage": "../img/qrtech/qrtech_logo.jpg",
+    "smallImage": "../img/qrtech/qrtech_logo.png",
     "largeImage": "../img/qrtech/qrtech_a5.jpg",
     "locationImage": "../img/montermaps/34.jpg"
   },
@@ -883,7 +883,7 @@
       "MSc Thesis",
       "Full-time job"
     ],
-    "smallImage": "../img/squeed/squeed_logo.gif",
+    "smallImage": "../img/squeed/squeed_logo.png",
     "largeImage": "../img/squeed/squeed_a5.jpg",
     "locationImage": "../img/montermaps/2.jpg"
   },
@@ -903,7 +903,7 @@
       "MSc Thesis",
       "Full-time job"
     ],
-    "smallImage": "../img/swedspot/swedspot_logo.jpg",
+    "smallImage": "../img/swedspot/swedspot_logo.png",
     "largeImage": "../img/swedspot/swedspot_a5.jpg",
     "locationImage": "../img/montermaps/39.jpg"
   },
@@ -923,7 +923,7 @@
       "MSc Thesis",
       "Full-time job"
     ],
-    "smallImage": "../img/syntronic/syntronic_logo.jpg",
+    "smallImage": "../img/syntronic/syntronic_logo.png",
     "largeImage": "../img/syntronic/syntronic_a5.jpg",
     "locationImage": "../img/montermaps/32.jpg"
   },
