@@ -14,982 +14,137 @@
     "positions": [
       "Trainee", "Internship", "Summer job", "Part-time job","Full-time job"
     ],
-    "smallImage": "../img/academicwork/academicwork_logo.png",
-    "largeImage": "../img/academicwork/academicwork_a5.jpg",
-    "locationImage": "../img/montermaps/1.jpg"
+    "smallImage": "../img/academicwork/academicwork_logo.png"
   },
   {
-    "name": "Acando",
-    "businessField": "Management & IT consulting",
-    "employees": "1600",
-    "website": "<a href=\"http://www.acando.se\" target=\"_blank\">www.acando.se</a>",
-    "contact": "Sanna Rosell<br><a href=\"mailto:Trainee@acando.com\">Trainee@acando.com</a>",
-    "description": "<p>Acando is a leading Management and IT consulting firm whose mission is to work with its clients to create business value by improving and streamlining processes, organizations and digital solutions. What distinguishes us is our ability to combine expertise in strategy and business with solid technical expertise and a keen understanding of organizations. Acando offers one of the most popular Trainee Programs on the market. We look forward to seeing you at Date-it!</p>",
-    "educations": [
-      "Information Technology",
-      "Computer Science"
-    ],
-    "positions": [
-      "Trainee", "Internship"
-    ],
-    "smallImage": "../img/acando/acando_logo.png",
-    "largeImage": "../img/acando/acando_a5.jpg",
-    "locationImage": "../img/montermaps/41.jpg"
-  },
-  {
-    "name": "Accenture",
-    "businessField": "IT<br>Management<br>Outsourcing",
-    "employees": "About 900 in Sweden and 375,000 globally",
-    "website": "<a href=\"http://www.accenture.se/career\" target=\"_blank\">www.accenture.se/career</a>",
-    "contact": "Hanna Kraft<br><a href=\"mailto:hanna.kraft@accenture.com\">hanna.kraft@accenture.com</a><br>+46730513778",
-    "description": "<p>Accenture is a global management consulting, IT and outsourcing company, with approximately 375,000 employees serving clients in over 120 countries. Combining unparalleled experience, comprehensive capabilities across all industries and business functions, and extensive research on the world's most successful companies, we help our clients become high-performance businesses and organizations.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Internship", "Full-time job"
-    ],
-    "smallImage": "../img/accenture/accenture_logo.png",
-    "largeImage": "../img/accenture/accenture_a5.jpg",
-    "locationImage": "../img/montermaps/23.jpg"
-  },
-  {
-    "name": "ÅF AB",
-    "businessField": "IT/Embedded",
-    "employees": "9000",
-    "website": "<a href=\"http://www.afconsult.com\" target=\"_blank\">www.afconsult.com</a>",
-    "contact": "Anna Strebel<br><a href=\"mailto:anna.strebel@afconsult.com\">anna.strebel@afconsult.com</a><br>0730429341",
-    "description": "<p>ÅF är ett ingenjörs- och konsultföretag med uppdrag inom energi, industri och infrastruktur. Sedan 1895 har vi bidragit till våra kunders utveckling och framgång. Genom att kombinera olika teknikområden och kompetenser skapar vi lönsamma, innovativa och hållbara lösningar för en bättre framtid. Vår bas är i Europa men vår verksamhet och våra kunder finns i hela världen.<br>ÅF – Innovation by experience.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/af/af_logo.png",
-    "largeImage": "../img/af/af_a5.jpg",
-    "locationImage": "../img/montermaps/47.jpg"
-  },
-  {
-    "name": "Alten",
-    "businessField": "Consultant Company",
-    "employees": "1200",
-    "website": "<a href=\"http://www.alten.se\" target=\"_blank\">www.alten.se</a>",
-    "contact": "Sara Henriksson<br><a href=\"mailto: sara.henriksson@alten.se\">sara.henriksson@alten.se</a><br>031-7251144",
-    "description": "<p>At Alten Sweden we develop and deliver expertise for world-leading companies and have a committed team of engineers and IT consultants. Our customers are found in the Energy, Telecom, Automotive, Defence & Aerospace and other industries and we cover the whole product development cycle. We are a part of the Alten Group and have a workforce of over 20.000 in 20 countries.<br><br>We believe that genuine commitment comes through freedom of choice and the opportunity to have a say in one's own professional development. Our business model offers that opportunity. This freedom of choice enables us to offer our customers the very best consultants, regardless of assignment.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job",
-      "Part-time job"
-    ],
-    "smallImage": "../img/alten/alten_logo.png",
-    "largeImage": "../img/alten/alten_a5.png",
-    "locationImage": "../img/montermaps/13.jpg"
-  },
-  {
-    "name": "Altran Sverige AB",
-    "employees": "500",
-    "website": "<a href=\"http://www.altran.se\" target=\"_blank\">www.altran.se</a>",
-    "contact": "Josefin Forsberg<br><a href=\"mailto:josefin.forsberg@altran.com\">josefin.forsberg@altran.com</a>",
-    "description": "<p>Altran är ett världsledande konsultbolag inom innovation och högteknologisk R&D. Vi utvecklar tillsammans med våra kunder framtidens produkter och tjänster. Under mer än 30 år har Altran levererat lösningar till ledande företag och organisationer inom sektorer som rymd, fordon, energi, järnväg, finans, hälsovård och telekom.<br><br>Genom att omfatta alla faser av produkt- och tjänsteutveckling, från strategisk planering till slutprodukt, har Altran en ledande position inom fem lösningsområden: Intelligent Systems, Innovative Product Development, Lifecycle Experience, Mechanical Engineering och Information Systems.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job",
-      "Trainee"
-    ],
-    "smallImage": "../img/altran/altran_logo.png",
-    "largeImage": "../img/altran/altran_a5.jpg",
-    "locationImage": "../img/montermaps/37.jpg"
-  },
-  {
-    "name": "Aros Electronics AB",
-    "businessField": "Electronics<br> Mechatronics<br> Embedded systems<br>Electrical drive systems<br>Control systems<br>Electric power",
-    "employees": "150",
-    "website": "<a href=\"http://www.aros.se\" target=\"_blank\">www.aros.se</a>",
-    "contact": "Magnus Wide<br><a href=\"mailto:mw@aros.se\">mw@aros.se</a><br>+46 31 776 82 24",
-    "description": "<p>Aros Electronics AB provides totally integrated solutions including electrical motors, mechanics and control electronics to customers all over the world. Drawing strength from our in-house development and production, we are focusing on applications for custom unique electrical drive systems. Some of the applications where we deliver motor controllers are windshield wiper systems, industrial doors, carpet weaving machines, steering control for boats and trucks. We are developing mechatronic solutions with a multi-disciplinary approach, which allows for you as an employee to broaden your competence.<br><br>Aros is a great place for students to perform their master thesis projects because of the company’s welcoming attitude for new ideas. Aros offers a lot of interesting master thesis projects that can be found on our webpage. Some master thesis projects performed at Aros are design of a self-balancing robot, an inductive charging system, autonomous agents and much more!<br><br>Aros is a part of the Van de Wiele group, which opens up the possibilities for international work and commitments. The company is located in Mölndal, where 140 coworkers generate a turn-over of MSEK 310.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Summer job",
-      "Trainee"
-    ],
-    "smallImage": "../img/aros/aros_logo.png",
-    "largeImage": "../img/aros/aros_a5.png",
-    "locationImage": "../img/montermaps/45.jpg"
-  },
-  {
-    "name": "BEKK",
-    "businessField": "IT Consulting",
-    "employees": "400",
-    "website": "<a href=\"http://www.bekk.no\" target=\"_blank\">www.bekk.no</a>",
-    "contact": "Anja K. Lønningen<br><a href=\"mailto:anja.k.lonningen@bekk.no\">anja.k.lonningen@bekk.no</a><br>+47 982 19 415",
-    "description": "<p>Om BEKK<br>BEKK er et norsk selskap som lykkes på grunn av dyktige mennesker.<br>Vi jobber med teknologi, design og strategi og tror på tverrfaglige team og evnen til å tenke annerledes slik at vi kan skape verdi for våre kunder.<br><br>Våre ansattes faglige utvikling er avgjørende for at BEKK skal fortsette å være ledende innen våre fagområder.<br>I tillegg til et sterkt fagmiljø får du ta del i et sosialt og inkluderende arbeidsmiljø preget av høy trivsel, engasjement og en sterk delingskultur.<br><br>Jobbe i BEKK?<br>For fast jobb eller sommerjobb i 2017, se bekk.no/jobb.<br><br>Nysgjerrig på livet i BEKK?<br>Følg oss på Snapchat og Instagram: «livetibekk»!</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Summer job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/bekk/bekk_logo.png",
-    "largeImage": "../img/bekk/bekk_a5.png",
-    "locationImage": "../img/montermaps/8.jpg"
-  },
-  {
-    "name": "C4 Contexture AB",
-    "businessField": "Information Logistics<br>Product Information Management<br>Software Development and Consulting",
-    "employees": "38",
-    "website": "<a href=\"http://www.c4contexture.com\" target=\"_blank\">www.c4contexture.com</a>",
-    "contact": "Bengt Wass, Consultant Manager/HR<br><a href=\"mailto:bengt.wass@c4contexture.com\">bengt.wass@c4contexture.com</a><br>+4670-2655340<br><br>Helen Apelqvist, Project Manager Göteborg<br><a href=\"mailto:helen.apelqvist@c4contexture.com\">helen.apelqvist@c4contexture.com</a><br>+46 70 265 53 42",
-    "description": "<p>As experts in information logistics, we create value for our customers by simplifying, structuring and improving the quality of complex information structures. Through our experience and knowledge, we help our customers in selected industries to enhance their digital presence and clarify communications to free up capital, increase revenues and improve their business.</p><p>Our services are based on our C4 Contexture concept:<ul><li>PIM (Product Information Management) software</li><li>Various services and solutions for meeting our customers’ needs</li><li>A well-developed process for integration and project management</li><li>Staff with expertise to ensure maximum impact for our customers’ operations in each assignment</li></ul><p><p>Our basic values express our customer promises: We are competent, we collaborate, we are candid and we collaborate.</p><p>Our vision is to be a leader in information logistics.</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/contexture/contexture_logo.png",
-    "largeImage": "../img/contexture/contexture_a5.jpg",
-    "locationImage": "../img/montermaps/48.jpg"
-  },
-  {
-    "name": "CANEA Partner Group AB",
+    "name": "CANEA Partner Group",
     "businessField": "Software Development",
-    "employees": "70",
-    "website": "<a href=\"http://www.canea.se/it-losningar\" target=\"_blank\">www.canea.se/it-losningar</a>",
-    "contact": "Lars Olsson<br><a href=\"mailto:lars.olsson@canea.se\">lars.olsson@canea.se</a><br>010-4590032",
-    "description": "<p>At CANEA we have developed great products – and they are very well-loved by the market. But of course we don’t settle. We want to continue to develop, grow and evolve with new modules and features, with even more intuitive interface and rapid user interactions. Therefore we are looking for more IT-talents to join our team.<br><br>We are really proud of our product CANEA ONE, a system that helps our customers become more efficient in their daily work through integrated management of strategies, projects, processes, cases and documents. Our systems are characterized by easy to use interface, innovative functionality and flexible configuration.<br><br>As an employee, you are part of a highly skilled team in a creative and motivating environment, where you will be involved in creating the next generation of web-based tools. We offer you talented colleagues, dedicated time for innovation and personal development, a seaside office in central Gothenburg as well as challenging work.</p>",
+    "employees": "80",
+    "website": "<a href=\"http://www.canea.se\" target=\"_blank\">www.canea.se</a>",
+    "contact": "Marie Almgren<br><a href=\"mailto:marie.almgren@canea.se\">marie.almgren@canea.se</a><br>0727170053",
+    "description": "<p>At CANEA, we are developing great products, very well loved by the market. Our systems are characterized by easy to use interface, innovative functionality and flexible configuration. However, we do not settle. We want to continue to develop, grow and evolve with new modules and features, with even more intuitive interface and rapid user interactions. Therefore, we are looking for more IT-talents to join our team. <br><br> As an employee, you are part of a highly skilled team in a creative and motivating environment, where you will be involved in creating the next generation of web-based tools. We offer you talented colleagues, dedicated time for innovation and personal development, a seaside office in central Gothenburg as well as challenging work.</p>",
     "educations": [
       "Computer Science",
       "Information Technology"
     ],
     "positions": [
-      "MSc Thesis",
-      "Full-time job"
+      "Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/canea/canea_logo.png",
-    "largeImage": "../img/canea/canea_a5.jpg",
-    "locationImage": "../img/montermaps/14.jpg"
+    "smallImage": "../img/canea/canea_logo.png"
   },
   {
-    "name": "Consat",
-    "businessField": "IT<br>Embedded<br>Connectivity<br>Automotive<br>Industry<br>ITS for Public Transportation<br>Energy",
-    "employees": "200",
-    "website": "<a href=\"http://www.consat.se\" target=\"_blank\">www.consat.se</a>",
-    "contact": "Stefan Engström<br><a href=\"mailto:stefan.engstrom@consat.se\">stefan.engstrom@consat.se</a><br>+46313400090",
-    "description": "<p>We are about 200 engineers with a passion for technology. We are working to find innovative technological solutions that strengthen our customers’ competitiveness and increase their profitability.<br>Thanks to long experience, high competence and creativity, our strength lies in the areas of software development, electronics and systems, telematics, industrial automation and within energy technology.<br>Independently or in collaboration with our network, we perform complete development projects or subprojects with enthusiasm, creativity and performance as key ingredients.</p>",
+    "name": "Capgemini",
+    "businessField": "Information Technology and Services",
+    "employees": "190 000",
+    "website": "<a href=\"http://www.capgemini.com\" target=\"_blank\">www.capgemini.com</a>",
+    "contact": "Maria Lidgren<br><a href=\"mailto:maria.lidgren@capgemini.com\">maria.lidgren@capgemini.com</a><br>0735320949",
+    "description": "<p>With more than 190,000 people, Capgemini is present in over 40 countries and celebrates its 50th Anniversary year in 2017. A global leader in consulting, technology and outsourcing services, the Group reported 2016 global revenues of EUR 12.5 billion. Together with its clients, Capgemini creates and delivers business, technology and digital solutions that fit their needs, enabling them to achieve innovation and competitiveness. A deeply multicultural organization, Capgemini has developed its own way of working, the Collaborative Business Experience™, and draws on Rightshore®, its worldwide delivery model. </p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Trainee", "Full-time job"
+    ],
+    "smallImage": "../img/capgemini/capgemini_logo.png"
+  },
+  {
+    "name": "Emerson",
+    "businessField": "Technology; Radar based level measuring",
+    "employees": "360",
+    "website": "<a href=\"http://www.emerson.com\" target=\"_blank\">www.emerson.com</a>",
+    "contact": "Frida Svenningsson<br><a href=\"mailto:frida.svenningsson@emerson.com\">frida.svenningsson@emerson.com</a><br>0733870656",
+    "description": "<p>Emerson, Rosemount Tank Radar AB, i Göteborg, är världsledande inom radarbaserad nivåmätning för tankfartyg, raffinaderier, tankterminaler och processindustri. Företaget har 360 anställda, omsätter ca 1,1 miljarder SEK där 98 procent går på export. <br><br> Vi satsar för framtiden och flyttade nyligen vår verksamhet till helt nybyggda och moderna lokaler i Mölnlycke företagspark. <br><br>Rosemount Tank Radar är en del av Emerson, en högteknologisk världsomspännande koncern med över 111 000 anställda och mer än 22,3 miljarder USD i omsättning. Läs mer om Rosemount Tank Radar AB på www.emerson.com/gothenburg</p>",
     "educations": [
       "Electrical Engineering",
       "Computer Science",
       "Information Technology"
     ],
     "positions": [
-      "MSc Thesis",
-      "Full-time job"
+      "MSc Thesis", "Summer job", "Part-time job","Full-time job"
     ],
-    "smallImage": "../img/consat/consat_logo.png",
-    "largeImage": "../img/consat/consat_a5.jpg",
-    "locationImage": "../img/montermaps/11.jpg"
+    "smallImage": "../img/emerson/emerson_logo.png"
   },
   {
-    "name": "Consid AB",
-    "businessField": "IT & Management<br>Consultancy",
-    "employees": "350",
-    "website": "<a href=\"http://www.consid.se\" target=\"_blank\">www.consid.se</a>",
-    "contact": "Goran Nikolic<br><a href=\"mailto:goran.nikolic@consid.se\">goran.nikolic@consid.se</a><br>0708-59 25 94",
-    "description": "<p>Consid is an IT and Management consultancy that specializes in software development and implementation projects - we are working with both the technology and how our clients can make money on it. We streamline and optimize our clients' operations and profitability and provides the skill they lack.</p>",
+    "name": "Endeavor",
+    "businessField": "Affärs- och CRM-system",
+    "employees": "30",
+    "website": "<a href=\"http://www.endeavor.se\" target=\"_blank\">www.endeavor.se</a>",
+    "contact": "Ulrica Gertmo<br><a href=\"mailto:ulrica.gertmo@endeavor.se\">ulrica.gertmo@endeavor.se</a><br>0735198836",
+    "description": "<p>Endeavor looks for you who may not know everything, but is commited and likes challenges. You are also a solution-focused, professional and communicative team player who constantly wants to learn more. At Endeavor we strive to keep our employees engaged and motivated through giving responsibility, expecting curiosity and by encouraging the dare to fail to succeed. We work hard to make it fun to go to work and promote a healthy balance between work and leisure. <br><br> Being part of Endeavor means that you work with systematizing, streamlining and simplifying our customers' business processes in Microsoft Dynamics. With innovative services and products, we help our customers achieve higher productivity and increased profitability. Since the start in 2013, we have built up an organization with strong expertise and high growth. Today we are 29 dedicated colleagues with offices in Gothenburg, Stockholm and Jönköping. Are you your no. 30? Let’s meet up at DatE-IT and find out!</p>",
     "educations": [
       "Computer Science",
       "Information Technology"
     ],
     "positions": [
-      "Trainee",
-      "MSc Thesis",
-      "Summer job",
-      "Part-time job",
-      "Full-time job"
+      "Part-time job","Full-time job"
     ],
-    "smallImage": "../img/consid/consid_logo.png",
-    "largeImage": "../img/consid/consid_a5.png",
-    "locationImage": "../img/montermaps/24.jpg"
-  },
-  
-  {
-    "name": "CPAC Systems",
-    "businessField": "Automotive & Marine; System integration in safety critical control systems",
-    "employees": "120",
-    "website": "<a href=\"http://www.cpacsystems.se\" target=\"_blank\">www.cpacsystems.se</a>",
-    "contact": "Anders Pihl<br><a href=\"mailto:career@cpacsystems.se\">career@cpacsystems.se</a><br>+46 (0) 31-352 16 00",
-    "description": "<p>CPAC Systems is an independent company within the<br>Volvo Group. We are passionate about turning advanced technology<br>into industrialized solutions for our end customers.<br><br>Working with system integration in safety critical control systems, we have a proven track record of developing and industrializing differentiating technology within maneuvering, X-by-wire systems, autonomy, HMI and hybrids. <br><br>Our corporate culture has been one of our key success factors. It is<br>characterized by strong entrepreneurship, responsibility, openness and<br>lack of prestige. To thrive here, we believe that you need to like working<br>in a creative and fast paced environment with all its pros and cons.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Internship",
-      "Summer job",
-      "Part-time job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/cpac/cpac_logo.png",
-    "largeImage": "../img/cpac/cpac_a5.png",
-    "locationImage": "../img/montermaps/16.jpg"
-  },
-  {
-    "name": "Crepido",
-    "businessField": "Consultancy<br>Business<br>Development<br>IT",
-    "employees": "40",
-    "website": "<a href=\"http://www.crepido.com\" target=\"_blank\">www.crepido.com</a>",
-    "contact": "Jakob Stewén<br><a href=\"mailto:jakob.stewen@crepido.com\">jakob.stewen@crepido.com</a><br>0704173365",
-    "description": "<p>Crepido is a consultancy that combines innovation and business deals with technological development. We help our clients to meet new challenges, to develop new business models by adding expertise, insights, engagement, improved profitability and an energy level that makes us stand out from the crowd.<br><br>Whatever the size of the assignment, we take responsibility for the entire chain from analysis through to implementation and the impact on our clients’ financial results.<br><br>Our basic values. Dare to say no. Always look for a yes. Never get stuck in a maybe.<br><br>Dare to say no. We have high integrity and say what we think. We promise our customers that we can improve their bottom line, so we must also suggest solutions that we believe in.<br><br>Always look for a yes. We are solutions oriented and there is always at least one solution to every challenge. Just as important as to dare to say no is to dare to suggest a solution and to stand behind it.<br><br>Never get stuck in a maybe. “Time is money” was the advice given by scientist, businessman and politician Benjamin Franklin (1706–1790) to a young businessman. It’s good advice to follow. There’s nothing wrong with tossing ideas back and forth but it’s important that something concrete emerges out of every discussion.</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Internship",
-      "Summer job",
-      "Part-time job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/crepido/crepido_logo.png",
-    "largeImage": "../img/crepido/crepido_a5.png",
-    "locationImage": "../img/montermaps/19.jpg"
-  },
-  {
-    "name": "Cygni",
-    "businessField": "IT consultant",
-    "employees": "90",
-    "website": "<a href=\"http://www.cygni.se\" target=\"_blank\">www.cygni.se</a>",
-    "contact": "Ann-Sofie Rolandsdotter<br><a href=\"mailto:ann-sofie.rolandsdotter@cygni.se\">ann-sofie.rolandsdotter@cygni.se</a><br>072 302 08 59",
-    "description": "<p>Are you creative, social, user-centered, tech-focused, or all-of-the-above? Then you might be the next star @Cygni!<br><br>Cygni is an IT consulting company founded in 2006. We offer expertise in agile system development on modern platforms. Cygni is located in Stockholm and Gothenburg. Most assignments Cygni perform is on-site with our customers, but our offices acts as natural gathering places for meetings, after-works and other activities.<br><br>In Cygni, you can work with everything from fullstack development, frontend and UX/design.<br><br>Cygni is Sweden's Best Workplace (www.greatplacetowork.se), of course, we have the best IT consultants!<br><br>Our ambition is to be the best employer of skilled consultants who work with digital solutions. We provide an environment that enables all employees to constantly evolve in the right direction.<br><br>We focus hard on skills development. The consultants will continously produce a solid development plan together with their manager and follow up carefully.<br><br>But most important, at Cygni we work together! We will help and inspire each other. The entire company is agile operated where team spirit, brain circulation and a inspiring work culture is built into our DNA.<br><br>And…we have fun! Check this out <a href=\"https://cygni.se/snake/\" target=\"_blank\">cygni.se/snake</a></p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Trainee",
-      "Full-time job"
-    ],
-    "smallImage": "../img/cygni/cygni_logo.png",
-    "largeImage": "../img/cygni/cygni_a5.png",
-    "locationImage": "../img/montermaps/17.jpg"
-  },
-  {
-    "name": "Delphi",
-    "businessField": "Automotive",
-    "employees": "260",
-    "website": "<a href=\"http://www.delphi.com\" target=\"_blank\">www.delphi.com</a>",
-    "contact": "Daniel Henriksson<br><a href=\"mailto:daniel.henriksson@delphi.com\">daniel.henriksson@delphi.com</a><br>0704739609",
-    "description": "<p>Tradition melds with tomorrow’s technology in Gothenburg. Delphi Sweden has decades of experience supporting the global automotive market with products ranging from software for infotainment and driver interfaces, active safety systems, wiring harnesses, to body electronics. With over 250 employees locally, Delphi Sweden is in an expansive phase and a recognized leader in the drive towards our vision of Safe, Green, and Connected.<br><br>At Electronics & Safety we offer exciting career opportunities in the fields of Software and Systems Engineering, Project Management, Sales, and Engineering Leadership, both locally and globally. You’ll be exposed to exciting innovative technologies, enthusiastic colleagues, and a multi-cultural, dynamic environment.<br><br>Did you know…<br>- Today’s cars have 50-100 million lines of code? That’s 4 times as much as the F-35 fighter, and 7 times that of the Android operating system. <br>- Our autonomous car Roadrunner made history as the first automated car to drive coast to coast in the US, a distance of over 3400 miles?<br>- Our CTO Jeff Owens recently gave a passionate speech at TEDx Detroit about being an engineer?<br>- Delphi is putting Las Vegas slot machine technology into cars with amazing 3D instrument clusters?</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Summer job",
-      "Part-time job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/delphi/delphi_logo.png",
-    "largeImage": "../img/delphi/delphi_a5.png",
-    "locationImage": "../img/montermaps/21.jpg"
-  },
-  {
-    "name": "DevPort AB",
-    "businessField": "Electricity<br>Energy & Power<br>Product Development<br>Data & IT<br>Manufacturin<br>Logistics<br>Quality",
-    "employees": "200",
-    "website": "<a href=\"http://www.devport.se\" target=\"_blank\">www.devport.se</a>",
-    "contact": "Therese Nilsson<br><a href=\"mailto:therese.nilsson@devport.se\">therese.nilsson@devport.se</a><br>0709 131919",
-    "description": "<p>DevPort is an engineering consultant company specialized in the development of systems, mechanics, software and electronics for the industry sector and other customers with similar needs like automotive, medical and defense area.<br><br>We work with advanced technologies within several different industries and are established suppliers to many of Scandinavia’s leading export companies. The company holds a deep experience and understanding in the complete development process, ranging from analysis and concept design, through system implementation, and to quality assurance. Technical information and documentation for the aftermarket, as well as production engineering is also included in our services. Assignments can be both onsite at customer or as a project commitment at our offices.<br><br>Our main focus relies on our great experience from the automotive sector within propulsion and chassis development, connectivity and active safety. Our goal is to be the best consultant partner within these areas. For our employees and partners we want to act as the small flexible company with the big company strength and possibilities.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Information Technology"
-    ],
-    "positions": [
-      "Msc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/devport/devport_logo.png",
-    "largeImage": "../img/devport/devport_a5.jpg",  
-    "locationImage": "../img/montermaps/26.jpg"
-  },
-  {
-    "name": "Diadrom",
-    "businessField": "Automotive Industry<br>Defense and Security<br>Public Transportation",
-    "employees": "50",
-    "website": "<a href=\"http://www.diadrom.se\" target=\"_blank\">www.diadrom.se</a>",
-    "contact": "Oscar Lund<br><a href=\"mailto:oscar.lund@diadrom.se\">oscar.lund@diadrom.se</a><br>0769-41 10 30",
-    "description": "<p>Vi är ett specialistkonsultbolag inriktat mot diagnostik av produkter med inbyggd mjukvara. Vi har över 16 års erfarenhet från framförallt fordonsbranchen, men även inom försvar, säkerhet och publik transport.<br><br>Med diagnostik menar vi systemlösningar för monitorering av prestanda, felsökning, förbättrad funktionalitet genom uppgradering av ny inbyggd mjukvara.<br><br>Vi hjälper våra kunder i deras egna projekt att utveckla lösningar inom allt från on-board system, teknologier och standarder till off-board och centrala system samt processutveckling och management. Vi erbjuder även lösningar till våra kunder som baseras på våra egna produkter inom området.<br><br>Vi erbjuder dig möjligheten att få arbeta med intressanta och utmanande projekt tillsammans med erfarna och engagerade kollegor. Vi värnar om sammanhållning, hemmatillhörighet och månar om trivsel på företaget med gemensamma trivselaktiviteter och luncher. Vi har återkommande gemensamma utbildningsdagar där alla ska känna att de är med och bidrar genom kunskapsspridning.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Msc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/diadrom/diadrom_logo.png",
-    "largeImage": "../img/diadrom/diadrom_a5.png",
-    "locationImage": "../img/montermaps/38.jpg"
-  },
-  {
-    "name": "Endian Technologies",
-    "businessField": "Software Engineering",
-    "employees": "8",
-    "website": "<a href=\"http://www.endian.se\" target=\"_blank\">www.endian.se</a>",
-    "contact": "Peter Malmberg<br><a href=\"mailto:peter.malmberg@endian.se\">peter.malmberg@endian.se</a><br>0703791572",
-    "description": "<p>På Endian krånglar vi inte till det. Vi gillar när det är svårt men vi har kunskap nog att inte välja onödigt komplicerade lösningar. Inga långa beslutsvägar, generös personalpolicy, öppet arbetsklimat.<br>Vi går igång på inbyggda system, öppen källkod, ny teknik, och framtagning av komplexa produkter. Vi är ett litet team av mycket kompetenta medarbetare som vill leverera ett mycket högt kundvärde. Det ser vi till att göra med utvecklingsmiljöer i framkant, långsiktighet i kundrelationer, låg personalomsättning, och medarbetare som utvecklas och brinner för det de gör.<br><br>Är du intresserad av IoT och håller på med intressanta projekt hemma? Kom till Endians monter och anmäl dig till vår IoT-tävling. Bra projektidéer belönas med ett IoT-kit från Adafruit. Förstapriset efter genomfört projekt är en timanställning på Endian. Här får du delta med handledning i något av våra projekt, eller ta ditt eget koncept ett steg mot kommersialisering.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Part-time job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/endian/endian_logo.png",
-    "largeImage": "../img/endian/endian_a5.png",
-    "locationImage": "../img/montermaps/49.jpg"
-  },
-  {
-    "name": "Ericsson",
-    "businessField": "ICT & Telecom",
-    "employees": "120000",
-    "website": "<a href=\"http://www.ericsson.com\" target=\"_blank\">www.ericsson.com</a>",
-    "contact": "Oliver Hammarstig<br><a href=\"mailto:oliver.hammarstig@ericsson.com\">oliver.hammarstig@ericsson.com</a><br>0107190000",
-    "description": "<p>For 140 years, our ideas, technology and people have created monumental impact: real turning points that have transformed lives, industries and society as a whole - all grounded in our belief that communication is a basic human need. Today we envision a world where anything that benefits from a connection will be connected – a future we call the Networked Society.<br><br>To be a driver of global transformation is in our DNA and we use innovation to empower people, business and society. Through our technological leadership, global presence and the empowerment we provide to our employees, we offer enormous opportunities to change peoples’ lives and the world we live in.<br>The greatest changes are yet to come. Together, we innovate to create these future turning points, driving extraordinary impact in the Networked Society.<br><br>Come and discover what makes You + Ericsson a powerful combination!</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Trainee",
-      "MSc Thesis",
-      "Summer job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/ericsson/ericsson_logo2.png",
-    "largeImage": "../img/ericsson/ericsson_a5.jpg",
-    "locationImage": "../img/montermaps/6.jpg"
-  },
-  {
-    "name": "Evidente",
-    "businessField": "Engineering services for embedded systems",
-    "employees": "75",
-    "website": "<a href=\"http://www.evidente.se\" target=\"_blank\">www.evidente.se</a>",
-    "contact": "Niklas Disefalk<br><a href=\"mailto:niklas.disefalk@evidente\">niklas.disefalk@evidente</a><br>0704621734",
-    "description": "<p>Evidente is a privately owned engineering services company, with offices in Gothenburg and Stockholm. Founded in 1996, we offer services within software development and systems engineering specializing in the development of products that include embedded systems. We also provide management consulting services for cross-functional product development and product planning.<br><br>Our highly qualified and experienced engineers execute customer projects according to firmly structured proprietary methodology. We aim to carry out c. 50% of our assignments in-house. This is in order to maintain flexibility and to ensure the sharing of expertise between colleagues.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/evidente/evidente_logo.png",
-    "largeImage": "../img/evidente/evidente_a5.jpg",
-    "locationImage": "../img/montermaps/27.jpg"
-  },
-  {
-    "name": "Football Addicts",
-    "businessField": "App Development within sports",
-    "employees": "~35",
-    "website": "<a href=\"http://www.footballaddicts.com\" target=\"_blank\">www.footballaddicts.com</a>",
-    "contact": "Bob Jelica<br><a href=\"mailto:bob@footballaddicts.com\">bob@footballaddicts.com</a>",
-    "description": "<p>We know how to build football apps and we are good at it. Whether you’re a moderately interested one-team fan or a passionate consumer of all things football we can simplify your life and enrich your fandom. Our apps are easy to use, quick, customizable and clean without disturbing advertisement. One of our biggest apps is the live score app Forza Football, with almost 3 million users all over the world.<br><br>Working at Football Addicts is the best! We work hard but make sure to have fun at the same time. We also aim to democratize football while we are at it. Keen to join us? Come by and talk to us!</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Internship",
-      "Summer job"
-    ],
-    "smallImage": "../img/footballaddicts/footballaddicts_logo.png",
-    "largeImage": "../img/footballaddicts/footballaddicts_a5.png",
-    "locationImage": "../img/montermaps/44.jpg"
-  },
-  {
-    "name": "Framtiden",
-    "businessField": "Recruitment",
-    "employees": "620",
-    "website": "<a href=\"http://www.framtiden.com\" target=\"_blank\">www.framtiden.com</a>",
-    "contact": "Framtiden AB<br><a href=\"mailto:info@framtiden.com\">info@framtiden.com</a><br>0200-26 26 11",
-    "description": "<p>Framtiden helps young professionals to get a job. Everyday we strive to find and create meetings between the right company and the right young professional. Young professionals are people who are in the beginning of their careers and who are driven and innovative. Framtiden works with companies within all industries – technology, data/IT, marketing, sales, finance, administration and production/logistics. We are currently located in seven cities around Sweden.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Part-time job",
-      "Summer job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/framtiden/framtiden_logo.png",
-    "largeImage": "../img/framtiden/framtiden_a5.jpg",
-    "locationImage": "../img/montermaps/20.jpg"
-  },
-  {
-    "name": "Google Inc",
-    "businessField": "Google Inc",
-    "employees": "67000",
-    "website": "<a href=\"http://www.google.com\" target=\"_blank\">www.google.com</a>",
-    "contact": "<a href=\"mailto:exie@google.com\">exie@google.com</a>",
-    "description": "<p>Larry Page once described the “perfect search engine” as something that “understands exactly what you mean and gives you back exactly what you want.” Since then, Google has grown to offer products beyond search, but the spirit of what he said remains. With all our technologies our goal is to make it as easy as possible for you to find the information you need and get the things you need to do done.<br>This means making search smarter and faster, so it can understand that when you type [jaguar] you’re looking for the car, not photos of the animal. It means showing you when your friends like an ad or a search result, so that you know it might be valuable. It means making our products work intuitively, so that you can share documents with Gmail contacts without having to copy and paste, and open the same tabs on your Android phone that you have open on your Chrome browser on your desktop. Above all, it means making our products work better so that people can spend time on the stuff they’re good at—like enjoying time with family, camping in the wilderness, painting a picture or throwing a party.</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Internship",
-      "Full-time job"
-    ],
-    "smallImage": "../img/google/google_logo.png",
-    "largeImage": "../img/google/google_a5.png",
-    "locationImage": "../img/montermaps/30.jpg"
-  },
-  {
-    "name": "Hogia",
-    "businessField": "IT",
-    "employees": "600",
-    "website": "<a href=\"http://www.hogia.se\" target=\"_blank\">www.hogia.se</a>",
-    "contact": "Linda Falk<br><a href=\"mailto:linda.falk@hogia.se\">linda.falk@hogia.se</a><br>072 145 06 85",
-    "description": "<p>The Hogia Group comprises 27 companies in Scandinavia and the United Kingdom with a total of 600 employees, with the goal of reaching 700 employees by 2020. With software as a common denominator, the Hogia Group currently operates in three business areas: finance and business systems, human resource systems and transport systems.<br><br>Hogias main office is located in Stenungsund, 50 kilometers north of Gothenburg. This is where we develop, test, sell and support all of our products. Our core business is to continuously entertain and develop our systems and to provide our customers with the help and support they need to be able to grow into the future. Hogia is a Microsoft Gold Partner.<br><br>The Hogia Group’s entire development and operation has always been and is completely self-financed. No external capital has ever been introduced (apart from the family´s original 5,000 SEK), and no shares in the company have ever changed owner. The owners have no intention of selling the company, listing it on the stock exchange or taking in external capital in the future.</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/hogia/hogia_logo.png",
-    "largeImage": "../img/hogia/hogia_a5.jpg",
-    "locationImage": "../img/montermaps/5.jpg"
+    "smallImage": "../img/endeavor/endeavor_logo.png"
   },
   {
     "name": "i3tex",
-    "businessField": "Consulting",
-    "employees": "180",
+    "businessField": "Automotive, Aerospace, Industry, Telecom and Medical Device",
+    "employees": "200",
     "website": "<a href=\"http://www.i3tex.com\" target=\"_blank\">www.i3tex.com</a>",
     "contact": "Lena Bengtsson<br><a href=\"mailto:lena.bengtsson@i3tex.com\">lena.bengtsson@i3tex.com</a><br>0709387307",
-    "description": "<p>i3tex is a creative team of over 180 different skills, all with a passion for making the world a a better place using technology. In more than 25 years we have made visions come alive and developed products for industries that are shaping the future - today. Our culture is based on continuously developing our skills and creativity, and combining them for new results.<br>When you join i3tex you will get new colleagues who are innovative, reliable and curious about everything that has to do with technology, whether we work as consultants or in inhouse projects. Check out our Facebook page and get av feeling of our dedicated team!<br><br>Great ideas and smart product development can make real change. Meet us for at chat and some thrilling examples at DatE-IT.</p>",
+    "description": "<p>i3tex is an unusually large but small engineering consultancy. We have the capacity for really comprehensive projects and at the same time we are always close to the people behind the projects. We specialise in product development and aim to develop future products for a better world. We believe in a future where creative technological solutions help us to live richer and more comfortable lives, with minimal environmental impact. <br><br> Would you like to put innovative ideas and visions into reality together with us – come give your input and ask your smartest questions – we promise we'll try to answer them!</p>",
     "educations": [
       "Electrical Engineering",
       "Computer Science",
       "Information Technology"
     ],
     "positions": [
-      "MSc Thesis",
-      "Full-time job"
+      "MSc Thesis","Full-time job"
     ],
-    "smallImage": "../img/i3tex/i3tex_logo.png",
-    "largeImage": "../img/i3tex/i3tex_a5.jpg",
-    "locationImage": "../img/montermaps/12.jpg"
+    "smallImage": "../img/i3tex/i3tex_logo.png"
   },
   {
-    "name": "Infotiv AB",
-    "businessField": "Consulting company",
-    "employees": "200",
-    "website": "<a href=\"http://www.infotiv.se\" target=\"_blank\">www.infotiv.se</a>",
-    "contact": "Tomas Sjögren<br><a href=\"mailto:tomas.sjogren@infotiv.se\">tomas.sjogren@infotiv.se</a><br>0733-513966",
-    "description": "<p>Infotiv’s day-to-day business is all about working smart and coming up with the right solutions to customers’ challenges. Fast, non-prestigious and with a spring in our step, we come up with unique solutions with all the possibilities modern engineering has to offer. We are artisans, real engineers, fixed in our customers’ reality. We are problem solvers and offer our customers Instant Innovation!<br>Infotiv helps customers to speed up development and innovation processes. We do this by developing expertise, methods and tools that make it simpler and quicker for customers to achieve their ambitions. Infotiv develops its own technologies and training so that technology and people can develop more quickly. We work actively as expertise managers, where part of our working days are dedicated to analyzing world trends and developing new technologies in key areas. Examples include the development of camera-based test procedures and an Embedded platform concept, making it possible to develop completely new products in a matter of weeks. We are organized according to following areas of expertise; INFORMATION & DESIGN, PROJECT & QUALITY MANAGEMENT, EMBEDDED SYSTEMS, TEST & DEVELOPMENT. Our ambition is to always provide the best answers to customers’ questions and challenges.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Internship",
-      "Summer job",
-      "Part-time job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/infotiv/infotiv_logo.jpg",
-    "largeImage": "../img/infotiv/infotiv_a5.jpg",
-    "locationImage": "../img/montermaps/25.jpg"
-  },
-  {
-    "name": "Invativa",
-    "businessField": "IT",
-    "employees": "20",
-    "website": "<a href=\"http://www.invativa.se\" target=\"_blank\">www.invativa.se</a>",
-    "contact": "Alinne Andersson<br><a href=\"mailto:alinne.andersson@invativa.se\">alinne.andersson@invativa.se</a><br>0709633002",
-    "description": "<p>På Invativa arbetar vi med digital utveckling av verksamheter. Det innebär att vi hjälper företag att hitta nya digitala affärer. Söker du på termen “digital transformation” på Google, får du upp över 21 700 000 träffar. Träffarna varierar mellan robotar, appar, internet of things osv. Den stora utmaningen med digital transformation är att skapa något nytt som passar just kunden, för oss innebär det en digital innovation. Vi arbetar i en strukturerad process för att skapa nya digitala affärer där vi fokuserar på att arbeta kundcentrerat med våra kunders kunder.<br><br>Invativa är ett härligt företag som kombinerar en entreprenörskapskultur med trevliga medarbetare och ett stort intresse för det digitala. Vi tror alla på att det är bättre att prova sig fram och lära sig på vägen, istället för att inte göra något alls. Är du en person som älskar utmaningar och är intresserad av digitalisering? Då ska du absolut ta en sväng förbi vår monter.<br><br>Vi ses på mässan!<br><br>Oscar, Alinne och David</p>",
+    "name": "Kollmorgen",
+    "businessField": "Automated Guided Vehicles (AGV) och Mobila Robotar",
+    "employees": "65",
+    "website": "<a href=\"http://www.ndcsolutions.se\" target=\"_blank\">www.ndcsolutions.se</a>",
+    "contact": "Patrik Silverby<br><a href=\"mailto:patrik.silverby@kollmorgen.com\">patrik.silverby@kollmorgen.com</a><br>0709938045",
+    "description": "<p>Vill du vara med och utveckla framtidens mobila robotar och AGV:er? <br><br> Kollmorgen erbjuder möjligheten att arbeta med teknik i en kreativ och dynamisk miljö med goda möjligheter för personlig utveckling. Vi genomsyras av en entreprenöriell anda som ger anställda utrymme att komma med nya idéer och förslag som kan utveckla verksamheten och produkterna. <br><br> Kollmorgen är en världsledande leverantör av styr- och navigeringslösningar för mobila robotar och AGVer (Automated Guided Vehicle). Vår plattform, NDC Solutions, innehåller det du behöver för att automatisera ett fordon – hårdvara, mjukvara, navigering samt verktyg för diagnostik och underhåll. Vi har en installerad bas på 20.000 fordon som har levererats via vårt globala partnernätverk.</p>",
     "educations": [
       "Computer Science",
       "Information Technology"
     ],
     "positions": [
-      "MSc Thesis",
-      "Full-time job"
+      "MSc Thesis","Summer job"
     ],
-    "smallImage": "../img/invativa/invativa_logo.png",
-    "largeImage": "../img/invativa/invativa_a5.png",
-    "locationImage": "../img/montermaps/9.jpg"
-  },
-  {
-    "name": "Jeppesen",
-    "businessField": "Software Development",
-    "employees": "350",
-    "website": "<a href=\"http://www.jeppesen.com\" target=\"_blank\">www.jeppesen.com</a>",
-    "contact": "Frida Svenningsson<br><a href=\"mailto:frida.svenningsson@jeppesen.com\"></a><br>031-720 81 00",
-    "description": "<p>We are 350 software craftsmen from 30 different countries in our office in central Göteborg, making us one of largest software developers on the Swedish west coast. Using agile methodology, we develop optimization solutions for some of the largest airlines in the world, such as Lufthansa, Delta Airlines and Emirates. In Göteborg, we work with software development, customer delivery, web & mobile development, business analysis, customer support, sales and product management.<br>We solve some of the most challenging optimization problems in the world. We are passionate about making even the most complex simple for our customers, making airlines operate as efficient as possible.<br>Jeppesen has more than 3500 employees globally, and is a part of the Boeing Company, the world’s largest aerospace company.</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Internship",
-      "Full-time job"
-    ],
-    "smallImage": "../img/jeppesen/jeppesen_logo.png",
-    "largeImage": "../img/jeppesen/jeppesen_a5.jpg",
-    "locationImage": "../img/montermaps/36.jpg"
-  },
-  {
-    "name": "Kits AB",
-    "businessField": "Mjukvaruutveckling<br>Projektledning<br>Applikationssäkerhet",
-    "employees": "25",
-    "website": "<a href=\"http://www.kits.se\" target=\"_blank\">www.kits.se</a>",
-    "contact": "Patrik Nilsson<br><a href=\"mailto:patrik.nilsson@kits.se\">patrik.nilsson@kits.se</a><br>0708-277499",
-    "description": "<p>Det här är KITS<br>KITS är ett it-konsultbolag baserat i Göteborg. Vi är en blandning av talanger och experter. Våra experter är de bästa konsulterna inom sina respektive teknik-/verksamhetsområden och våra talanger är på väg mot att bli experter. Vi har stort fokus på kompetensutveckling och kompetensspridning inom våra teknik- och verksamhetsområden. Vi jobbar metodiskt och målinriktat med att hela tiden utveckla KITS till ett bättre bolag där det är högt i tak, processerna är agila och där det är kul på jobbet.<br><br>Vi är grymma på arkitektur, mentorskap, systemutveckling, projektledning och metoder inom Java, JavaScript, .NET och Open source. Vår spetskompetens kommer bäst till nytta inom web/mobilitet, telematik/Internet of things, säkerhet och integration.<br><br>Vår vision är att bli norra Europas bästa it-konsultbolag och vår mission är att utveckla talanger till experter och låta experter förbli experter.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Full-time job"
-    ],
-    "smallImage": "../img/kits/kits_logo.png",
-    "largeImage": "../img/kits/kits_a5.png",
-    "locationImage": "../img/montermaps/40.jpg"
-  },
-  {
-    "name": "Knowit",
-    "businessField": "Knowit",
-    "employees": "1850",
-    "website": "<a href=\"http://www.knowit.se\" target=\"_blank\">www.knowit.se</a>",
-    "contact": "Martin Skarp<br><a href=\"mailto:martin.skarp@knowit.se\">martin.skarp@knowit.se</a>",
-    "description": "<p>Knowit AB (publ) är ett konsultbolag som, inom den allt snabbare digitaliseringen, skapar unika kundvärden genom att erbjuda gränsöverskridande leveranser från tre affärsområden, Experience, Insight och Solutions. Det är förmågan att kombinera kompetenser inom design och kommunikation, managementkonsulting samt it, som skiljer oss från andra konsultbolag. Knowit består av cirka 1850 medarbetare representerade på 14 orter i Sverige och på fem i Norge samt en vardera i Danmark, Estland, Finland, och Tyskland. Knowit AB (publ) är noterat på den Nordiska Börsen i Stockholm.</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Full-time job"
-    ],
-    "smallImage": "../img/knowit/knowit_logo.png",
-    "largeImage": "../img/knowit/knowit_a5.png",
-    "locationImage": "../img/montermaps/35.jpg"
+    "smallImage": "../img/kollmorgen/kollmorgen_logo.png"
   },
   {
     "name": "Netlight",
-    "businessField": "IT consultancy",
-    "employees": "800",
+    "businessField": "Consultancy firm in IT and management",
+    "employees": "900",
     "website": "<a href=\"http://www.netlight.com\" target=\"_blank\">www.netlight.com</a>",
-    "contact": "Ina Marie Strand Torgersen<br><a href=\"mailto:ina.torgersen@netlight.com\">ina.torgersen@netlight.com</a><br>+47 92229325",
-    "description": "<p>Netlight is a European IT consultancy. As genuine consultants, we work together with our clients to solve a range of business-critical cases. We have experience working with EDGY projects within system, web and app-development, IT-management and UX. We are continuously looking for new talents who want to work with the latest technologies in business-critical projects with market-leading international companies as well as in innovative start-ups.<br>Netlight has received a number of awards over the years like the marathon-Gasell in Dagens Industri, Årets Superföretag från Veckans Affärer, Innovator of the Year from Universum. In 2014, our CEO Erik Ringertz was appointed CEO of the year. We are also the initiator to #TechEq, a collaboration between several technology companies working to increase gender equality in the technology industry.<br>We work in a flat network organization characterized by a high degree of commitment and responsibility. Our open, encouraging and unpretentious atmosphere facilitates great communication and collaboration throughout the company. Our thriving community offers<br>rapid career development in an international environment. Find us on stand to hear more about opportunities in Oslo, Stockholm or other European cities.<br>Follow us on Instagram, Twitter and Facebook to experience the day-to-day life at Netlight.</p>",
+    "contact": "Adrian Raj Moksness<br><a href=\"mailto:adrian.raj.moksness@netlight.com\">adrian.raj.moksness@netlight.com</a><br>004791629201",
+    "description": "<p>Netlight is a European IT consultancy firm. As genuine consultants, we work together with our clients to solve a range of business-critical cases. We have experience working with EDGY projects within system, web and app-development, IT-management and UX. We are continuously looking for new talents who want to work with the latest technologies in business-critical projects with market-leading international companies as well as in innovative start-ups. <br><br> Netlight has received a number of awards over the years, such as the 5th Best Workplace in Europe, the marathon-Gasell in Dagens Industri, Årets Superföretag från Veckans Affärer, and Innovator of the Year from Universum. In 2014, our CEO Erik Ringertz was appointed CEO of the year. We are also the initiator to #TechEq, a collaboration between several technology companies working to increase gender equality in the technology industry. <br><br> We work in a flat network organization characterized by a high degree of commitment and responsibility. Our open, encouraging and unpretentious atmosphere facilitates great communication and collaboration throughout the company. Our thriving community offers rapid career development in an international environment. Find us on stand to hear more about opportunities in Oslo, Stockholm or other European cities. <br><br> Follow us on Instagram, Twitter and Facebook to experience the day-to-day life at Netlight.</p>",
     "educations": [
       "Computer Science",
       "Information Technology"
     ],
     "positions": [
-      "Internship",
-      "Summer job",
-      "Full-time job"
+      "Internship","Full-time job"
     ],
-    "smallImage": "../img/netlight/netlight_logo.png",
-    "largeImage": "../img/netlight/netlight_a5.png",
-    "locationImage": "../img/montermaps/4.jpg"
+    "smallImage": "../img/netlight/netlight_logo.png"
   },
   {
-    "name": "NEVS",
-    "businessField": "Automotive industri",
-    "employees": "700",
-    "website": "<a href=\"http://www.nevs.com\" target=\"_blank\">www.nevs.com</a>",
-    "contact": "Haris Dedic<br><a href=\"mailto:haris.dedic@nevs.com\">haris.dedic@nevs.com</a><br>0739 - 665 696",
-    "description": "<p>A Movement in Motion<br><br>To shape mobility for a more sustainable future!<br><br>The world is in need of change – and we at NEVS want to be part of driving it and at the same time shape life for generations to come. That’s why we focus on designing premium electric vehicles and smart mobility solutions that prove what’s best for one can be best for all. What we do is not simply providing a way to get around, it’s a chance to be part of something bigger. Electrification, connected vehicles, changing ownership models, and autonomous driving are just some of the important trends that are transforming our industry. Together with our partners and people like you, we are shaping mobility for a more sustainable future.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Internship",
-      "Full-time job"
-    ],
-    "smallImage": "../img/nevs/nevs_logo.png",
-    "largeImage": "../img/nevs/nevs_a5.jpg",
-    "locationImage": "../img/montermaps/46.jpg"
-  },
-  {
-    "name": "Opera Software",
-    "businessField": "Software",
-    "employees": "1600",
-    "website": "<a href=\"http://www.opera.com\" target=\"_blank\">www.opera.com</a>",
-    "contact": "Hanna Björk<br><a href=\"mailto:hannab@opera.com\">hannab@opera.com</a><br>0702923334",
-    "description": "<p>In addition to web browsers, our business also includes mobile advertising services and solutions. Across our company, we may do a variety of things in a variety of ways, but we all share a common goal: to make more possible. Our aim is to connect our users and partners with more of what is relevant for them. We’ve always fought to maximize the potential of the internet and help people across the globe achieve more online.<br><br>In our Swedish offices, in Göteborg and Linköping, we are digging deep into the inner workings of Blink and Chromium. We’re implementing and contributing to new web standards, and tweaking and optimizing a massive code base to behave well on limited Android devices and TVs. We’re also creating beautiful user interfaces on iOS and Android, while constantly striving to improve and innovate the mobile browsing experience even further. Opera Mini, with its 250 million users, was born and created in Sweden.</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Internship",
-      "Summer job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/opera/opera_logo.png",
-    "largeImage": "../img/opera/opera_a5.png",
-    "locationImage": "../img/montermaps/15.jpg"
-  },
-  {
-    "name": "Palantir Technologies",
-    "businessField": "Enterprise Software",
-    "employees": "2000",
-    "website": "<a href=\"http://www.palantir.com/\" target=\"_blank\">www.palantir.com</a>",
-    "contact": "Katie Kurtela<br><a href=\"mailto:kkurtela@palantir.com\">kkurtela@palantir.com</a><br>+1 650 815 0157",
-    "description": "<p>Today’s critical institutions don’t just protect public safety or provide vital goods and services—they also deal with astonishing amounts of data. At Palantir, our mission is to help the world’s government agencies, Fortune 500 companies, and nonprofits transform how they understand and use that data.<br><br>We build software that lets organizations integrate and analyze their data so they can solve problems they couldn’t before. For example, we’re helping our customers combat terrorism at home and abroad, investigate and prosecute financial fraud rings, offer more credit to retail banking customers, manufacture products faster and more safely, and fight violent crime in the world’s great cities. And we’re just getting started.</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Internship",
-      "Full-time job"
-    ],
-    "smallImage": "../img/palantir/palantir_logo.png",
-    "largeImage": "../img/palantir/palantir_a5.jpg",
-    "locationImage": "../img/montermaps/7.jpg"
-  },
-  {
-    "name": "Pelagicore AB",
-    "businessField": "Software Development",
-    "employees": "54 whereof 39 in Gothenburg",
-    "website": "<a href=\"http://www.pelagicore.com\" target=\"_blank\">www.pelagicore.com</a>",
-    "contact": "Tomas Ekström<br><a href=\"mailto:tomas.ekstrom@pelagicore.com\">tomas.ekstrom@pelagicore.com</a><br>+46 709947592",
-    "description": "<p>Work with us.<br>Pelagicore is a technology and product development company that focuses on applying Open Source Software in the Automotive Infotainment industry.<br><br>We develop software solutions for hardware and chip manufacturers, car manufacturers and their suppliers worldwide.<br><br>We are passionate about:<br><ul><li>Open Source Infotainment Software</li><li>User Experience development using Qt & QML</li><li>Embedded Linux development</li><li>Connecting mobile experiences to the car</li><li>Vehicle integration and networking</li><li>Supporting great hardware</li></ul><br><br>We are looking for master thesis students as well as full time employees.<br>Get to know more and apply at career.pelagicore.com</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/pelagicore/pelagicore_logo.png",
-    "largeImage": "../img/pelagicore/pelagicore_a5.png",
-    "locationImage": "../img/montermaps/33.jpg"
-  },
-  {
-    "name": "Q-matic AB",
-    "businessField": "IT industry/ Software",
-    "employees": "300",
-    "website": "<a href=\"http://www.qmatic.com\" target=\"_blank\">www.qmatic.com</a>",
-    "contact": "Henrik Lindberg, Manager Product Development<br><a href=\"mailto:Henrik.Lindberg@qmatic.com\">Henrik.Lindberg@qmatic.com</a>",
-    "description": "<p>Qmatic is a leading company in maximizing customer experience. Our solutions and tools allows customers to choose between services, check-in for appointments, find the way or simply take a ticket to a queue. We look after the whole life cycle of our solutions; from innovation and development to manufacturing, sales, installation, maintenance and support. Our solutions enable integration of the virtual/on-line and real world to facilitate a seamless customer experience resulting in superior customer satisfaction. Qmatic is full of talented ambitious people with different backgrounds.We all share the same values and work towards the same goals. At Qmatic you will get a unique chance to work with a fast growing company where individuals truly can make a difference. Qmatic operates in over 120 countries through own subsidiaries and partner network. The group has a turnover of EUR 60 million.</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/q-matic/q-matic_logo.png",
-    "largeImage": "../img/q-matic/q-matic_a5.png",
-    "locationImage": "../img/montermaps/10.jpg"
-  },
-  {
-    "name": "QRTECH AB",
-    "businessField": "Embedded systems",
-    "employees": "90",
-    "website": "<a href=\"http://www.qrtech.se\" target=\"_blank\">www.qrtech.se</a>",
-    "contact": "Cecilia Ollfors<br><a href=\"mailto:cecilia.ollfors@qrtech.se\">cecilia.ollfors@qrtech.se</a><br>031-7737600",
-    "description": "<p>About QRTECH<br>QRTECH is a successful product development company that develops, industrialises and manufactures products containing electronics, power electronics and software. The products we develop are often technically challenging and need to work effectively in demanding environments. Our clients operate in all areas that require advanced expertise in product development, from small companies to multinationals.<br>The cornerstone of our development work is wide-ranging applied research in collaboration with industry, academia and research institutes. This allows us to offer our customers world-class, future-assured products.<br>Our success is founded on solid commitment and the fact that we genuinely care about our customers. QRTECH has the most technically skilled engineers in the industry with the determination on every level to succeed and do a good job.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/qrtech/qrtech_logo.png",
-    "largeImage": "../img/qrtech/qrtech_a5.jpg",
-    "locationImage": "../img/montermaps/34.jpg"
-  },
-  {
-    "name": "RapidImages",
-    "businessField": "Omni channel marketing<br>e-commerce<br>computer graphics",
-    "employees": "70",
-    "website": "<a href=\"http://rapidimages.com\" target=\"_blank\">rapidimages.com</a>",
-    "contact": "Peter Knutsson<br><a href=\"mailto:pknutsson@rapidimages.se\">pknutsson@rapidimages.se</a>",
-    "description": "<p>RapidImages is the leading provider of digital product experiences for omni-channel marketing and e-commerce.<br><br>Our digital services provide our customers with the possibility to visually market and sell their products without the physical product manufactured, distributed, presented or photographed.<br><br>Our process is effective, accurate and delivers high-quality solutions for high-volume, global and complex product companies.</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Summer job",
-      "Part-time job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/rapidimages/rapidimages_logo.png",
-    "largeImage": "../img/rapidimages/rapidimages_a5.png",
-    "locationImage": "../img/montermaps/43.jpg"
-  },
-  {
-    "name": "Saab AB",
-    "businessField": "Försvar och säkerhet",
-    "employees": "14700",
+    "name": "Saab",
+    "businessField": "Defence and Security",
+    "employees": "15500",
     "website": "<a href=\"http://www.saabgroup.com\" target=\"_blank\">www.saabgroup.com</a>",
-    "contact": "Bodil Takvam<br><a href=\"mailto:bodil.takvam@saabgroup.com\">bodil.takvam@saabgroup.com</a><br>0734-378682",
-    "description": "<p>Saab is a global defence and security company operating in the fields of air,land and naval defence, civil security and commercial aeronautics. We number 14,700 employees and have operations on all continents. Technologically we are leaders in many areas, and one-fifth of our earnings are spent on research and development. <br>Saab is also a company with opportunities. A company where we see diversity as an asset and where you have both considerable responsibility and good opportunities for advancing in your career. But also a company that respects each person’s needs for a rewarding life beyond work.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Trainee",
-      "MSc Thesis",
-      "Internship",
-      "Summer job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/saab/saab_logo.png",
-    "largeImage": "../img/saab/saab_a5.jpg",
-    "locationImage": "../img/montermaps/18.jpg"
-  },
-  {
-    "name": "Scionova AB",
-    "businessField": "Embedded wireless",
-    "employees": "9",
-    "website": "<a href=\"http://www.scionova.se\" target=\"_blank\">www.scionova.se</a>",
-    "contact": "Henrik<br><a href=\"mailto:info@scionova.com\">info@scionova.com</a><br>0340500120",
-    "description": "<p>Scionova is a development company offering services in embedded wireless system development. Our client portfolio ranges from great world-leading technology companies to smaller start-up companies.<br>With years of experience in designing and developing automotive, telecom and medical products employing wireless communication technologies; we help our clients through each phase of product life cycle of a wireless embedded system.<br>Scionova has a team of cherry-picked engineers who has a passion for wireless embedded systems backed with extensive experience in designing and developing embedded wireless systems.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/scionova/scionova_logo.png",
-    "largeImage": "../img/scionova/scionova_a5.jpg",
-    "locationImage": "../img/montermaps/28.jpg"
-  },
-  {
-    "name": "Sigma",
-    "businessField": "Engineering<br>Consulting<br>IT",
-    "employees": "3000",
-    "website": "<a href=\"http://www.sigma.se\" target=\"_blank\">sigma.se</a>",
-    "contact": "Nataly Duyko<br><a href=\"mailto:nataly.duyko@sigmatechnology.se\">nataly.duyko@sigmatechnology.se</a><br>+46 725 194 048",
-    "description": "<p>Do you wish to work with the world’s latest technologies and the brands of tomorrow? <br>Sigma is a leading Swedish consulting group that offers you challenging assignments, great culture and inspiring colleagues. We work with customers in many different industry sectors, both in Sweden and globally. <br>Our means are technological and strategic know-how with a constant passion for finding better solutions. We are characterized by our care for each other, our customers and our environment. At Sigma we love what we do and we get things done.<br>Do you see your future career within such areas as software design, system & embedded development, product development, technical information, industrial design, testing or project management?<br>- Let´s connect at DatE-IT!</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/sigma/sigma_logo.png",
-    "largeImage": "../img/sigma/sigma_a5.png",
-    "locationImage": "../img/montermaps/3.jpg"
-  },
-  {
-    "name": "Smart Eye",
-    "businessField": "Computer Science and Engineering",
-    "employees": "50",
-    "website": "<a href=\"http://www.smarteye.se\" target=\"_blank\">www.smarteye.se</a>",
-    "contact": "Martin Rydberg<br><a href=\"mailto:martin.rydberg@smarteye.se\">martin.rydberg@smarteye.se</a>",
-    "description": "<p>Smart Eye was founded in 1999 to provide the market with a real-time and completely non-invasive eye, eyelid and head tracking technology. With its roots in the Automotive Industry, Smart Eye is today regarded as a global leader in the development and delivery of remote, multi-camera head and eye tracking solutions for the Automotive, Aviation and Aerospace research and manufacturing industries.<br><br>Our philosophy and focus is innovation in non-obtrusive head and eye tracking solutions. Today we have over several hundred clients and numerous systems deployed across North America, Europe and the Asia Pacific Region. Our systems are being used to support research projects and studies in areas including (but not limited to) HCI, Human Factors, Neuroscience, Psychology, clinical and more.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Internship",
-      "Summer job",
-      "Part-time job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/smarteye/smarteye_logo.png",
-    "largeImage": "../img/smarteye/smarteye_a5.png",
-    "locationImage": "../img/montermaps/42.jpg"
-  },
-  {
-    "name": "Squeed AB",
-    "businessField": "System development",
-    "employees": "54",
-    "website": "<a href=\"http://www.squeed.com\" target=\"_blank\">www.squeed.com</a>",
-    "contact": "Tomas Trolltoft<br><a href=\"mailto:tomas.trolltoft@squeed.com\">tomas.trolltoft@squeed.com</a><br>0709723864",
-    "description": "<p>Squeed AB är mjukvarubolaget som gör skillnad. För dig, för kunden och för hela branschen!<br>Vi satsar stort på anställdas kompetensutveckling och det märks. När andra bolag skickar folk på konferenser som deltagare åker Squeeders dit för att tala. I skrivande stund har vi 3 talare på JavaOne i San Francisco, världens största Javakonferens. Inget företag har fler utvecklare än oss på IDG:s lista över Sveriges vassaste utvecklare.</p><p>Squeeders jobbar med systemutveckling, arkitekturfrågor och agila metoder. Vår vardag består främst av Java, Microsoft .NET, webb och open source. Vi är ute som konsulter och bygger det våra kunder vill ha men arbetar också med att ta fram nya tjänster och produkter. Vi har skapat en innovationskraft där varje medarbetare hjälper till med att ta fram nya affärsidéer i form av produkter och tjänster. Denna innovationskraft leder och utvecklar individen och företaget.<br>Vi är samarbetspartners till Connect Väst där vi bidrar med teknisk expertis till framtidens unicorns.</p><p>Squeed är djupt engagerade i communityn kring mjukvaruutveckling och driver Javaforum, nforum mm. Vi finns i Göteborg & Stockholm där vi behöver fler ambitiösa utvecklare som vill vara med att uppnå ”Achieve the Amazing”.</p><p>We are growing. So can you!</p>",
+    "contact": "Peter Wiberg<br><a href=\"mailto:peter.l.wiberg@saabgroup.com\">peter.l.wiberg@saabgroup.com</a><br>0734379412",
+    "description": "<p>At Saab, we constantly look ahead and push boundaries for what is considered technically possible. We collaborate with colleagues around the world who all share our challenge – to make the world a safer place. <br><br> We are 15 500 open minded pioneers and we serve the global market with world-leading products, services and solutions ranging from military defence to civil security. Come join us! <br><br> As an employee at Saab you are offered unparelled development possibilities. Through our performance driven culture you can influence your own development. We invest in our leaders, we encourage internal mobility, we identify and nurture talents, and we provide international opportunity. What is your next step?</p>",
     "educations": [
       "Computer Science",
-      "Information Technology"
+      "Information Technology",
+      "Electrical Engineering"
     ],
     "positions": [
-      "MSc Thesis",
-      "Full-time job"
+      "Trainee","Full-time job", "MSc Thesis","Summer job"
     ],
-    "smallImage": "../img/squeed/squeed_logo.png",
-    "largeImage": "../img/squeed/squeed_a5.jpg",
-    "locationImage": "../img/montermaps/2.jpg"
-  },
-  {
-    "name": "Swedspot AB",
-    "businessField": "Swedspot develops software solutions for the smart connected vehicle",
-    "employees": "30",
-    "website": "<a href=\"http://www.swedspot.com\" target=\"_blank\">www.swedspot.com</a>",
-    "contact": "Niclas Lindmark<br><a href=\"mailto:niclas.lindmark@swedspot.com\">niclas.lindmark@swedspot.com</a><br>0721-99 40 80",
-    "description": "<p>Swedspot develops software solutions for the smart connected vehicle and by combining awesome technologies with smart business solutions we deliver nothing but product sweet spots. <br>With our out of the box-mentality it's not a coincidence that we, apart from automotive developers, also have a bunch of developers from the mobile, security and game industries at our office. Passionate and talented people with different areas of expertise, in a fun and creative work place.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/swedspot/swedspot_logo.png",
-    "largeImage": "../img/swedspot/swedspot_a5.jpg",
-    "locationImage": "../img/montermaps/39.jpg"
-  },
-  {
-    "name": "Syntronic AB",
-    "businessField": "Consulting services and complete development from embedded to large scale systems",
-    "employees": "500",
-    "website": "<a href=\"http://syntronic.com\" target=\"_blank\">syntronic.com</a>",
-    "contact": "Johan Lindström<br><a href=\"mailto:info.syntronic@syntronic.com\">info.syntronic@syntronic.com</a><br>031-7468100",
-    "description": "<p>Syntronic is a leading design house specializing in advanced product and systems development, production and aftermarket services. <br>Our offer covers the entire life cycle of a product or system from the concept stage to a finished product including life cycle support during its entire lifetime. <br>Among our customers and partners are some of the world´s most technology intensive businesses and organizations in sectors such as the telecom, defence, industrial, medtech and automotive. <br>In the designing process to satisfy customers’ needs, we focus on quality, competence and ease of production.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "MSc Thesis",
-      "Full-time job"
-    ],
-    "smallImage": "../img/syntronic/syntronic_logo.png",
-    "largeImage": "../img/syntronic/syntronic_a5.jpg",
-    "locationImage": "../img/montermaps/32.jpg"
-  },
-  {
-    "name": "Uptive",
-    "businessField": "IT-consulting",
-    "employees": "11",
-    "website": "<a href=\"http://www.uptive.se\" target=\"_blank\">www.uptive.se</a>",
-    "contact": "Christian Josefsson<br><a href=\"mailto:christian.josefsson@uptive.se\">christian.josefsson@uptive.se</a><br>0706-871008",
-    "description": "<p>Uptive is a IT-consulting firm specialized in Full Stack Development and UX Design. A company located both in Stockholm and Gothenburg.<br><br>Uptive is a digital house founded to gather engaged and competent people in the industry. This is where consultants who are passionate about technology and user experience can grow together.<br><br>We are looking for more people just like us, \"Uptivians\" that want to work together as a team. So what's your plan for the future? Come join us on our adventure!</p>",
-    "educations": [
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Part-time job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/uptive/uptive_logo.png",
-    "largeImage": "../img/uptive/uptive_a5.png",
-    "locationImage": "../img/montermaps/31.jpg"
-  },
-  {
-    "name": "Volvo Cars",
-    "businessField": "Research & Development",
-    "employees": "28 500",
-    "website": "<a href=\"http://www.volvocars.com/career\" target=\"_blank\">www.volvocars.com/career</a>",
-    "contact": "<a href=\"http://www.volvocars.com/career\" target=\"_blank\">www.volvocars.com/career</a>",
-    "description": "<p>The future belongs to those who are empowered by a great idea and have the ability to carry it out. Our vision is clear: \"To be the world's most progressive and desired premium car brand\" by making life less complicated for people. We have bold targets when it comes to innovation, sales and customer satisfaction and to make this happen, we need talented people onboard. People with passion, energy, business sense and the drive to innovate. People that want to create the next generation Volvo cars in a global, dynamic and respectful environment.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Trainee",
-      "MSc Thesis",
-      "Summer job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/volvocars/volvocars_logo.png",
-    "largeImage": "../img/volvocars/volvocars_a5.png",
-    "locationImage": "../img/montermaps/22.jpg"
-  },
-  {
-    "name": "Volvo Group Trucks Technology",
-    "businessField": "RESEARCH AND TECHNOLOGY DEVELOPMENT",
-    "employees": "7.000 employees globally",
-    "website": "<a href=\"http://www.volvogroup.com\" target=\"_blank\">www.volvogroup.com</a>",
-    "contact": "<a href=\"mailto:Info.GTT.HR@volvo.com\">Info.GTT.HR@volvo.com</a>",
-    "description": "<p>The Volvo Group is one of the world’s leading manufacturers of trucks, buses, construction equipment and marine and industrial engines. The Volvo Group also provides complete solutions for financing and service. Group Trucks Technology (GTT) is the center for research and technology development in the Volvo Group. For us in GTT, technology means the aspiration to move forward, constantly to improve and do better through hard work. It means creative and innovative thinking, evolutionary and revolutionary problem-solving and inspiring teamwork.</p>",
-    "educations": [
-      "Electrical Engineering",
-      "Computer Science",
-      "Information Technology"
-    ],
-    "positions": [
-      "Trainee",
-      "MSc Thesis",
-      "Internship",
-      "Summer job",
-      "Part-time job",
-      "Full-time job"
-    ],
-    "smallImage": "../img/volvogtt/volvogtt_logo.png",
-    "largeImage": "../img/volvogtt/volvogtt_a5.jpg",
-    "locationImage": "../img/montermaps/29.jpg"
+    "smallImage": "../img/saab/saab_logo.png"
   }
 ]
