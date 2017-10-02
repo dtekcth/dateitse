@@ -17,6 +17,55 @@
     "smallImage": "../img/academicwork/academicwork_logo.png"
   },
   {
+    "name": "ARCCORE",
+    "businessField": "Products and services for the embedded systems market, specifically for automotive.",
+    "employees": "85",
+    "website": "<a href=\"http://www.arccore.com\" target=\"_blank\">www.arccore.com</a>",
+    "contact": "Anders Berggren<br><a href=\"mailto:anders.berggren@arccore.com\">anders.berggren@arccore.com</a><br>0761498470",
+    "description": "<p>ARCCORE is a leading provider of state-of-art products and services for the embedded systems market. Based on a solid expert knowledge in real-time platforms, we develop and market products for the software industry enabling our customers to develop innovative solutions in a faster and more cost-efficient way. <br><br>Our focus is to provide superior solutions for embedded systems development to the automotive market and other. Our vision is to be one of the leading suppliers of integrated, high quality and efficient software products preferably based on renowned industry standards.</p>",
+    "educations": [
+      "Electrical Engineering",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Summer job", "MSc Thesis", "Full-time job"
+    ],
+    "smallImage": "../img/arccore/arccore_logo.png"
+  },
+  {
+    "name": "Aros Electronics",
+    "businessField": "Electronics, Mechatronics, Embedded systems, <br> Electrical drive systems, Control systems, Electric power",
+    "employees": "150",
+    "website": "<a href=\"http://www.aros.se\" target=\"_blank\">www.aros.se</a>",
+    "contact": "Magnus Wide<br><a href=\"mailto:magnus.wide@aros.se\">magnus.wide@aros.se</a><br>0317768224",
+    "description": "<p>Aros Electronics AB provides totally integrated solutions including electrical motors, mechanics and control electronics to customers all over the world. Drawing strength from our in-house development and production, we are focusing on applications for custom unique electrical drive systems. Some of the applications where we deliver products are industrial robots, high speed doors, textile machinery, steering control for boats and trucks. We are developing mechatronic solutions with a multi-disciplinary approach, which allows for you as an employee to broaden your competence. <br><br> Aros is a great place for students to perform their master thesis projects because of the company’s welcoming attitude for new ideas. Aros offers a lot of interesting master thesis projects that can be found on our webpage. Some master thesis projects performed at Aros are analysis and implementation of regenerative breaking, design and evaluation of a DC/DC converter, but your own suggestions are very welcome! <br><br> Aros is located in Mölndal and a part of the Van de Wiele group, which opens up the possibilities for international work and commitments.</p>",
+    "educations": [
+      "Electrical Engineering",
+      "Computer Science"
+    ],
+    "positions": [
+      "Trainee", "Summer job", "Full-time job", "MSc Thesis"
+    ],
+    "smallImage": "../img/aros/aros_logo.png"
+  },
+  {
+    "name": "Burt",
+    "businessField": "Big Data, Data Visualization and Analytics",
+    "employees": "35",
+    "website": "<a href=\"http://www.burtcorp.com\" target=\"_blank\">www.burtcorp.com</a>",
+    "contact": "Andreas Holmström<br><a href=\"mailto:andreas@burtcorp.com\">andreas@burtcorp.com</a><br>0709703700",
+    "description": "<p>Burt works with some of the world's largest media companies, such as CBS, News Corp, Bonnier and many others, helping them understand their customers and make their business more efficient. At Burt we have one leg in the Big Data pond, collecting data about users to do real-time segmentation and lifetime value analysis of any online content, and another in data integration and visualization, helping our customers consolidate information from hundreds of systems into one user interface with tools for specialised professional roles. <br><br>If you dream about making the world a better and happier place, by replacing huge manually maintained excel sheets full of errors with beautiful and perfectly accurate dashboards, or ponder thread safety in large distributed hosted environments in the shower, you should definitely come by and say hi! <br><br>We are an enthusiastic and reasonably social group of people who love spending time at our beautiful offices on Vallgatan. Feel free to check us out on Instagram, @burtcorp</p>",
+    "educations": [
+      "Information Technology",
+      "Computer Science"
+    ],
+    "positions": [
+      "Summer job", "Full-time job", "MSc Thesis","Internship"
+    ],
+    "smallImage": "../img/burt/burt_logo.png"
+  },
+  {
     "name": "CANEA Partner Group",
     "businessField": "Software Development",
     "employees": "80",
@@ -47,6 +96,39 @@
       "Trainee", "Full-time job"
     ],
     "smallImage": "../img/capgemini/capgemini_logo.png"
+  },
+  {
+    "name": "Consat",
+    "businessField": "Industry, IT, Energy, Automotive, Life Science <br> and ITS for Public Transportation",
+    "employees": "200",
+    "website": "<a href=\"http://www.consat.se\" target=\"_blank\">www.consat.se</a>",
+    "contact": "Ragnar Hallgren<br><a href=\"mailto:ragnar.hallgren@consat.se\">ragnar.hallgren@consat.se</a><br>0313400080",
+    "description": "<p>Consat startade 1986 och är idag ett av Sveriges ledande, privatägda ingenjörshus. Bolagsgruppen växer ständigt av egen kraft i takt med en ökande efterfrågan av våra tjänster och produkter. <br><br> Consat är ett starkt entreprenörsdrivet företag med platt organisation och korta beslutsvägar. Vi anställer medarbetare med driv, engagemang och passion för teknik. Consat erbjuder dig som medarbetare, goda utvecklingsmöjligheter, trevliga kollegor och möjligheten att tillämpa dina kunskaper branschöverskridande.<br><br>  Våra engagerade och duktiga ledare säkerställer attraktiva anställningsvillkor med individanpassade utvecklingsmöjligheter. Genom att satsa på långsiktiga relationer möjliggör vi uppdrag för dig som involverar arbete med innovativa, marknadsledande företag såväl ute hos kunden som internt på våra utvecklingskontor.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Full-time job",  "MSc Thesis"
+    ],
+    "smallImage": "../img/consat/consat_logo.png"
+  },
+  {
+    "name": "Cygni Väst",
+    "businessField": "IT Consultancy, System Development",
+    "employees": "20",
+    "website": "<a href=\"http://www.cygni.se\" target=\"_blank\">www.cygni.se</a>",
+    "contact": "Ann-Sofie Rolandsdotter<br><a href=\"mailto:ann-sofie.rolandsdotter@cygni.se\">ann-sofie.rolandsdotter@cygni.se</a><br>0723020869",
+    "description": "<p>På konsultbolaget Cygni jobbar 110 av Stockholms och Göteborgs absolut skickligaste systemutvecklare. Bolaget grundades med visionen att skapa 'den bästa arbetsplatsen för en skicklig och ambitiös systemutvecklare'. Cygni har vunnit titeln Sveriges Bästa Arbetsplats fyra år i rad (2014-2017) och dessutom vunnit titeln Europas Bästa Arbetsplats tre gånger. Dessa utmärkelser baseras på stiftelsen Great Place To Works världsledande medarbetarundersökning som genomförs i över 50 länder. <br><br> Cygni jobbar med de flesta ledande mediabolagen i Sverige men även kunder inom finans, spel, telekom och retail. Bland Cygnis största kunder återfinns exempelvis Sveriges Television, Spotify, Com Hem, Scila, Svenska Spel, Expressen och finanskoncernen Bisnode. <br><br> Varje år anställer Cygni några nyexade inom ramen för ett talangprogram. Dessa talanger får utöver en personlig mentor även gå en rad skräddarsydda utbildningar, jobba parallellt med Cygnis seniorkonsulter i riktiga kundprojekt, ta relevanta certifieringar och snabbt bygga upp sin kompetens som professionella systemutvecklare. Det finns få bättre sätt att kickstarta sin karriär än att gå Cygnis talangprogram!</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Full-time job"
+    ],
+    "smallImage": "../img/cygni/cygni_logo.png"
   },
   {
     "name": "Emerson",
@@ -80,6 +162,22 @@
       "Part-time job","Full-time job"
     ],
     "smallImage": "../img/endeavor/endeavor_logo.png"
+  },
+  {
+    "name": "Findwise",
+    "businessField": "IT consultancy services",
+    "employees": "123",
+    "website": "<a href=\"http://www.findwise.com\" target=\"_blank\">www.findwise.com</a>",
+    "contact": "Maria Johansson<br><a href=\"mailto:maria.johansson@findwise.com\">maria.johansson@findwise.com</a><br>0736127811",
+    "description": "<p>Talent attract talent. To find new talented people we must make the ones who are already working here thrive and feel inspired. How? Well, talented people must be respected as equals and be given the freedom to create and innovate. You don’t hire a talent to tell him or her how to do what they are talented at. We want our people to feel encouraged to act independently and bravely, that is how their talents best are put to use for Findwise and our clients. Tomorrow, simplicity will rule. Simplicity means easier, faster and smarter. We are experts in creating search driven solutions for various business needs. <br><br> Among our clients are SKF, SCA, Chalmers, SEB, Scania, Swedish Social Insurance Agency and Telenor. Our goal is to help them maximize the business value of their information assets. To make knowledgeable decisions easier and faster. Award winning Findwise, founded in 2005, is a growing IT consultancy with 100+ employees at offices in Sweden, Denmark, Norway, Finland and Poland. We offer platform independent consulting to create Findability solutions. We supply search technology expertise as well as consulting in related fields such as user experience, linguistics, information management, big data and security.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Part-time job","Full-time job","MSc Thesis"
+    ],
+    "smallImage": "../img/findwise/findwise_logo.png"
   },
   {
     "name": "i3tex",
@@ -131,6 +229,37 @@
     "smallImage": "../img/netlight/netlight_logo.png"
   },
   {
+    "name": "Palantir",
+    "businessField": "Software",
+    "employees": "2000",
+    "website": "<a href=\"http://www.palantir.com\" target=\"_blank\">www.palantir.com</a>",
+    "contact": "Inga Penkina<br><a href=\"mailto:ipenkina@palantir.com\">ipenkina@palantir.com</a><br>+447495394128",
+    "description": "<p>At Palantir, we’re passionate about building software that solves real-world problems. We partner with the most important institutions in the world to transform how they use data, bringing our world-class software platform to bear against complex data environments in order to solve existential threats. Our software has been used to stop terrorist attacks, discover new medicines, gain an edge in global financial markets, and more. By integrating all their data into one platform, organizations in the public, private, and non-profit sectors can solve problems they never could have before. <br><br> Small teams of Palantir engineers operate like mini-startups as they deploy and extend our technology for each customer to solve their unique problems. We have always recognized that problems aren't confined to Silicon Valley—so neither are we. With more than 20 offices around the globe — including in Stockholm, Oslo and Copenhagen — we make sure that our forward deployed teams can go where they're needed most with the support they need to succeed. <br><br> The problems we solve aren't the problems your typical software company addresses. Our engineers aren't building a platform to sell ads or get likes; they're building tools that can — and do — change the world. Not only that, but they're doing it in a way that protects privacy and preserves security. We help organizations manage their data, but also empower them to comply with regulations in a way that ensures that nobody's rights are being violated. <br><br> If you're interested in working with a highly committed group of people working for a better world, we're interested in you. <br> If you're interested in more autonomy to build, design, and do things that matter, we're interested in you. <br> If you're interested in a unique opportunity to grow and develop as an engineer, we're interested in you. <br><br> At Palantir, instead of just thinking about the future of data, we're building it. Come help us do it.</p>",
+    "educations": [
+      "Computer Science"
+    ],
+    "positions": [
+      "Internship","Full-time job","MSc Thesis","Summer job"
+    ],
+    "smallImage": "../img/palantir/palantir_logo.png"
+  },
+  {
+    "name": "RUAG Space",
+    "businessField": "Space industry",
+    "employees": "490",
+    "website": "<a href=\"http://www.ruag.com\" target=\"_blank\">www.ruag.com</a>",
+    "contact": "Angelica Stehr Åkerdahl<br><a href=\"mailto:angelica.akerdahl@ruag.com\">angelica.akerdahl@ruag.com</a><br>0317354495",
+    "description": "<p>RUAG Space is Europe’s leading independent supplier of space products to the industry with 1 200 employees at twelve locations in Switzerland, Sweden, Finland, Austria, Germany and USA. <br><br> RUAG Space Sweden’s main products are computers, microwave electronics and antennas for satellites, adapters and separation systems for space launchers. The company is headquartered in Gothenburg, Sweden, with a unit for mechanical systems in Linköping, Sweden, and a unit for electronic systems in Tampere, Finland. RUAG Space AB has approx. 490 employees.</p>",
+    "educations": [
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Trainee","Full-time job", "MSc Thesis","Summer job"
+    ],
+    "smallImage": "../img/ruag/ruag_logo.png"
+  },
+  {
     "name": "Saab",
     "businessField": "Defence and Security",
     "employees": "15500",
@@ -146,5 +275,39 @@
       "Trainee","Full-time job", "MSc Thesis","Summer job"
     ],
     "smallImage": "../img/saab/saab_logo.png"
+  },
+  {
+    "name": "SKF",
+    "businessField": "Industry",
+    "employees": "46000",
+    "website": "<a href=\"http://www.skf.com\" target=\"_blank\">www.skf.com</a>",
+    "contact": "Jenny Roos<br><a href=\"mailto:jenny.roos@skf.com\">jenny.roos@skf.com</a><br>0313372262",
+    "description": "<p>More than a century of leadership in the design and manufacture of bearings has given SKF a unique understanding of rotating equipment and how machine components and industrial processes are interrelated. This expertise, combined with decades of application experience in every major industry, has given SKF the ability to understand the “language” spoken by a machine’s moving components. <br><br>There is a wide variety of opportunities!</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Trainee","Full-time job", "MSc Thesis","Summer job", "Internship"
+    ],
+    "smallImage": "../img/skf/skf_logo.png"
+  },
+  {
+    "name": "ÅF",
+    "businessField": "IT, Embedded, Systems Management",
+    "employees": "9700",
+    "website": "<a href=\"http://www.afconsult.com/\" target=\"_blank\">www.afconsult.com</a>",
+    "contact": "Anna Strebel<br><a href=\"mailto:anna.strebel@afconsult.com\">anna.strebel@afconsult.com</a><br>0730429341",
+    "description": "<p>ÅF is an engineering and consulting company and we are moving society forward by connecting with diverse talents. <br><br> Our pool of experience, with a unique range of technologies, creates solutions that are profitable, innovative and sustainable. <br><br> Many believe ÅF is all about technology. But we think our story is mainly about people – bold engineers, business experts, visionary leaders and other professionals working together so new insights and ideas can grow into smart solutions that move society forward.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Full-time job", "MSc Thesis"
+    ],
+    "smallImage": "../img/af/af_logo.png"
   }
 ]
