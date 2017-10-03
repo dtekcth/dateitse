@@ -17,6 +17,23 @@
     "smallImage": "../img/academicwork/academicwork_logo.png"
   },
   {
+    "name": "Alten Sverige",
+    "businessField": "Energy, Telecom, Automotive, Life Science, <br>Pharmaceuticals, Defence & Aerospace",
+    "employees": "1700",
+    "website": "<a href=\"http://www.alten.se\" target=\"_blank\">www.alten.se</a>",
+    "contact": "Emma Ramsöy Wennergren<br><a href=\"mailto:emma.ramsoywennergren@alten.se\">emma.ramsoywennergren@alten.se</a><br>0766076618",
+    "description": "<p>At ALTEN Sweden we develop and deliver expertise for world-leading companies and have a committed team of engineers and IT consultants. Our customers are found in the Energy, Telecom, Automotive, Life Science, Pharmaceuticals, Defence & Aerospace and other industries and we cover the whole product development cycle. We are a part of the ALTEN Group and have a workforce of over 27.000 in 23 countries. <br><br>We believe that genuine commitment comes through freedom of choice and the opportunity to have a say in one's own professional development. Our business model offers that opportunity. This freedom of choice enables us to offer our customers the very best consultants, regardless of assignment.</p>",
+    "educations": [
+      "Electrical Engineering",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Full-time job", "MSc Thesis"
+    ],
+    "smallImage": "../img/alten/alten_logo.png"
+  },
+  {
     "name": "ARCCORE",
     "businessField": "Products and services for the embedded systems market, specifically for automotive.",
     "employees": "85",
@@ -81,6 +98,7 @@
     ],
     "smallImage": "../img/canea/canea_logo.png"
   },
+
   {
     "name": "Capgemini",
     "businessField": "Information Technology and Services",
@@ -98,6 +116,23 @@
     "smallImage": "../img/capgemini/capgemini_logo.png"
   },
   {
+    "name": "CEVT",
+    "businessField": "Automotive, Research & Development",
+    "employees": "2000",
+    "website": "<a href=\"http://www.cevt.se\" target=\"_blank\">www.cevt.se</a>",
+    "contact": "Jacob Krafft<br><a href=\"mailto:jacob.krafft@cevt.se\">jacob.krafft@cevt.se</a><br>0729802058",
+    "description": "<p>As a student at CEVT you will get the opportunity to share your ides, help us find new ways of doing things - and have a lot of fun! Come meet us at DATE-IT to learn more about our Master Thesis projects and our Summer Internship. <br><br>CEVT is an innovation center for the future cars of the Geely Group with the purpose of being at the forefront of new developments in the automotive industry. The whole industry is now undergoing a transformation with new ways of thinking about the car as a product. CEVT is a fast growing, fast moving and exciting company where no day is like the other – where the challenges of tomorrow is on our working table today. <br><br>CEVT currently consists of some 2000 people with offices in Gothenburg and Trollhättan in Sweden. CEVT currently works on projects for the car brands Volvo Cars, Geely Auto and Lynk & Co. CEVT is a subsidiary of Zhejiang Geely Holding Group. For more information about CEVT, go to www.cevt.se <br><br>If you share our passion for engineering and innovation, and want to work in a global organisation that embraces diversity, CEVT could be the right place for you. </p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Full-time job", "MSc Thesis", "Summer job"
+    ],
+    "smallImage": "../img/cevt/cevt_logo.png"
+  },
+  {
     "name": "Consat",
     "businessField": "Industry, IT, Energy, Automotive, Life Science <br> and ITS for Public Transportation",
     "employees": "200",
@@ -106,12 +141,45 @@
     "description": "<p>Consat startade 1986 och är idag ett av Sveriges ledande, privatägda ingenjörshus. Bolagsgruppen växer ständigt av egen kraft i takt med en ökande efterfrågan av våra tjänster och produkter. <br><br> Consat är ett starkt entreprenörsdrivet företag med platt organisation och korta beslutsvägar. Vi anställer medarbetare med driv, engagemang och passion för teknik. Consat erbjuder dig som medarbetare, goda utvecklingsmöjligheter, trevliga kollegor och möjligheten att tillämpa dina kunskaper branschöverskridande.<br><br>  Våra engagerade och duktiga ledare säkerställer attraktiva anställningsvillkor med individanpassade utvecklingsmöjligheter. Genom att satsa på långsiktiga relationer möjliggör vi uppdrag för dig som involverar arbete med innovativa, marknadsledande företag såväl ute hos kunden som internt på våra utvecklingskontor.</p>",
     "educations": [
       "Computer Science",
-      "Information Technology"
+      "Information Technology",
+      "Electrical Engineering"
     ],
     "positions": [
       "Full-time job",  "MSc Thesis"
     ],
     "smallImage": "../img/consat/consat_logo.png"
+  },
+  {
+    "name": "Consid",
+    "businessField": "IT, Management & Digital Marketing",
+    "employees": "510",
+    "website": "<a href=\"http://www.consid.se\" target=\"_blank\">www.consid.se</a>",
+    "contact": "Fredrik Ek<br><a href=\"mailto:fredrik.ek@consid.se\">fredrik.ek@consid.se</a><br>0703374428",
+    "description": "<p>Consid is one of the fastest growing companies providing services within IT, Management and Digital Marketing in Sweden. We work with the latest technologies as well as assisting our clients in utilizing and making money through them. We make sure that our customers become the best in the world at what they do by taking advantage of the full potential of the digital world.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "MSc Thesis", "Trainee", "Internship", "Summer job", "Part-time job","Full-time job"
+    ],
+    "smallImage": "../img/consid/consid_logo.png"
+  },
+  {
+    "name": "CPAC Systems",
+    "businessField": "Advanced Vehicle Electronics and Control Systems",
+    "employees": "131",
+    "website": "<a href=\"http://www.cpacsystems.se\" target=\"_blank\">www.cpacsystems.se</a>",
+    "contact": "Linus Josefsson<br><a href=\"mailto:linus.josefsson@cpacsystems.se\">linus.josefsson@cpacsystems.se</a><br>0709390515",
+    "description": "<p>We create products and features that differentiate our clients from their competitors (differentiating technology) and turn these into high-value products (industrialized innovation). <br><br> Working with system integration in safety critical control systems, we have a proven and impressive track record of developing and industrializing differentiating technology within vehicle automation, maneuvering, X-by-wire systems, autonomy, HMI and control of hybrid drivelines. <br><br> CPAC Systems is an independent company within the Volvo Group and our clients are global renowned brands within the commercial transport industry.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+     "MSc Thesis", "Internship", "Summer job", "Part-time job","Full-time job"
+    ],
+    "smallImage": "../img/cpac/cpac_logo.png"
   },
   {
     "name": "Cybercom Sweden",
@@ -181,6 +249,23 @@
     "smallImage": "../img/endeavor/endeavor_logo.png"
   },
   {
+    "name": "Ericsson",
+    "businessField": "Information and Communications Technology, software & hardware, research.",
+    "employees": "120000",
+    "website": "<a href=\"http://www.ericsson.com\" target=\"_blank\">www.ericsson.com</a>",
+    "contact": "Oliver Hammarstig<br><a href=\"mailto:oliver.hammarstig@ericsson.com\">oliver.hammarstig@ericsson.com</a><br>+46107121985",
+    "description": "<p>Predicting the future is fun. Inventing it is powerful. We do both. <br><br>5G is coming, and Ericsson is the early leader in bringing it to market. With the commercial launch of 5G expected in 2020, and pre-commercial trials already happening now, there’s never been a better time for you to make your mark. The possibilities are endless across industries – from automotive and transport to agriculture, utilities, and more. <br><br>Ericsson is a truly global company built on innovation. You can find us in 180 countries all around the world but today we are at Date-IT. Come and talk to us and find out how you plus Ericsson makes for a powerful combination.</p>",
+    "educations": [
+      "Electrical Engineering",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Full-time job", "Trainee", "Summer job",  "MSc Thesis"
+    ],
+    "smallImage": "../img/ericsson/ericsson_logo_1.png"
+  },
+  {
     "name": "Findwise",
     "businessField": "IT consultancy services",
     "employees": "123",
@@ -212,6 +297,22 @@
       "MSc Thesis","Full-time job"
     ],
     "smallImage": "../img/i3tex/i3tex_logo.png"
+  },
+  {
+    "name": "Knowit",
+    "businessField": "IT",
+    "employees": "1980",
+    "website": "<a href=\"http://www.knowit.se\" target=\"_blank\">www.knowit.se</a>",
+    "contact": "Sonia Sanghera<br><a href=\"mailto:sonia.sanghera@knowit.se\">sonia.sanghera@knowit.se</a><br>0703562142",
+    "description": "<p>Knowit AB (publ) is a consultancy firm which creates unique client value by offering interdisciplinary deliveries from three business fields: Solutions, Experience and Insight. It is the capacity to combine competencies within IT, design, communication and management that sets us apart from other consultancy firms. Our culture is characterized by openness, understanding of the client’s business, high competence and a drive to constantly develop. For further information about at Knowit, please visit www.knowit.se</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "MSc Thesis","Full-time job","Trainee"
+    ],
+    "smallImage": "../img/knowit/knowit_logo.png"
   },
   {
     "name": "Kollmorgen",
@@ -275,6 +376,23 @@
       "Internship","Full-time job","MSc Thesis","Summer job"
     ],
     "smallImage": "../img/palantir/palantir_logo.png"
+  },
+  {
+    "name": "Qmatic",
+    "businessField": "Customer experience and customer flow management",
+    "employees": "300",
+    "website": "<a href=\"http://www.qmatic.com\" target=\"_blank\">www.qmatic.com</a>",
+    "contact": "Henrik Lindberg<br><a href=\"mailto:henrik.lindberg@qmatic.com\">henrik.lindberg@qmatic.com</a><br>0701054691",
+    "description": "<p>Qmatic is a leading company in maximizing customer experience. Our solutions and tools allows customers to choose between services, check-in for appointments, find the way or simply take a ticket to a queue. We look after the whole life cycle of our solutions; from innovation and development to manufacturing, sales, installation, maintenance and support. Our solutions enable integration of the virtual/on-line and real world to facilitate a seamless customer experience resulting in superior customer satisfaction. Qmatic is full of talented ambitious people with different backgrounds. We all share the same values and work towards the same goals. At Qmatic you will get a unique chance to work with a fast growing company where individuals truly can make a difference. Qmatic operates in over 120 countries through own subsidiaries and partner network. The group has a turnover of EUR 60 million.</p>",
+    "educations": [
+      "Electrical Engineering",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Full-time job","MSc Thesis"
+    ],
+    "smallImage": "../img/q-matic/q-matic_logo.png"
   },
   {
     "name": "Qualisys",
