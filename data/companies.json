@@ -114,6 +114,23 @@
     "smallImage": "../img/consat/consat_logo.png"
   },
   {
+    "name": "Cybercom Sweden",
+    "businessField": "IT and engineering",
+    "employees": "1300",
+    "website": "<a href=\"http://www.cybercom.com\" target=\"_blank\">www.cybercom.com</a>",
+    "contact": "Lotta Arkstål<br><a href=\"mailto:lotta.arkstal@cybercom.com\">lotta.arkstal@cybercom.com</a><br>0768292808",
+    "description": "<p>Cybercom is an innovative IT consulting company enabling companies and organisations to benefit from the opportunities of the connected world and to enhance their competitiveness. Our clients are mainly in telecoms, automotive and the public sector, as well as in commerce and the media. These are leading companies and authorities that require systems, applications, products and services to communicate with each other quickly, efficiently and securely – and in the right way.</p>",
+    "educations": [
+      "Electrical Engineering",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship","Full-time job", "MSc Thesis"
+    ],
+    "smallImage": "../img/cybercom/cybercom_logo.png"
+  },
+  {
     "name": "Cygni Väst",
     "businessField": "IT Consultancy, System Development",
     "employees": "20",
@@ -229,6 +246,22 @@
     "smallImage": "../img/netlight/netlight_logo.png"
   },
   {
+    "name": "Omegapoint",
+    "businessField": "IT Consulting",
+    "employees": "70",
+    "website": "<a href=\"http://www.omegapoint.se\" target=\"_blank\">www.omegapoint.se</a>",
+    "contact": "Kristina Lennermo<br><a href=\"mailto:kristina.lennermo@omegapoint.se\">kristina.lennermo@omegapoint.se</a><br>0706299816",
+    "description": "<p>At Omegapoint nothing is more important than our co-workers and learning culture. Here you'll have a real chance to contribute and develop.<br><br> Do you want to work with IT, Application Development and/or Business Development together with passionate IT-Consultants and Security Experts? Are you intrigued by industries where technology makes a real difference? Do you think the life of a consultant seems exciting? Then we have something in common!<br><br> With us you will become part of a company defined by openness, development, and dedication. Knowledge and personal growth are our core values. We encourage curiosity and a desire to learn from each other. Every hour. Every day.<br><br> Omegapoint is growing in all fields and we are constantly looking for new, dedicated colleagues. Come and secure your development together with us!</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Trainee","Full-time job", "MSc Thesis"
+    ],
+    "smallImage": "../img/omegapoint/omegapoint_logo.png"
+  },
+  {
     "name": "Palantir",
     "businessField": "Software",
     "employees": "2000",
@@ -242,6 +275,22 @@
       "Internship","Full-time job","MSc Thesis","Summer job"
     ],
     "smallImage": "../img/palantir/palantir_logo.png"
+  },
+  {
+    "name": "Qualisys",
+    "businessField": "Provider of motion capture technology",
+    "employees": "38",
+    "website": "<a href=\"http://www.qualisys.com\" target=\"_blank\">www.qualisys.com</a>",
+    "contact": "Helen Rydén<br><a href=\"mailto:helen.ryden@qualisys.com\">helen.ryden@qualisys.com</a><br>0703607225",
+    "description": "<p>Qualisys is a leading provider of motion capture technology and has a long history of supplying research, engineering and sports facilities with high-end camera systems and expertise in capturing and analyzing movements. Qualisys offers a wide range of products and services and has offices in Gothenburg, Chicago and Shanghai. <br><br> Our customers are found in the biomechanical research, sports biomechanics and medical sectors. Our systems are also used for engineering and specialized industrial purposes. <br><br> Qualisys is certified according to ISO 9001:2015 and compliant with Medical Device Directive 93/42/EEC, which demonstrates our commitment to provide highest possible quality products and services to our customers. The certifications reflect our ongoing investment in technology, process and people.</p>",
+    "educations": [
+      "Electrical Engineering",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship","Summer job", "MSc Thesis"
+    ],
+    "smallImage": "../img/qualisys/qualisys_logo.png"
   },
   {
     "name": "RUAG Space",
