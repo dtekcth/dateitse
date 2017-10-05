@@ -216,6 +216,23 @@
     "smallImage": "../img/cygni/cygni_logo.png"
   },
   {
+    "name": "Diadrom Systems",
+    "businessField": "Embedded software, system engineering, software development, autotech",
+    "employees": "55",
+    "website": "<a href=\"http://www.diadrom.se\" target=\"_blank\">www.diadrom.se</a>",
+    "contact": "Kent Tarrach<br><a href=\"mailto:kent.tarrach@diadrom.se\">kent.tarrach@diadrom.se</a><br>0735256698",
+    "description": "<p>Diadrom is a leading software company within Diagnostics of Autotech, with our own products and via expert consulting. Accordingly, customer use us as a complement resource in their projects, where our expertise is highly valued (e.g., central systems, software download, configuration or remote and client base diagnostics systems). <br><br>The company was founded in 1999 and has a majority of the customer base in the automotive sector. Other customer sectors include industrial machinery, defense, security and public transport. Diadrom is traded on NASDAQ OMX First North (ticker DIAH). <br><br>For us at Diadrom, it is very important to have a nice and open relationship between all colleagues where everybody contributes and feels as home at Diadrom. We do spontaneous after works, game nights, joint lunches, “fika” and parties. Over the past years we have gone on conference trips throughout Europe.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Full-time job", "MSc Thesis"
+    ],
+    "smallImage": "../img/diadrom/diadrom_logo.png"
+  },
+  {
     "name": "Emerson",
     "businessField": "Technology; Radar based level measuring",
     "employees": "360",
@@ -251,7 +268,7 @@
   {
     "name": "Ericsson",
     "businessField": "Information and Communications Technology, software & hardware, research.",
-    "employees": "120000",
+    "employees": "120 000",
     "website": "<a href=\"http://www.ericsson.com\" target=\"_blank\">www.ericsson.com</a>",
     "contact": "Oliver Hammarstig<br><a href=\"mailto:oliver.hammarstig@ericsson.com\">oliver.hammarstig@ericsson.com</a><br>+46107121985",
     "description": "<p>Predicting the future is fun. Inventing it is powerful. We do both. <br><br>5G is coming, and Ericsson is the early leader in bringing it to market. With the commercial launch of 5G expected in 2020, and pre-commercial trials already happening now, there’s never been a better time for you to make your mark. The possibilities are endless across industries – from automotive and transport to agriculture, utilities, and more. <br><br>Ericsson is a truly global company built on innovation. You can find us in 180 countries all around the world but today we are at Date-IT. Come and talk to us and find out how you plus Ericsson makes for a powerful combination.</p>",
@@ -297,6 +314,22 @@
       "MSc Thesis","Full-time job"
     ],
     "smallImage": "../img/i3tex/i3tex_logo.png"
+  },
+  {
+    "name": "Jeppesen",
+    "businessField": "Optimization solutions for airlines and train operators worldwide",
+    "employees": "350",
+    "website": "<a href=\"http://www.jeppesen.com\" target=\"_blank\">www.jeppesen.com</a>",
+    "contact": "Cormac O'Brien<br><a href=\"mailto:cormac.obrien@jeppesen.com\">cormac.obrien@jeppesen.com</a><br>0739018217",
+    "description": "<p>With 300 employees from over 30 countries at our office on Odinsgatan in central Göteborg, Jeppesen is one of the largest IT employers on the Swedish west coast. In Göteborg we develop optimization solutions for airlines and train operators worldwide, and we have the largest optimization research & development team in Sweden. <br><br>We solve some of the most intricate problems you can imagine – in one of the most exciting and dynamic industries you can find. We are passionate about making the complex simple! Jeppesen is a subsidiary of Boeing, the world’s leading aerospace company, employing more than 160 000 people in 70 countries.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Internship","Full-time job","MSc Thesis","Summer job"
+    ],
+    "smallImage": "../img/jeppesen/jeppesen_logo.png"
   },
   {
     "name": "Knowit",
@@ -418,7 +451,7 @@
     "contact": "Angelica Stehr Åkerdahl<br><a href=\"mailto:angelica.akerdahl@ruag.com\">angelica.akerdahl@ruag.com</a><br>0317354495",
     "description": "<p>RUAG Space is Europe’s leading independent supplier of space products to the industry with 1 200 employees at twelve locations in Switzerland, Sweden, Finland, Austria, Germany and USA. <br><br> RUAG Space Sweden’s main products are computers, microwave electronics and antennas for satellites, adapters and separation systems for space launchers. The company is headquartered in Gothenburg, Sweden, with a unit for mechanical systems in Linköping, Sweden, and a unit for electronic systems in Tampere, Finland. RUAG Space AB has approx. 490 employees.</p>",
     "educations": [
-      "Information Technology",
+      "Computer Science",
       "Electrical Engineering"
     ],
     "positions": [
@@ -429,7 +462,7 @@
   {
     "name": "Saab",
     "businessField": "Defence and Security",
-    "employees": "15500",
+    "employees": "15 500",
     "website": "<a href=\"http://www.saabgroup.com\" target=\"_blank\">www.saabgroup.com</a>",
     "contact": "Peter Wiberg<br><a href=\"mailto:peter.l.wiberg@saabgroup.com\">peter.l.wiberg@saabgroup.com</a><br>0734379412",
     "description": "<p>At Saab, we constantly look ahead and push boundaries for what is considered technically possible. We collaborate with colleagues around the world who all share our challenge – to make the world a safer place. <br><br> We are 15 500 open minded pioneers and we serve the global market with world-leading products, services and solutions ranging from military defence to civil security. Come join us! <br><br> As an employee at Saab you are offered unparelled development possibilities. Through our performance driven culture you can influence your own development. We invest in our leaders, we encourage internal mobility, we identify and nurture talents, and we provide international opportunity. What is your next step?</p>",
@@ -446,7 +479,7 @@
   {
     "name": "SKF",
     "businessField": "Industry",
-    "employees": "46000",
+    "employees": "46 000",
     "website": "<a href=\"http://www.skf.com\" target=\"_blank\">www.skf.com</a>",
     "contact": "Jenny Roos<br><a href=\"mailto:jenny.roos@skf.com\">jenny.roos@skf.com</a><br>0313372262",
     "description": "<p>More than a century of leadership in the design and manufacture of bearings has given SKF a unique understanding of rotating equipment and how machine components and industrial processes are interrelated. This expertise, combined with decades of application experience in every major industry, has given SKF the ability to understand the “language” spoken by a machine’s moving components. <br><br>There is a wide variety of opportunities!</p>",
@@ -459,6 +492,40 @@
       "Trainee","Full-time job", "MSc Thesis","Summer job", "Internship"
     ],
     "smallImage": "../img/skf/skf_logo.png"
+  },
+  {
+    "name": "Syntronic",
+    "businessField": "Global Design House within Embedded SW/HW, Algorithm and Wireless towards business areas Automotive, Telecom, Industrial, Medtech and Defense.",
+    "employees": "800",
+    "website": "<a href=\"http://www.syntronic.com\" target=\"_blank\">www.syntronic.com</a>",
+    "contact": "Johan Lindström<br><a href=\"mailto:johl@syntronic.com\">johl@syntronic.com</a><br>+46101711350",
+    "description": "<p>At Syntronic you get the opportunity to develop yourself together with dedicated employees. We work within several sectors with exciting and challenging projects in an international environment. Syntronic is a leading design house specializing in advanced product and systems development, production and aftermarket services. We adopt the latest technologies in electronics design and software development with a team of technically skilled staff around the world. <br><br>Among our customers and partners are some of the world's most technology intensive businesses and organizations in sectors such as telecom, defence, industrial, medtech and automotive. Our offices are located in Gävle, Göteborg, Linköping, Lund, Sandviken, Stockholm, Kuala Lumpur, Penang, Beijing, Chengdu, Shanghai, Jakarta and Ottawa.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Full-time job", "MSc Thesis"
+    ],
+    "smallImage": "../img/syntronic/syntronic_logo.png"
+  },
+  {
+    "name": "Volvo Group",
+    "businessField": "Automotive",
+    "employees": "95 000",
+    "website": "<a href=\"http://www.volvogroup.com\" target=\"_blank\">www.volvogroup.com</a>",
+    "contact": "Annie Tillmo<br><a href=\"mailto:annie.tillmo@consultant.volvo.com\">jannie.tillmo@consultant.volvo.com</a><br>0313236406",
+    "description": "<p>The Volvo Group is one of the world’s leading manufacturers of trucks, buses, construction equipment and marine and industrial engines. The Group also provides complete solutions for financing and service. The Volvo Group, with its headquarters in Gothenburg, employs about 95,000 people, has production facilities in 18 countries and sells its products in more than 190 markets.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Trainee","Full-time job", "MSc Thesis","Summer job", "Internship", "Part-time job"
+    ],
+    "smallImage": "../img/volvo/volvo_logo.png"
   },
   {
     "name": "ÅF",
