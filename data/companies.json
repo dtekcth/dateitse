@@ -51,20 +51,53 @@
     "smallImage": "../img/arccore/arccore_logo.png"
   },
   {
-    "name": "Aros Electronics",
-    "businessField": "Electronics, Mechatronics, Embedded systems, <br> Electrical drive systems, Control systems, Electric power",
-    "employees": "150",
-    "website": "<a href=\"http://www.aros.se\" target=\"_blank\">www.aros.se</a>",
-    "contact": "Magnus Wide<br><a href=\"mailto:magnus.wide@aros.se\">magnus.wide@aros.se</a><br>0317768224",
-    "description": "<p>Aros Electronics AB provides totally integrated solutions including electrical motors, mechanics and control electronics to customers all over the world. Drawing strength from our in-house development and production, we are focusing on applications for custom unique electrical drive systems. Some of the applications where we deliver products are industrial robots, high speed doors, textile machinery, steering control for boats and trucks. We are developing mechatronic solutions with a multi-disciplinary approach, which allows for you as an employee to broaden your competence. <br><br> Aros is a great place for students to perform their master thesis projects because of the company’s welcoming attitude for new ideas. Aros offers a lot of interesting master thesis projects that can be found on our webpage. Some master thesis projects performed at Aros are analysis and implementation of regenerative breaking, design and evaluation of a DC/DC converter, but your own suggestions are very welcome! <br><br> Aros is located in Mölndal and a part of the Van de Wiele group, which opens up the possibilities for international work and commitments.</p>",
+  "name": "Aros Electronics",
+  "businessField": "Electronics, Mechatronics, Embedded systems, <br> Electrical drive systems, Control systems, Electric power",
+  "employees": "150",
+  "website": "<a href=\"http://www.aros.se\" target=\"_blank\">www.aros.se</a>",
+  "contact": "Magnus Wide<br><a href=\"mailto:magnus.wide@aros.se\">magnus.wide@aros.se</a><br>0317768224",
+  "description": "<p>Aros Electronics AB provides totally integrated solutions including electrical motors, mechanics and control electronics to customers all over the world. Drawing strength from our in-house development and production, we are focusing on applications for custom unique electrical drive systems. Some of the applications where we deliver products are industrial robots, high speed doors, textile machinery, steering control for boats and trucks. We are developing mechatronic solutions with a multi-disciplinary approach, which allows for you as an employee to broaden your competence. <br><br> Aros is a great place for students to perform their master thesis projects because of the company’s welcoming attitude for new ideas. Aros offers a lot of interesting master thesis projects that can be found on our webpage. Some master thesis projects performed at Aros are analysis and implementation of regenerative breaking, design and evaluation of a DC/DC converter, but your own suggestions are very welcome! <br><br> Aros is located in Mölndal and a part of the Van de Wiele group, which opens up the possibilities for international work and commitments.</p>",
+  "educations": [
+    "Electrical Engineering",
+    "Computer Science"
+  ],
+  "positions": [
+    "Trainee", "Summer job", "Full-time job", "MSc Thesis"
+  ],
+  "smallImage": "../img/aros/aros_logo.png"
+  },
+  {
+    "name": "Bekk",
+    "businessField": "IT consulting",
+    "employees": "400",
+    "website": "<a href=\"http://www.bekk.no\" target=\"_blank\">www.bekk.no</a>",
+    "contact": "Fredrik Stenbro<br><a href=\"mailto:fredrik.stenbro@bekk.no\">fredrik.stenbro@bekk.no</a><br>+4793284658",
+    "description": "<p>BEKK er et norsk selskap som lykkes på grunn av mennesker som brenner for faget sitt. <br><br>Vi jobber med strategi, design og teknologi og tror på tverrfaglige team. Hos oss får du muligheten til å utvikle løsninger som hjelper bedrifter med å nå sine mål innen digitalisering og nyskaping.</p>",
     "educations": [
-      "Electrical Engineering",
+      "Information Technology",
       "Computer Science"
     ],
     "positions": [
-      "Trainee", "Summer job", "Full-time job", "MSc Thesis"
+      "Summer job", "Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/aros/aros_logo.png"
+    "smallImage": "../img/bekk/bekk_logo.png"
+  },
+  {
+    "name": "Bombardier",
+    "businessField": "Delivers advanced signalling solutions for the rail industry",
+    "employees": "37 000",
+    "website": "<a href=\"http://www.bombardier.com\" target=\"_blank\">www.bombardier.com</a>",
+    "contact": "Sara Wallgren<br><a href=\"mailto:sara.wallgren@rail.bombardier.com\">sara.wallgren@rail.bombardier.com</a><br>0720120681",
+    "description": "<p>Bombardier Transportation is a global leader in the rail industry. <br><br>We at Bombardier in Gothenburg represent the Rail Control Solution division - RCS. <br><br>Rail Control Solutions has a strong skill base of over 3,600 employees working globally, primarily in Research & Product Development, Engineering, Safety Assurance, Service and Maintenance. With customers and offices in more than 50 countries around the world including the United Kingdom, USA, China, Germany, the Netherlands, Switzerland, Italy, Spain, Sweden, Thailand, South Korea, India, and Australia, we are best placed to positively respond to customer demands for innovative, state-of-the-art and safe railway system solutions. <br><br>We are constantly looking for talented software developers, testers, and system engineers. <br><br>Come visit us - and learn more about what we do and what RCS can offer!</p>",
+    "educations": [
+      "Electrical Engineering",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Trainee","Full-time job", "MSc Thesis","Summer job", "Internship"
+    ],
+    "smallImage": "../img/bombardier/bombardier_logo.png"
   },
   {
     "name": "Burt",
@@ -98,7 +131,6 @@
     ],
     "smallImage": "../img/canea/canea_logo.png"
   },
-
   {
     "name": "Capgemini",
     "businessField": "Information Technology and Services",
@@ -114,6 +146,23 @@
       "Trainee", "Full-time job"
     ],
     "smallImage": "../img/capgemini/capgemini_logo.png"
+  },
+  {
+    "name": "Carmenta",
+    "businessField": "Public Safety & Security, Defence and Traffic Management",
+    "employees": "80",
+    "website": "<a href=\"http://www.carmenta.com\" target=\"_blank\">www.carmenta.com</a>",
+    "contact": "Frida Alfredsson<br><a href=\"mailto:frida.alfredsson@carmenta.com\">frida.alfredsson@carmenta.com</a><br>0763071267",
+    "description": "<p>Carmenta has been supplying world-class software for mission-critical systems for more than 30 years – systems in which superior situational awareness is the key to success. We provide high performance software products, develop client-specific solutions and offer a wide range of services that help some of the world’s most technologically-advanced customers optimise their operations using real-time geospatial information. Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries in France, Spain and Germany. <br><br>For more information please visit carmenta.com</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "MSc Thesis", "Internship", "Full-time job"
+    ],
+    "smallImage": "../img/carmenta/carmenta_logo.png"
   },
   {
     "name": "CEVT",
@@ -216,6 +265,39 @@
     "smallImage": "../img/cygni/cygni_logo.png"
   },
   {
+    "name": "Delphi Automotive Systems",
+    "businessField": "Automotive Industry",
+    "employees": "230",
+    "website": "<a href=\"http://www.delphi.com\" target=\"_blank\">www.delphi.com</a>",
+    "contact": "Daniel Henriksson<br><a href=\"mailto:daniel.henriksson@delphi.com\">daniel.henriksson@delphi.com</a><br>0704739609",
+    "description": "<p>Tradition melds with tomorrow’s technology in Gothenburg. Delphi Sweden has decades of experience supporting the global automotive market with products ranging from software for infotainment and driver interfaces, active safety systems, wiring harnesses, to body electronics. With over 250 employees locally, Delphi Sweden is in an expansive phase and a recognized leader in the drive towards our vision of Safe, Green, and Connected. <br><br>At Electronics & Safety we offer exciting career opportunities in the fields of Software and Systems Engineering, Project Management, Sales, and Engineering Leadership, both locally and globally. You’ll be exposed to exciting innovative technologies, enthusiastic colleagues, and a multi-cultural, dynamic environment. <br><br>Did you know… <br>-The World's most powerful computing platform in the car industry, Audi's zFAS for the Audi A8, is developed by Delphi and shows the way in next generation in-vehicle server architecture? <br>-Our autonomous car Roadrunner made history as the first automated car to drive coast to coast in the US, a distance of over 3400 miles? <br>-Our CTO Jeff Owens recently gave a passionate speech at TEDx Detroit about being an engineer? <br>-Delphi is putting Las Vegas slot machine technology into cars with amazing 3D instrument clusters?",
+    "educations": [
+      "Computer Science",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "MSc Thesis", "Summer job", "Part-time job","Full-time job"
+    ],
+    "smallImage": "../img/delphi/delphi_logo.png"
+  },
+  {
+    "name": "DevPort",
+    "businessField": "Electricity, Energy & Power, Pruduct Development, Data & IT, Manufacturing, Logistics, Quality",
+    "employees": "210",
+    "website": "<a href=\"http://www.devport.se\" target=\"_blank\">www.devport.se</a>",
+    "contact": "Therese Nilsson<br><a href=\"mailto:therese.nilsson@devport.se\">therese.nilsson@devport.se</a><br>0709131919",
+    "description": "<p>DevPort is an engineering consultant company specialized in the development of systems, mechanics, software and electronics for the industry sector and other customers with similar needs like automotive, medical and defense area. <br><br>We work with advanced technologies within several different industries and are established suppliers to many of Scandinavia’s leading export companies. The company holds a deep experience and understanding in the complete development process, ranging from analysis and concept design, through system implementation, and to quality assurance. Technical information and documentation for the aftermarket as well as production engineering is also included in our services. Assignments can be both onsite at customer or as a project commitment at our offices. <br><br>Our main focus relies on our great experience from the automotive sector within propulsion and chassis development, connectivity and active safety. Our goal is to be the best consultant partner within these areas.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Full-time job","MSc Thesis"
+    ],
+    "smallImage": "../img/devport/devport_logo.png"
+  },
+  {
     "name": "Diadrom Systems",
     "businessField": "Embedded software, system engineering, software development, autotech",
     "employees": "55",
@@ -299,6 +381,23 @@
     "smallImage": "../img/findwise/findwise_logo.png"
   },
   {
+    "name": "Fingerprint Cards",
+    "businessField": "Biometric systems comprising sensors, algorithms, software and packaging technoligies.",
+    "employees": "550",
+    "website": "<a href=\"http://www.fingerprints.com\" target=\"_blank\">www.fingerprints.com</a>",
+    "contact": "Martin Karlsson<br><a href=\"mailto:martin.karlsson@fingerprints.com\">martin.karlsson@fingerprints.com</a><br>0707643553",
+    "description": "<p>Fingerprints develops biometric systems comprising sensors, algorithms, software and packaging technoligies. The success is based on product development at the cutting edge of technology, which results in world-leading products in terms of security, convenience and performance. The current product range consists largely of fingerprint sensors and customers are primarily manufacturers of smartphones and tablets, where the company is market leading.</p>",
+    "educations": [
+      "Electrical Engineering",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Full-time job", "MSc Thesis","Summer job", "Part-time job"
+    ],
+    "smallImage": "../img/fingerprint/fingerprint_logo.png"
+  },
+  {
     "name": "i3tex",
     "businessField": "Automotive, Aerospace, Industry, Telecom and Medical Device",
     "employees": "200",
@@ -314,6 +413,22 @@
       "MSc Thesis","Full-time job"
     ],
     "smallImage": "../img/i3tex/i3tex_logo.png"
+  },
+  {
+    "name": "Intunio",
+    "businessField": "Design and development of connected experiences, primarily in the areas of smart mobility, smart buildings/homes and medical technology.",
+    "employees": "10",
+    "website": "<a href=\"http://www.intunio.se\" target=\"_blank\">www.intunio.se</a>",
+    "contact": "Mikael Halén<br><a href=\"mailto:mikael.halen@intunio.se\">mikael.halen@intunio.se</a><br>0766444996",
+    "description": "<p>Intunio specialises in building intuitive interfaces for smart, mobile and connected devices. With decades of experience in combining strategy, design, and development we create meaningful, innovative, and lasting products. Our developers live for design and our designers dream about technology.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Full-time job", "MSc Thesis","Summer job", "Internship", "Part-time job"
+    ],
+    "smallImage": "../img/intunio/intunio_logo.png"
   },
   {
     "name": "Jeppesen",
@@ -396,6 +511,22 @@
     "smallImage": "../img/omegapoint/omegapoint_logo.png"
   },
   {
+    "name": "Opera",
+    "businessField": "Web browsers and other consumer products",
+    "employees": "500",
+    "website": "<a href=\"http://www.opera.com\" target=\"_blank\">www.opera.com</a>",
+    "contact": "Sara Lidström<br><a href=\"mailto:saral@opera.com\">saral@opera.com</a><br>0702298582",
+    "description": "<p>At Opera, we make web browsers for computers, mobile phones, tablets and TVs. We also work on providing other consumer products. Our aim is to shape an open, connected world, giving users the best internet experience on any device and any platform. We want to enable more people, in more places, to experience what matters, when it matters most.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Full-time job","MSc Thesis","Summer job"
+    ],
+    "smallImage": "../img/opera/opera_logo.png"
+  },
+  {
     "name": "Palantir",
     "businessField": "Software",
     "employees": "2000",
@@ -409,6 +540,22 @@
       "Internship","Full-time job","MSc Thesis","Summer job"
     ],
     "smallImage": "../img/palantir/palantir_logo.png"
+  },
+  {
+    "name": "Qlik",
+    "businessField": "Data Analysis - Business Intelligence",
+    "employees": "500",
+    "website": "<a href=\"http://www.qlik.com\" target=\"_blank\">www.qlik.com</a>",
+    "contact": "Heidrun Thorsteinsdottir<br><a href=\"mailto:hth@qlik.com\">hth@qlik.com</a><br>0708101298",
+    "description": "<p>Qlik® delivers intuitive platform solutions for self-service data visualization, guided analytics applications, embedded analytics and reporting to approximately 45,000 customers worldwide. Companies of all sizes, across all industries and geographies, use Qlik solutions to visualize and explore information, generate insight and make better decisions. At Qlik, we optimize Business Intelligence (BI) by harnessing the collective intelligence of people across an organization. We focus on empowering people—by enabling everyone in an organization to see the whole story that lives within their data.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Full-time job", "MSc Thesis","Summer job", "Part-time job"
+    ],
+    "smallImage": "../img/qlik/qlik_logo.png"
   },
   {
     "name": "Qmatic",
@@ -477,6 +624,23 @@
     "smallImage": "../img/saab/saab_logo.png"
   },
   {
+    "name": "Sigma",
+    "businessField": "Engineering, Consulting",
+    "employees": "3 500",
+    "website": "<a href=\"http://www.sigma.se\" target=\"_blank\">www.sigma.se</a>",
+    "contact": "Nataly Duyko<br><a href=\"mailto:nataly.duyko@sigmatechnology.se\">nataly.duyko@sigmatechnology.se</a><br>07251940482",
+    "description": "<p>Do you wish to work with the world’s latest technologies and the brands of tomorrow? Sigma is a leading Swedish consulting group that offers you challenging assignments, great culture and inspiring colleagues. We work with customers in many different industry sectors, both in Sweden and globally. <br><br>Our means are technological and strategic know-how with a constant passion for finding better solutions. We are characterized by our care for each other, our customers and our environment. At Sigma we love what we do and get things done. <br><br>Do you see your future career within such areas as software design, system & embedded development, product development, technical information, industrial design, testing or project management? - Let´s connect at DatE-IT!</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Full-time job", "MSc Thesis"
+    ],
+    "smallImage": "../img/sigma/sigma_logo.png"
+  },
+  {
     "name": "SKF",
     "businessField": "Industry",
     "employees": "46 000",
@@ -492,6 +656,22 @@
       "Trainee","Full-time job", "MSc Thesis","Summer job", "Internship"
     ],
     "smallImage": "../img/skf/skf_logo.png"
+  },
+  {
+    "name": "Squeed",
+    "businessField": "IT konsulter, Mjukvaruutveckling",
+    "employees": "55",
+    "website": "<a href=\"http://www.squeed.com\" target=\"_blank\">www.squeed.com</a>",
+    "contact": "Tomas Trolltoft<br><a href=\"mailto:tomas.trolltoft@squeed.com\">tomas.trolltoft@squeed.com</a><br>0709723864",
+    "description": "<p>Är du Squeeds nästa JavaOne Rockstar? <br>Eller kanske vår nästa Microsoft MVP? <br>Har du redan insett att kvalitet och test inte är en fas, roll eller aktivitet utan genomsyrar allt vi gör? <br>Har du ett agilt mindset? <br>Vill du ha några av Sveriges bästa utvecklare som kollegor? <br>Stämmer någon eller några av ovanstående påståenden in på Dig? Kul! Då vill vi samma sak. <br>Kom förbi vår monter och lär känna oss. <br><br>Vilka är Squeed? <br>Squeed fostrar framtidens superstjärnor, konsulter i dess rätta bemärkelse. <br>Vår företagskultur skapar möjligheter och utrymme för att växa som systemutvecklare och individ. Hos oss är det viktigare vem man är än vad man kan. <br>Vi vill ha dig som vill ta del utav vår kreativa och kompetenta miljö OCH samtidigt vill bidra till att utveckla och förädla den.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+     "Full-time job", "MSc Thesis"
+    ],
+    "smallImage": "../img/squeed/squeed_logo.png"
   },
   {
     "name": "Syntronic",
