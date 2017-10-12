@@ -398,6 +398,22 @@
     "smallImage": "../img/fingerprint/fingerprint_logo.png"
   },
   {
+    "name": "Greenbyte",
+    "businessField": "Next generation analytics cloud platforms for renewable energy assets",
+    "employees": "40",
+    "website": "<a href=\"http://www.greenbyte.com\" target=\"_blank\">www.greenbyte.com</a>",
+    "contact": "Jessica Gold<br><a href=\"mailto:jessica@greenbyte.com\">martin.karlsson@fingerprints.com</a><br>031146300",
+    "description": "<p>Our ambition is to make renewable electricity cheaper for the consumer and more profitable for the owner by converting more wind and solar into electricity. <br><br>We are confident that continuously pushing to lower investment / MWh will make wind and solar energy abundant worldwide within the next 10-15 years and thereby offsetting dirty, less profitable sources of electricity. <br><br>We use our expertise in renewable energy, computer science, and interface design to create products that generate valuable and actionable insights for increased power output. <br><br>Our customers range from wind farm developers to owners and operators with assets such as wind turbines, solar PV sites, met mast and remote sensing devices. Their common need is to understand and make sense of large sets of data. <br><br>We look forward to everything that will happen in renewable energy in the next 10-15 years and have a strong commitment to staying at the forefront of the technology curve and to always bring the most useful software technologies to the industry.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Full-time job","Part-time job"
+    ],
+    "smallImage": "../img/greenbyte/greenbyte_logo.png"
+  },
+  {
     "name": "i3tex",
     "businessField": "Automotive, Aerospace, Industry, Telecom and Medical Device",
     "employees": "200",
@@ -624,6 +640,23 @@
     "smallImage": "../img/saab/saab_logo.png"
   },
   {
+    "name": "Scionova",
+    "businessField": "Embedded Wireless",
+    "employees": "9",
+    "website": "<a href=\"http://www.scionova.se\" target=\"_blank\">www.scionova.se</a>",
+    "contact": "Henrik Sjöström<br><a href=\"mailto:henrik.sjostrom@scionova.com\">henrik.sjostrom@scionova.com</a><br>0709694411",
+    "description": "<p>Scionova is a development company offering services in embedded wireless system development. Our client portfolio ranges from great world-leading technology companies to smaller start-up companies. <br><br>With years of experience in designing and developing automotive, telecom and medical products employing wireless communication technologies; we help our clients through each phase of product life cycle of a wireless embedded system. <br><br>Scionova has a team of cherry-picked engineers who has a passion for wireless embedded systems backed with extensive experience in designing and developing embedded wireless systems.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Full-time job", "MSc Thesis"
+    ],
+    "smallImage": "../img/scionova/scionova_logo.png"
+  },
+  {
     "name": "Sigma",
     "businessField": "Engineering, Consulting",
     "employees": "3 500",
@@ -689,6 +722,39 @@
       "Full-time job", "MSc Thesis"
     ],
     "smallImage": "../img/syntronic/syntronic_logo.png"
+  },
+  {
+    "name": "The Techno Creatives",
+    "businessField": "Product development firm",
+    "employees": "50",
+    "website": "<a href=\"http://www.technocreatives.com/\" target=\"_blank\">www.technocreatives.com</a>",
+    "contact": "Oskar Hagberg<br><a href=\"mailto:oskar@technocreatives.com\">oskar@technocreatives.com</a><br>0706363424",
+    "description": "<p>We know how to SAVE or KILL large companies. <br><br>The Techno Creatives is a product development firm launching and developing products and ventures challenging the status quo in the industry. We take-on projects that has the possibility to disrupt complete markets by innovative thinking combining design, technology and business. Our teams includes world class serie-entrepreneurs, business leaders, corporate strategists, designers and developers with the courage to put products to the market that will impact every day life. We are true pioneers within every new industry we are challenging.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology"
+    ],
+    "positions": [
+      "Full-time job", "MSc Thesis","Summer job"
+    ],
+    "smallImage": "../img/technocreatives/technocreatives_logo.png"
+  },
+  {
+    "name": "Volvo Cars",
+    "businessField": "Research & Development, IT, Industry, Business",
+    "employees": "32 000",
+    "website": "<a href=\"http://www.volvocars.com\" target=\"_blank\">www.volvocars.com</a>",
+    "contact": "Fredrik Hulth<br><a href=\"mailto:fredrik.hulth@volvocars.com\">fredrik.hulth@volvocars.com</a><br>0766210263",
+    "description": "<p>The future belongs to those who are empowered by a great idea and have the ability to carry it out. At Volvo Cars, our vision is clear: 'To be the world's most progressive and desired premium car brand' by simplifying people's lives. We have bold targets when it comes to innovation, sales and customer satisfaction and we need talented people onboard. People with passion, energy, business sense and the drive to innovate. People that want to create the next generation Volvo cars in a global, dynamic and respectful environment. Join us on this exciting journey into the future.</p>",
+    "educations": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering"
+    ],
+    "positions": [
+      "Trainee","Full-time job", "MSc Thesis","Summer job"
+    ],
+    "smallImage": "../img/volvocars/volvocars_logo.png"
   },
   {
     "name": "Volvo Group",
