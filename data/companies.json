@@ -14,7 +14,8 @@
     "positions": [
       "Trainee", "Internship", "Summer job", "Part-time job","Full-time job"
     ],
-    "smallImage": "../img/academicwork/academicwork_logo.png"
+    "smallImage": "../img/academicwork/academicwork_logo.png",
+    "locationImage": "../img/montermaps/1.jpg"
   },
   {
     "name": "Alten Sverige",
@@ -31,7 +32,8 @@
     "positions": [
       "Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/alten/alten_logo.png"
+    "smallImage": "../img/alten/alten_logo.png",
+    "locationImage": "../img/montermaps/40.jpg"
   },
   {
     "name": "ARCCORE",
@@ -48,7 +50,8 @@
     "positions": [
       "Summer job", "MSc Thesis", "Full-time job"
     ],
-    "smallImage": "../img/arccore/arccore_logo.png"
+    "smallImage": "../img/arccore/arccore_logo.png",
+    "locationImage": "../img/montermaps/13.jpg"
   },
   {
   "name": "Aros Electronics",
@@ -64,7 +67,8 @@
   "positions": [
     "Trainee", "Summer job", "Full-time job", "MSc Thesis"
   ],
-  "smallImage": "../img/aros/aros_logo.png"
+  "smallImage": "../img/aros/aros_logo.png",
+    "locationImage": "../img/montermaps/45.jpg"
   },
   {
     "name": "Bekk",
@@ -80,7 +84,8 @@
     "positions": [
       "Summer job", "Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/bekk/bekk_logo.png"
+    "smallImage": "../img/bekk/bekk_logo.png",
+    "locationImage": "../img/montermaps/8.jpg"
   },
   {
     "name": "Bombardier",
@@ -97,7 +102,8 @@
     "positions": [
       "Trainee","Full-time job", "MSc Thesis","Summer job", "Internship"
     ],
-    "smallImage": "../img/bombardier/bombardier_logo.png"
+    "smallImage": "../img/bombardier/bombardier_logo.png",
+    "locationImage": "../img/montermaps/32.jpg"
   },
   {
     "name": "Burt",
@@ -113,7 +119,8 @@
     "positions": [
       "Summer job", "Full-time job", "MSc Thesis","Internship"
     ],
-    "smallImage": "../img/burt/burt_logo.png"
+    "smallImage": "../img/burt/burt_logo.png",
+    "locationImage": "../img/montermaps/5.jpg"
   },
   {
     "name": "CANEA Partner Group",
@@ -129,7 +136,8 @@
     "positions": [
       "Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/canea/canea_logo.png"
+    "smallImage": "../img/canea/canea_logo.png",
+    "locationImage": "../img/montermaps/14.jpg"
   },
   {
     "name": "Capgemini",
@@ -145,7 +153,8 @@
     "positions": [
       "Trainee", "Full-time job"
     ],
-    "smallImage": "../img/capgemini/capgemini_logo.png"
+    "smallImage": "../img/capgemini/capgemini_logo.png",
+    "locationImage": "../img/montermaps/30.jpg"
   },
   {
     "name": "Carmenta",
@@ -162,7 +171,8 @@
     "positions": [
       "MSc Thesis", "Internship", "Full-time job"
     ],
-    "smallImage": "../img/carmenta/carmenta_logo.png"
+    "smallImage": "../img/carmenta/carmenta_logo.png",
+    "locationImage": "../img/montermaps/22.jpg"
   },
   {
     "name": "CEVT",
@@ -179,7 +189,8 @@
     "positions": [
       "Full-time job", "MSc Thesis", "Summer job"
     ],
-    "smallImage": "../img/cevt/cevt_logo.png"
+    "smallImage": "../img/cevt/cevt_logo.png",
+    "locationImage": "../img/montermaps/38.jpg"
   },
   {
     "name": "Consat",
@@ -196,7 +207,8 @@
     "positions": [
       "Full-time job",  "MSc Thesis"
     ],
-    "smallImage": "../img/consat/consat_logo.png"
+    "smallImage": "../img/consat/consat_logo.png",
+    "locationImage": "../img/montermaps/37.jpg"
   },
   {
     "name": "Consid",
@@ -212,7 +224,8 @@
     "positions": [
       "MSc Thesis", "Trainee", "Internship", "Summer job", "Part-time job","Full-time job"
     ],
-    "smallImage": "../img/consid/consid_logo.png"
+    "smallImage": "../img/consid/consid_logo.png",
+    "locationImage": "../img/montermaps/24.jpg"
   },
   {
     "name": "CPAC Systems",
@@ -228,7 +241,8 @@
     "positions": [
      "MSc Thesis", "Internship", "Summer job", "Part-time job","Full-time job"
     ],
-    "smallImage": "../img/cpac/cpac_logo.png"
+    "smallImage": "../img/cpac/cpac_logo.png",
+    "locationImage": "../img/montermaps/16.jpg"
   },
   {
     "name": "Cybercom Sweden",
@@ -245,7 +259,8 @@
     "positions": [
       "Internship","Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/cybercom/cybercom_logo.png"
+    "smallImage": "../img/cybercom/cybercom_logo.png",
+    "locationImage": "../img/montermaps/31.jpg"
   },
   {
     "name": "Cygni Väst",
@@ -262,7 +277,8 @@
     "positions": [
       "Full-time job"
     ],
-    "smallImage": "../img/cygni/cygni_logo.png"
+    "smallImage": "../img/cygni/cygni_logo.png",
+    "locationImage": "../img/montermaps/17.jpg"
   },
   {
     "name": "Delphi Automotive Systems",
@@ -278,7 +294,8 @@
     "positions": [
       "MSc Thesis", "Summer job", "Part-time job","Full-time job"
     ],
-    "smallImage": "../img/delphi/delphi_logo.png"
+    "smallImage": "../img/delphi/delphi_logo.png",
+    "locationImage": "../img/montermaps/39.jpg"
   },
   {
     "name": "DevPort",
@@ -295,7 +312,8 @@
     "positions": [
       "Full-time job","MSc Thesis"
     ],
-    "smallImage": "../img/devport/devport_logo.png"
+    "smallImage": "../img/devport/devport_logo.png",
+    "locationImage": "../img/montermaps/15.jpg"
   },
   {
     "name": "Diadrom Systems",
@@ -312,7 +330,8 @@
     "positions": [
       "Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/diadrom/diadrom_logo.png"
+    "smallImage": "../img/diadrom/diadrom_logo.png",
+    "locationImage": "../img/montermaps/47.jpg"
   },
   {
     "name": "Emerson",
@@ -329,7 +348,8 @@
     "positions": [
       "MSc Thesis", "Summer job", "Part-time job","Full-time job"
     ],
-    "smallImage": "../img/emerson/emerson_logo.png"
+    "smallImage": "../img/emerson/emerson_logo.png",
+    "locationImage": "../img/montermaps/35.jpg"
   },
   {
     "name": "Endeavor",
@@ -345,7 +365,8 @@
     "positions": [
       "Part-time job","Full-time job"
     ],
-    "smallImage": "../img/endeavor/endeavor_logo.png"
+    "smallImage": "../img/endeavor/endeavor_logo.png",
+    "locationImage": "../img/montermaps/10.jpg"
   },
   {
     "name": "Ericsson",
@@ -362,7 +383,8 @@
     "positions": [
       "Full-time job", "Trainee", "Summer job",  "MSc Thesis"
     ],
-    "smallImage": "../img/ericsson/ericsson_logo_1.png"
+    "smallImage": "../img/ericsson/ericsson_logo_1.png",
+    "locationImage": "../img/montermaps/6.jpg"
   },
   {
     "name": "Findwise",
@@ -378,7 +400,8 @@
     "positions": [
       "Part-time job","Full-time job","MSc Thesis"
     ],
-    "smallImage": "../img/findwise/findwise_logo.png"
+    "smallImage": "../img/findwise/findwise_logo.png",
+    "locationImage": "../img/montermaps/2.jpg"
   },
   {
     "name": "Fingerprint Cards",
@@ -395,7 +418,8 @@
     "positions": [
       "Full-time job", "MSc Thesis","Summer job", "Part-time job"
     ],
-    "smallImage": "../img/fingerprint/fingerprint_logo.png"
+    "smallImage": "../img/fingerprint/fingerprint_logo.png",
+    "locationImage": "../img/montermaps/44.jpg"
   },
   {
     "name": "Greenbyte",
@@ -411,7 +435,8 @@
     "positions": [
       "Full-time job","Part-time job"
     ],
-    "smallImage": "../img/greenbyte/greenbyte_logo.png"
+    "smallImage": "../img/greenbyte/greenbyte_logo.png",
+    "locationImage": "../img/montermaps/41.jpg"
   },
   {
     "name": "i3tex",
@@ -428,7 +453,8 @@
     "positions": [
       "MSc Thesis","Full-time job"
     ],
-    "smallImage": "../img/i3tex/i3tex_logo.png"
+    "smallImage": "../img/i3tex/i3tex_logo.png",
+    "locationImage": "../img/montermaps/4.jpg"
   },
   {
     "name": "Intunio",
@@ -444,7 +470,8 @@
     "positions": [
       "Full-time job", "MSc Thesis","Summer job", "Internship", "Part-time job"
     ],
-    "smallImage": "../img/intunio/intunio_logo.png"
+    "smallImage": "../img/intunio/intunio_logo.png",
+    "locationImage": "../img/montermaps/12.jpg"
   },
   {
     "name": "Jeppesen",
@@ -460,7 +487,8 @@
     "positions": [
       "Internship","Full-time job","MSc Thesis","Summer job"
     ],
-    "smallImage": "../img/jeppesen/jeppesen_logo.png"
+    "smallImage": "../img/jeppesen/jeppesen_logo.png",
+    "locationImage": "../img/montermaps/3.jpg"
   },
   {
     "name": "Knowit",
@@ -476,7 +504,8 @@
     "positions": [
       "MSc Thesis","Full-time job","Trainee"
     ],
-    "smallImage": "../img/knowit/knowit_logo.png"
+    "smallImage": "../img/knowit/knowit_logo.png",
+    "locationImage": "../img/montermaps/42.jpg"
   },
   {
     "name": "Kollmorgen",
@@ -492,7 +521,8 @@
     "positions": [
       "MSc Thesis","Summer job"
     ],
-    "smallImage": "../img/kollmorgen/kollmorgen_logo.png"
+    "smallImage": "../img/kollmorgen/kollmorgen_logo.png",
+    "locationImage": "../img/montermaps/9.jpg"
   },
   {
     "name": "Netlight",
@@ -508,7 +538,8 @@
     "positions": [
       "Internship","Full-time job"
     ],
-    "smallImage": "../img/netlight/netlight_logo.png"
+    "smallImage": "../img/netlight/netlight_logo.png",
+    "locationImage": "../img/montermaps/46.jpg"
   },
   {
     "name": "Omegapoint",
@@ -524,7 +555,8 @@
     "positions": [
       "Trainee","Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/omegapoint/omegapoint_logo.png"
+    "smallImage": "../img/omegapoint/omegapoint_logo.png",
+    "locationImage": "../img/montermaps/20.jpg"
   },
   {
     "name": "Opera",
@@ -540,7 +572,8 @@
     "positions": [
       "Full-time job","MSc Thesis","Summer job"
     ],
-    "smallImage": "../img/opera/opera_logo.png"
+    "smallImage": "../img/opera/opera_logo.png",
+    "locationImage": "../img/montermaps/43.jpg"
   },
   {
     "name": "Palantir",
@@ -555,7 +588,8 @@
     "positions": [
       "Internship","Full-time job","MSc Thesis","Summer job"
     ],
-    "smallImage": "../img/palantir/palantir_logo.png"
+    "smallImage": "../img/palantir/palantir_logo.png",
+    "locationImage": "../img/montermaps/21.jpg"
   },
   {
     "name": "Qlik",
@@ -571,7 +605,8 @@
     "positions": [
       "Full-time job", "MSc Thesis","Summer job", "Part-time job"
     ],
-    "smallImage": "../img/qlik/qlik_logo.png"
+    "smallImage": "../img/qlik/qlik_logo.png",
+    "locationImage": "../img/montermaps/34.jpg"
   },
   {
     "name": "Qmatic",
@@ -588,7 +623,8 @@
     "positions": [
       "Full-time job","MSc Thesis"
     ],
-    "smallImage": "../img/q-matic/q-matic_logo.png"
+    "smallImage": "../img/q-matic/q-matic_logo.png",
+    "locationImage": "../img/montermaps/25.jpg"
   },
   {
     "name": "Qualisys",
@@ -604,7 +640,8 @@
     "positions": [
       "Internship","Summer job", "MSc Thesis"
     ],
-    "smallImage": "../img/qualisys/qualisys_logo.png"
+    "smallImage": "../img/qualisys/qualisys_logo.png",
+    "locationImage": "../img/montermaps/36.jpg"
   },
   {
     "name": "RUAG Space",
@@ -620,7 +657,8 @@
     "positions": [
       "Trainee","Full-time job", "MSc Thesis","Summer job"
     ],
-    "smallImage": "../img/ruag/ruag_logo.png"
+    "smallImage": "../img/ruag/ruag_logo.png",
+    "locationImage": "../img/montermaps/7.jpg"
   },
   {
     "name": "Saab",
@@ -637,7 +675,8 @@
     "positions": [
       "Trainee","Full-time job", "MSc Thesis","Summer job"
     ],
-    "smallImage": "../img/saab/saab_logo.png"
+    "smallImage": "../img/saab/saab_logo.png",
+    "locationImage": "../img/montermaps/23.jpg"
   },
   {
     "name": "Scionova",
@@ -654,7 +693,8 @@
     "positions": [
       "Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/scionova/scionova_logo.png"
+    "smallImage": "../img/scionova/scionova_logo.png",
+    "locationImage": "../img/montermaps/26.jpg"
   },
   {
     "name": "Sigma",
@@ -671,7 +711,8 @@
     "positions": [
       "Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/sigma/sigma_logo.png"
+    "smallImage": "../img/sigma/sigma_logo.png",
+    "locationImage": "../img/montermaps/48.jpg"
   },
   {
     "name": "SKF",
@@ -688,7 +729,8 @@
     "positions": [
       "Trainee","Full-time job", "MSc Thesis","Summer job", "Internship"
     ],
-    "smallImage": "../img/skf/skf_logo.png"
+    "smallImage": "../img/skf/skf_logo.png",
+    "locationImage": "../img/montermaps/33.jpg"
   },
   {
     "name": "Squeed",
@@ -704,7 +746,8 @@
     "positions": [
      "Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/squeed/squeed_logo.png"
+    "smallImage": "../img/squeed/squeed_logo.png",
+    "locationImage": "../img/montermaps/27.jpg"
   },
   {
     "name": "Syntronic",
@@ -721,7 +764,8 @@
     "positions": [
       "Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/syntronic/syntronic_logo.png"
+    "smallImage": "../img/syntronic/syntronic_logo.png",
+    "locationImage": "../img/montermaps/28.jpg"
   },
   {
     "name": "The Techno Creatives",
@@ -737,7 +781,8 @@
     "positions": [
       "Full-time job", "MSc Thesis","Summer job"
     ],
-    "smallImage": "../img/technocreatives/technocreatives_logo.png"
+    "smallImage": "../img/technocreatives/technocreatives_logo.png",
+    "locationImage": "../img/montermaps/11.jpg"
   },
   {
     "name": "Volvo Cars",
@@ -754,7 +799,8 @@
     "positions": [
       "Trainee","Full-time job", "MSc Thesis","Summer job"
     ],
-    "smallImage": "../img/volvocars/volvocars_logo.png"
+    "smallImage": "../img/volvocars/volvocars_logo.png",
+    "locationImage": "../img/montermaps/18.jpg"
   },
   {
     "name": "Volvo Group",
@@ -771,7 +817,8 @@
     "positions": [
       "Trainee","Full-time job", "MSc Thesis","Summer job", "Internship", "Part-time job"
     ],
-    "smallImage": "../img/volvo/volvo_logo.png"
+    "smallImage": "../img/volvo/volvo_logo.png",
+    "locationImage": "../img/montermaps/29.jpg"
   },
   {
     "name": "ÅF",
@@ -788,6 +835,7 @@
     "positions": [
       "Full-time job", "MSc Thesis"
     ],
-    "smallImage": "../img/af/af_logo.png"
+    "smallImage": "../img/af/af_logo.png",
+    "locationImage": "../img/montermaps/19.jpg"
   }
 ]
