@@ -11,9 +11,8 @@
       "Computer Science",
       "Information Technology"
     ],
- 
     "positions": [
-      "Full-time job", "Thesis Work"
+      "Full-time job", "MSc Thesis"
     ],
     "smallImage": "../img/1928diagnostics/1928diagnostics_logo.png",
     "locationImage": ""
@@ -30,9 +29,8 @@
       "Computer Science",
       "Information Technology"
     ],
- 
     "positions": [
-      "Full-time job", "Thesis Work"
+      "Full-time job", "MSc Thesis"
     ],
     "smallImage": "../img/3bits/3bits_logo.png",
     "locationImage": ""
@@ -52,7 +50,7 @@
     ],
  
     "positions": [
-      "Full-time job", "Thesis Work"
+      "Full-time job", "MSc Thesis"
     ],
     "smallImage": "../img/2050engineering/2050engineering_logo.png",
     "locationImage": ""
@@ -73,7 +71,7 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
     ],
  
     "positions": [
-      "Full-time job", "Thesis Work"
+      "Full-time job", "MSc Thesis"
     ],
     "smallImage": "../img/arccore/arccore_logo.png",
     "locationImage": ""
@@ -115,7 +113,7 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
     "locationImage": ""
   },
   {    
-  	"name": "Aptiv",
+    "name": "Aptiv",
     "businessField": "",
     "employees": "202",
     "website": "<a href=\"http://www.aptiv.com\" target=\"_blank\">www.aptiv.com</a>",
@@ -128,13 +126,13 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "Summerjob", "Thesis work", "Part-time"
+      "Full-time job", "Summerjob", "MSc Thesis", "Part-time"
     ],
     "smallImage": "../img/aptiv/aptiv_logo.png",
     "locationImage": ""
   },
   {    
-  	"name": "Appva",
+    "name": "Appva",
     "businessField": "",
     "employees": "7",
     "website": "<a href=\"http://www.appva.se\" target=\"_blank\">www.appva.se</a>",
@@ -145,7 +143,7 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "Summerjob", "Thesis work", "Part-time"
+      "Full-time job", "Summerjob", "MSc Thesis", "Part-time"
     ],
     "smallImage": "../img/appva/appva_logo.png",
     "locationImage": ""
@@ -162,13 +160,13 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "Summerjob", "Thesis work"
+      "Full-time job", "Summer job", "MSc Thesis"
     ],
     "smallImage": "../img/ascom/ascom_logo.png",
     "locationImage": ""
   },
   {    
-  	"name": "Aweria",
+    "name": "Aweria",
     "businessField": "",
     "employees": "4",
     "website": "<a href=\"http://www.aweria.se\" target=\"_blank\">www.aweria.se</a>",
@@ -179,7 +177,7 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "Thesis work"
+      "Full-time job", "MSc Thesis"
     ],
     "smallImage": "../img/aweria/aweria_logo.png",
     "locationImage": ""
@@ -196,7 +194,7 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
       "Computer Science"
     ],
     "positions": [
-      "Full-time job", "Thesis work"
+      "Full-time job", "MSc Thesis"
     ],
     "smallImage": "../img/broccoli/broccoli_logo.png",
     "locationImage": ""
@@ -309,7 +307,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "Summerjob", "Thesis work"
+      "Full-time job", "Summer job", "MSc Thesis"
     ],
     "smallImage": "../img/cobhamgaisler/cobhamgaisler_logo.png",
     "locationImage": ""
@@ -328,7 +326,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "Thesis work", "Internship"
+      "Full-time job", "MSc Thesis", "Internship"
     ],
     "smallImage": "../img/combitech/combitech_logo.png",
     "locationImage": ""
@@ -347,7 +345,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "Thesis work"
+      "Full-time job", "MSc Thesis"
     ],
     "smallImage": "../img/conmore/conmore_logo.png",
     "locationImage": ""
@@ -366,7 +364,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "Thesis work"
+      "Full-time job", "MSc Thesis"
     ],
     "smallImage": "../img/consat/consat_logo.png",
     "locationImage": ""
@@ -384,7 +382,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time job", "Summerjob", "Thesis work"
+      "Full-time job", "Summer job", "MSc Thesis"
     ],
     "smallImage": "../img/consid/consid_logo.png",
     "locationImage": ""
@@ -403,7 +401,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "Summerjob", "Thesis work", "Part-time job"
+      "Full-time job", "Summer job", "MSc Thesis", "Part-time job"
     ],
     "smallImage": "../img/cpac/cpac_logo.png",
     "locationImage": ""
@@ -421,7 +419,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time job", "Internship", "Thesis work"
+      "Full-time job", "Internship", "MSc Thesis"
     ],
     "smallImage": "../img/cybercom/cybercom_logo.png",
     "locationImage": ""
@@ -457,7 +455,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Internship", "Full-time job", "Thesis work"
+      "Internship", "Full-time job", "MSc Thesis"
     ],
     "smallImage": "../img/dfind/dfind_logo.png",
     "locationImage": ""
@@ -476,7 +474,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "Thesis work"
+      "Full-time job", "MSc Thesis"
     ],
     "smallImage": "../img/diadrom/diadrom_logo.png",
     "locationImage": ""
@@ -495,7 +493,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Internship", "Thesis work"
+      "Internship", "MSc Thesis"
     ],
     "smallImage": "../img/emerson/emerson_logo.png",
     "locationImage": ""
@@ -532,7 +530,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Internship", "Full-time work", "Summerjob", "Thesis work"
+      "Internship", "Full-time work", "Summer job", "MSc Thesis"
     ],
     "smallImage": "../img/ericsson/ericsson_logo.png",
     "locationImage": ""
@@ -587,7 +585,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Summerjob", "Thesis work"
+      "Full-time work", "Summer job", "MSc Thesis"
     ],
     "smallImage": "../img/hogia/hogia_logo.png",
     "locationImage": ""
@@ -624,7 +622,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Internship", "Full-time work", "Thesis work"
+      "Internship", "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/ifs/ifs_logo.png",
     "locationImage": ""
@@ -643,7 +641,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Internship", "Full-time work", "Thesis work"
+      "Internship", "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/infotiv/infotiv_logo.png",
     "locationImage": ""
@@ -662,7 +660,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "Thesis work"
+      "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/kits/kits_logo.png",
     "locationImage": ""
@@ -681,7 +679,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "Thesis work", "Summerjob"
+      "Full-time work", "MSc Thesis", "Summer job"
     ],
     "smallImage": "../img/kollmorgen/kollmorgen_logo.png",
     "locationImage": ""
@@ -699,7 +697,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Summerjob"
+      "Full-time work", "Summer job"
     ],
     "smallImage": "../img/netlight/netlight_logo.png",
     "locationImage": ""
@@ -717,7 +715,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Thesis work"
+      "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/omegapoint/omegapoint_logo.png",
     "locationImage": ""
@@ -735,7 +733,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Thesis work", "Summerjob"
+      "Full-time work", "MSc Thesis", "Summer job"
     ],
     "smallImage": "../img/rapidimages/rapidimages_logo.png",
     "locationImage": ""
@@ -753,7 +751,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Thesis work"
+      "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/redpill/redpill_logo.png",
     "locationImage": ""
@@ -772,7 +770,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "Thesis work", "Summerjob"
+      "Full-time work", "MSc Thesis", "Summer job"
     ],
     "smallImage": "../img/saab/saab_logo.png",
     "locationImage": ""
@@ -790,7 +788,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Thesis work"
+      "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/scionova/scionova_logo.png",
     "locationImage": ""
@@ -809,7 +807,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "Thesis work"
+      "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/sigma/sigma_logo.png",
     "locationImage": ""
@@ -827,7 +825,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Thesis work", "Summerjob", "Part-time work"
+      "Full-time work", "MSc Thesis", "Summer job", "Part-time work"
     ],
     "smallImage": "../img/sigmastocks/sigmastocks_logo.png",
     "locationImage": ""
@@ -846,7 +844,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "Thesis work", "Summerjob", "Internship"
+      "Full-time work", "MSc Thesis", "Summer job", "Internship"
     ],
     "smallImage": "../img/skf/skf_logo.png",
     "locationImage": ""
@@ -864,7 +862,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Thesis work"
+      "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/squeed/squeed_logo.png",
     "locationImage": ""
@@ -882,7 +880,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Thesis work"
+      "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/stratsys/stratsys_logo.png",
     "locationImage": ""
@@ -920,7 +918,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "Thesis work"
+      "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/syntronic/syntronic_logo.png",
     "locationImage": ""
@@ -939,7 +937,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "Summerjob"
+      "Full-time work", "Summer job"
     ],
     "smallImage": "../img/techmahindra/techmahindra.png",
     "locationImage": ""
@@ -975,7 +973,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Internship", "Thesis work"
+      "Internship", "MSc Thesis"
     ],
     "smallImage": "../img/valtech/valtech_logo.png",
     "locationImage": ""
@@ -994,14 +992,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Thesis work", "Full-time work", "Summerjob"
+      "MSc Thesis", "Full-time work", "Summer job"
     ],
     "smallImage": "../img/veoneer/veoneer_logo.png",
     "locationImage": ""
   },
 
   {    
-  	"name": "Volvo Group",
+    "name": "Volvo Group",
     "businessField": "",
     "employees": "100000",
     "website": "<a href=\"http://www.volvogroup.se\" target=\"_blank\">www.volvogroup.se/a>",
@@ -1013,7 +1011,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Thesis work", "Summerjob", "Internship"
+      "MSc Thesis", "Summer job", "Internship"
     ],
     "smallImage": "../img/volvo/volvo_logo.png",
     "locationImage": ""
@@ -1032,7 +1030,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Thesis work", "Summerjob", "Full-time work", "Part-time work"
+      "MSc Thesis", "Summer job", "Full-time work", "Part-time work"
     ],
     "smallImage": "../img/xamera/xamera_logo.png",
     "locationImage": ""
@@ -1050,7 +1048,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Thesis work"
+      "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/zenuity/zenuity_logo.png",
     "locationImage": ""
@@ -1068,7 +1066,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Thesis work"
+      "Full-time work", "MSc Thesis"
     ],
     "smallImage": "../img/af/af_logo.png",
     "locationImage": ""
@@ -1108,7 +1106,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "smallImage": "../img/qualisys/qualisys_logo.png",
     "locationImage": ""
   },
-    {
+  {
     "name": "QRTECH AB",
     "businessField": "",
     "employees": "38",
@@ -1125,7 +1123,7 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "smallImage": "../img/qrtech/qrtech_logo.png",
     "locationImage": ""
   }
-  ]
+]
 //   {
 //   "name": "Aros Electronics",
 //   "businessField": "Electronics, Mechatronics, Embedded systems, <br> Electrical drive systems, Control systems, Electric power",
