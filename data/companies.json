@@ -12,7 +12,8 @@
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis"
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/1928diagnostics/1928diagnostics_logo.png",
     "locationImage": ""
@@ -30,7 +31,8 @@
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis"
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/3bits/3bits_logo.png",
     "locationImage": ""
@@ -41,16 +43,15 @@
     "employees": "",
     "website": "<a href=\"www.2050engineering.se\" target=\"_blank\">www.2050engineering.se</a>",
     "contact": "<br><a href=\"mailto:jobb@3bits.se\">jobb@3bits.se</a><br>0317571200",
-    "description": "<p>2050 Engineering AB är ett konsultbolag inom inbyggd HW/SW, radar, mikrovågsteknik, antenner, AI, beräkning samt mekanik. Vi startade i maj 2018 och är idag 13 personer. Vi fortsätter att växa genom att anställa personer med rätt kompetens, rätt inställning och stort engagemang. I 2050 Engineering jobbar vi både med uppdrag hos kund samt interna projekt inom Qamcom Group. Många av projekten på kontoret innefattar inbyggt HW/SW, radar, antenner, signalbehandling och verifiering. Även systemering av säkerhetskritisk SW är en av våra inriktningar.
-2050 Engineering är mycket måna om att de anställda utvecklas med sina arbetsuppgifter och vill därför ha en öppen dialog om vad nästa steg i den anställdes karriär är.</p>",
+    "description": "<p>2050 Engineering AB är ett konsultbolag inom inbyggd HW/SW, radar, mikrovågsteknik, antenner, AI, beräkning samt mekanik. Vi startade i maj 2018 och är idag 13 personer. Vi fortsätter att växa genom att anställa personer med rätt kompetens, rätt inställning och stort engagemang. I 2050 Engineering jobbar vi både med uppdrag hos kund samt interna projekt inom Qamcom Group. Många av projekten på kontoret innefattar inbyggt HW/SW, radar, antenner, signalbehandling och verifiering. Även systemering av säkerhetskritisk SW är en av våra inriktningar. 2050 Engineering är mycket måna om att de anställda utvecklas med sina arbetsuppgifter och vill därför ha en öppen dialog om vad nästa steg i den anställdes karriär är.</p>",
     "educations": [
       "Electrical Engineering",
       "Computer Science",
       "Information Technology"
     ],
- 
     "positions": [
-      "Full-time job", "MSc Thesis"
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/2050engineering/2050engineering_logo.png",
     "locationImage": ""
@@ -61,22 +62,20 @@
     "employees": "",
     "website": "<a href=\"www.arcore.com\" target=\"_blank\">www.arcore.com</a>",
     "contact": "<br><a href=\"mailto:annie.friden@arccore.com\">annie.friden@arccore.com</a><br>0724008383",
-    "description": "<p>ARCCORE, founded in 2006 and headquartered in Sweden, is a global supplier of embedded soft- ware products for highly complex automotive software solutions focusing on the Autonomous Drive, Infotainment and Embedded Control market. Our products are based on renowned industry standards like AUTOSAR, Linux, Android and more and we are an active contributor to the global development of new standards.
-Our heart is in solving problems and being able to offer our customers solutions. Having a genuine passion for developing the smart cars of the future, we build our relationships - internally as well as externally - based on trust.
-ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik since 2018. At 24 locations worldwide, over 2,000 Vector employees support manufacturers and suppliers of the auto- motive industry and related industries with a professional platform of tools, software components and services for developing embedded systems.</p>",
+    "description": "<p>ARCCORE, founded in 2006 and headquartered in Sweden, is a global supplier of embedded soft- ware products for highly complex automotive software solutions focusing on the Autonomous Drive, Infotainment and Embedded Control market. Our products are based on renowned industry standards like AUTOSAR, Linux, Android and more and we are an active contributor to the global development of new standards. Our heart is in solving problems and being able to offer our customers solutions. Having a genuine passion for developing the smart cars of the future, we build our relationships - internally as well as externally - based on trust. ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik since 2018. At 24 locations worldwide, over 2,000 Vector employees support manufacturers and suppliers of the auto- motive industry and related industries with a professional platform of tools, software components and services for developing embedded systems.</p>",
     "educations": [
       "Electrical Engineering",
       "Computer Science",
       "Information Technology"
     ],
- 
     "positions": [
-      "Full-time job", "MSc Thesis"
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/arccore/arccore_logo.png",
     "locationImage": ""
   },
-    {
+  {
     "name": "Academic Work",
     "businessField": "",
     "employees": "",
@@ -89,7 +88,9 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis", "Part-time"
+      "Full-time job",
+      "MSc Thesis",
+      "Part-time"
     ],
     "smallImage": "../img/academicwork/academicwork_logo.png",
     "locationImage": ""
@@ -107,31 +108,34 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis"
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/alten/alten_logo.png",
     "locationImage": ""
   },
-  {    
+  {
     "name": "Aptiv",
     "businessField": "",
     "employees": "202",
     "website": "<a href=\"http://www.aptiv.com\" target=\"_blank\">www.aptiv.com</a>",
     "contact": "Daniel Henriksson<br><a href=\"mailto:daniel.henriksson@aptiv.com\">daniel.henriksson@aptiv.com</a><br> 0704739609",
-    "description": "<p>At the Ux department at Aptiv in Göteborg, we’re organized in agile Scrum teams working in close collaboration together to develop our infotainment and user experience projects and platforms. Our skilled software and systems engineers work in exciting areas such as the Android Automotive platform for infotainment, HMI and app development, audio and connectivity, and Linux-based instrument clusters.
-</p>",
+    "description": "<p>At the Ux department at Aptiv in Göteborg, we’re organized in agile Scrum teams working in close collaboration together to develop our infotainment and user experience projects and platforms. Our skilled software and systems engineers work in exciting areas such as the Android Automotive platform for infotainment, HMI and app development, audio and connectivity, and Linux-based instrument clusters.</p>",
     "educations": [
       "Electrical Engineering",
       "Computer Science",
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "Summerjob", "MSc Thesis", "Part-time"
+      "Full-time job",
+      "Summerjob",
+      "MSc Thesis",
+      "Part-time"
     ],
     "smallImage": "../img/aptiv/aptiv_logo.png",
     "locationImage": ""
   },
-  {    
+  {
     "name": "Appva",
     "businessField": "",
     "employees": "7",
@@ -143,13 +147,16 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "Summerjob", "MSc Thesis", "Part-time"
+      "Full-time job",
+      "Summerjob",
+      "MSc Thesis",
+      "Part-time"
     ],
     "smallImage": "../img/appva/appva_logo.png",
     "locationImage": ""
   },
-  {    
-  	"name": "Ascom",
+  {
+    "name": "Ascom",
     "businessField": "",
     "employees": "1300",
     "website": "<a href=\"http://www.ascom.com\" target=\"_blank\">www.ascom.com</a>",
@@ -160,12 +167,14 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "Summer job", "MSc Thesis"
+      "Full-time job",
+      "Summer job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/ascom/ascom_logo.png",
     "locationImage": ""
   },
-  {    
+  {
     "name": "Aweria",
     "businessField": "",
     "employees": "4",
@@ -177,7 +186,8 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis"
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/aweria/aweria_logo.png",
     "locationImage": ""
@@ -194,7 +204,8 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
       "Computer Science"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis"
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/broccoli/broccoli_logo.png",
     "locationImage": ""
@@ -206,52 +217,51 @@ ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik si
     "employees": "80",
     "website": "<a href=\"http://www.canea.se\" target=\"_blank\">www.canea.se</a>",
     "contact": "Marie Almgren<br><a href=\"mailto:sara.pettersson@canea.se\">sara.pettersson@canea.se</a><br>0727379076",
-    "description": "<p>Vi lever i en snabbt föränderlig värld där det ständigt ställs nya krav på en organisation. CANEAs filosofi är att ge de strategier, system, arbetssätt och kompetens som både skapar förutsättningar och säker- ställer bästa resultat – som verkligen varar. Vår affärsidé är att konkret realisera den förbättringspotential som finns i alla verksamheter och skapa driv i förändringsarbetet. Vi gör detta genom att analysera, ut- veckla och införa strategier, system och kompetens hos våra kunder. Det leder till mätbara resultat i form av ökad effektivitet och nöjdare intressenter. Vi levererar konsulttjänster, IT-lösningar och utbildningar inom fyra huvudområden: Strategi, Organisation & Effektivisering, Projektledning och Ledningssystem. Vår egenutvecklade IT-lösning CANEA ONE är ett verksamhetssystem med integrerad hantering av strategier, projekt, processer, ärenden och dokument. Helt enkelt effektiv verksamhetsledning. CANEA ONE länkar ihop strategin med den dagliga verksamheten. Ett modulärt system där varje del är skapad för att ge rätt stöd i verksamheten.
-Vi på CANEA levererar varaktiga resultat genom att kombinera konsulttjänster, IT-lösningar och utbildningar</p>",
+    "description": "<p>Vi lever i en snabbt föränderlig värld där det ständigt ställs nya krav på en organisation. CANEAs filosofi är att ge de strategier, system, arbetssätt och kompetens som både skapar förutsättningar och säker- ställer bästa resultat – som verkligen varar. Vår affärsidé är att konkret realisera den förbättringspotential som finns i alla verksamheter och skapa driv i förändringsarbetet. Vi gör detta genom att analysera, ut- veckla och införa strategier, system och kompetens hos våra kunder. Det leder till mätbara resultat i form av ökad effektivitet och nöjdare intressenter. Vi levererar konsulttjänster, IT-lösningar och utbildningar inom fyra huvudområden: Strategi, Organisation & Effektivisering, Projektledning och Ledningssystem. Vår egenutvecklade IT-lösning CANEA ONE är ett verksamhetssystem med integrerad hantering av strategier, projekt, processer, ärenden och dokument. Helt enkelt effektiv verksamhetsledning. CANEA ONE länkar ihop strategin med den dagliga verksamheten. Ett modulärt system där varje del är skapad för att ge rätt stöd i verksamheten. Vi på CANEA levererar varaktiga resultat genom att kombinera konsulttjänster, IT-lösningar och utbildningar</p>",
     "educations": [
       "Computer Science",
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis"
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/canea/canea_logo.png",
     "locationImage": ""
   },
-
   {
     "name": "Capgemini",
     "businessField": "",
     "employees": "1353",
     "website": "<a href=\"http://www.capgemini.se\" target=\"_blank\">www.capgemini.se</a>",
     "contact": "Marie Almgren<br><a href=\"mailto:maria.lidgren@capgemini.com,\">maria.lidgren@capgemini.com</a><br> 0735 320949",
-    "description": "<p>A global leader in consulting, technology services, and digital transformation, Capgemini is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital, and platforms. Building on its strong 50-year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. It is a multicultural company of 200,000 team members in over 40 countries. The Group reported 2017 global revenues of EUR 12.8 billion.
-Visit us at www.capgemini.com. People matter, results count.</p>",
+    "description": "<p>A global leader in consulting, technology services, and digital transformation, Capgemini is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital, and platforms. Building on its strong 50-year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. It is a multicultural company of 200,000 team members in over 40 countries. The Group reported 2017 global revenues of EUR 12.8 billion. Visit us at www.capgemini.com. People matter, results count.</p>",
     "educations": [
       "Computer Science",
       "Information Technology"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis", "Internship"
+      "Full-time job",
+      "MSc Thesis",
+      "Internship"
     ],
     "smallImage": "../img/capgemini/capgemini_logo.png",
     "locationImage": ""
   },
-
   {
     "name": "Carmenta",
     "businessField": "Public Safety & Security, Defence and Traffic Management",
     "employees": "45",
     "website": "<a href=\"http://www.carmenta.com\" target=\"_blank\">www.carmenta.com</a>",
     "contact": "Katarina Lindgren<br><a href=\"mailto:katarina.lindgren@carmenta.com\">katarina.lindgren@carmenta.com</a><br>+46 722 36 32 59",
-    "description": "<p>Carmenta has been supplying world-class software for mission-critical systems for more than 30 years – systems in which superior situational awareness is the key to success. We provide high performance software products, develop client-specific solutions and offer a wide range of services that help some of the world’s most technologically-advanced customers optimise their operations using real-time geospatial information.
-Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries in France, Spain and Germany.</p>",
+    "description": "<p>Carmenta has been supplying world-class software for mission-critical systems for more than 30 years – systems in which superior situational awareness is the key to success. We provide high performance software products, develop client-specific solutions and offer a wide range of services that help some of the world’s most technologically-advanced customers optimise their operations using real-time geospatial information. Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries in France, Spain and Germany.</p>",
     "educations": [
       "Computer Science",
       "Information Technology"
     ],
     "positions": [
-      "MSc Thesis", "Full-time job"
+      "MSc Thesis",
+      "Full-time job"
     ],
     "smallImage": "../img/carmenta/carmenta_logo.png",
     "locationImage": ""
@@ -263,20 +273,21 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "employees": "8",
     "website": "<a href=\"http://www.chspromotion.se\" target=\"_blank\">www.chspromotion.se</a>",
     "contact": "<br><a href=\"mailto:info@chalmersrekrytering.se, work@chspromotion.com\">work@chspromotion.com, info@chalmersrekrytering.se</a><br>070 090 06 38",
-    "description": "<p>Chalmers Studentkår Rekrytering är Chalmers Studentkårs egna rekryterings- och bemanningsföretag. Vi drivs av engagerade studenter från Chalmers och GU och arbetar för att du som Chalmerist ska få ut så mycket det bara går av din studietid. Vi hjälper er hitta meriterande extrajobb under studierna och rätt heltidsjobb för er när ni tar examen. 
-    Chalmers Studentkår Promotion verkar för att knyta berikande kontakter mellan näringsliv och Chalmerister. Vi är det självklara valet för företag som vill marknadsföra sig på Chalmers. Utöver marknadsföring mot Chalmerister erbjuder vi fysiska möten. Från lunchföreläsning till cykelverkstad via en mingelkväll skapar vi fera möjligheter för företag att träffa, informera och inspirera studenter.</p>",
+    "description": "<p>Chalmers Studentkår Rekrytering är Chalmers Studentkårs egna rekryterings- och bemanningsföretag. Vi drivs av engagerade studenter från Chalmers och GU och arbetar för att du som Chalmerist ska få ut så mycket det bara går av din studietid. Vi hjälper er hitta meriterande extrajobb under studierna och rätt heltidsjobb för er när ni tar examen.  Chalmers Studentkår Promotion verkar för att knyta berikande kontakter mellan näringsliv och Chalmerister. Vi är det självklara valet för företag som vill marknadsföra sig på Chalmers. Utöver marknadsföring mot Chalmerister erbjuder vi fysiska möten. Från lunchföreläsning till cykelverkstad via en mingelkväll skapar vi fera möjligheter för företag att träffa, informera och inspirera studenter.</p>",
     "educations": [
       "Computer Science",
       "Information Technology",
       "Electrical Engineering"
     ],
     "positions": [
-      "Summer job", "Full-time job", "MSc Thesis", "Part-time job"
+      "Summer job",
+      "Full-time job",
+      "MSc Thesis",
+      "Part-time job"
     ],
     "smallImage": "../img/chalmersstudentkar/chalmersstudentkar_logo.png",
     "locationImage": ""
   },
-
   {
     "name": "Chalmers Teknologkonsulter",
     "businessField": "",
@@ -289,14 +300,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Information Technology"
     ],
     "positions": [
-      "Summer job", "Part-time job"
+      "Summer job",
+      "Part-time job"
     ],
     "smallImage": "../img/ctk/ctk_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Cobham Gaisler",
+  {
+    "name": "Cobham Gaisler",
     "businessField": "",
     "employees": "25",
     "website": "<a href=\"http://www.gaisler.com\" target=\"_blank\">www.gaisler.com</a>",
@@ -307,14 +318,15 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "Summer job", "MSc Thesis"
+      "Full-time job",
+      "Summer job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/cobhamgaisler/cobhamgaisler_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Combitech",
+  {
+    "name": "Combitech",
     "businessField": "",
     "employees": "1730",
     "website": "<a href=\"http://www.combitech.se\" target=\"_blank\">www.combitech.se</a>",
@@ -326,14 +338,15 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis", "Internship"
+      "Full-time job",
+      "MSc Thesis",
+      "Internship"
     ],
     "smallImage": "../img/combitech/combitech_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Conmore Ingenjörsbyrå",
+  {
+    "name": "Conmore Ingenjörsbyrå",
     "businessField": "",
     "employees": "25",
     "website": "<a href=\"http://www.conmore.se\" target=\"_blank\">www.conmore.se</a>",
@@ -345,14 +358,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis"
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/conmore/conmore_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Consat",
+  {
+    "name": "Consat",
     "businessField": "",
     "employees": "128",
     "website": "<a href=\"http://www.consat.se\" target=\"_blank\">www.consat.se</a>",
@@ -364,14 +377,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis"
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/consat/consat_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Consid AB",
+  {
+    "name": "Consid AB",
     "businessField": "",
     "employees": "700",
     "website": "<a href=\"http://www.consid.se\" target=\"_blank\">www.consid.se</a>",
@@ -382,14 +395,15 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time job", "Summer job", "MSc Thesis"
+      "Full-time job",
+      "Summer job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/consid/consid_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "CPAC systems",
+  {
+    "name": "CPAC systems",
     "businessField": "",
     "employees": "128",
     "website": "<a href=\"http://www.cpacsystems.se\" target=\"_blank\">www.cpacsystems.se</a>",
@@ -401,14 +415,16 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "Summer job", "MSc Thesis", "Part-time job"
+      "Full-time job",
+      "Summer job",
+      "MSc Thesis",
+      "Part-time job"
     ],
     "smallImage": "../img/cpac/cpac_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Cybercom Group",
+  {
+    "name": "Cybercom Group",
     "businessField": "",
     "employees": "1400",
     "website": "<a href=\"http://www.cybercom.com\" target=\"_blank\">www.cybercom.com</a>",
@@ -419,14 +435,15 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time job", "Internship", "MSc Thesis"
+      "Full-time job",
+      "Internship",
+      "MSc Thesis"
     ],
     "smallImage": "../img/cybercom/cybercom_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Cygni",
+  {
+    "name": "Cygni",
     "businessField": "",
     "employees": "23",
     "website": "<a href=\"http://www.cygni.se\" target=\"_blank\">www.cygni.se</a>",
@@ -442,9 +459,8 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "smallImage": "../img/cygni/cygni_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Dfind IT",
+  {
+    "name": "Dfind IT",
     "businessField": "",
     "employees": "1400",
     "website": "<a href=\"http://www.dfind.se/it\" target=\"_blank\">www.dfind.se/it</a>",
@@ -455,14 +471,15 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Internship", "Full-time job", "MSc Thesis"
+      "Internship",
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/dfind/dfind_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Diadrom",
+  {
+    "name": "Diadrom",
     "businessField": "",
     "employees": "46",
     "website": "<a href=\"http://www.diadrom.se\" target=\"_blank\">www.diadrom.se</a>",
@@ -474,14 +491,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time job", "MSc Thesis"
+      "Full-time job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/diadrom/diadrom_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Emerson Automaton Solutons",
+  {
+    "name": "Emerson Automaton Solutons",
     "businessField": "",
     "employees": "",
     "website": "<a href=\"http://www.emersonkarriar.se\" target=\"_blank\">www.emersonkarriar.se</a>",
@@ -493,14 +510,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Internship", "MSc Thesis"
+      "Internship",
+      "MSc Thesis"
     ],
     "smallImage": "../img/emerson/emerson_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Endeavor",
+  {
+    "name": "Endeavor",
     "businessField": "",
     "employees": "12",
     "website": "<a href=\"http://www.endeavor.se\" target=\"_blank\">www.endeavor.se</a>",
@@ -511,14 +528,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Internship", "Part-time work"
+      "Internship",
+      "Part-time work"
     ],
     "smallImage": "../img/endeavor/endeavor_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Ericsson AB",
+  {
+    "name": "Ericsson AB",
     "businessField": "",
     "employees": "15505",
     "website": "<a href=\"http://www.ericsson.com\" target=\"_blank\">www.ericsson.com</a>",
@@ -530,14 +547,16 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Internship", "Full-time work", "Summer job", "MSc Thesis"
+      "Internship",
+      "Full-time work",
+      "Summer job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/ericsson/ericsson_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Greenbyte",
+  {
+    "name": "Greenbyte",
     "businessField": "",
     "employees": "70",
     "website": "<a href=\"http://www.greenbyte.com\" target=\"_blank\">www.greenbyte.com</a>",
@@ -548,14 +567,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Part-time work"
+      "Full-time work",
+      "Part-time work"
     ],
     "smallImage": "../img/greenbyte/greenbyte_logo.png",
     "locationImage": ""
   },
-
-    {    
-  	"name": "HiQ",
+  {
+    "name": "HiQ",
     "businessField": "",
     "employees": "1600",
     "website": "<a href=\"http://www.hiq.se\" target=\"_blank\">www.hiq.se/a>",
@@ -572,9 +591,8 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "smallImage": "../img/hiq/hiq_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Hogia",
+  {
+    "name": "Hogia",
     "businessField": "",
     "employees": "650",
     "website": "<a href=\"http://www.hogia.se\" target=\"_blank\">www.hogia.se/a>",
@@ -585,14 +603,15 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Summer job", "MSc Thesis"
+      "Full-time work",
+      "Summer job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/hogia/hogia_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "HRM EDAG",
+  {
+    "name": "HRM EDAG",
     "businessField": "",
     "employees": "58",
     "website": "<a href=\"http://www.hrmedag.se\" target=\"_blank\">www.hrmedag.se/a>",
@@ -609,9 +628,8 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "smallImage": "../img/hrm_logo/hrm_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "IFS",
+  {
+    "name": "IFS",
     "businessField": "",
     "employees": "",
     "website": "<a href=\"http://www.ifsworld.com\" target=\"_blank\">wwww.ifsworld.com/a>",
@@ -622,14 +640,15 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Internship", "Full-time work", "MSc Thesis"
+      "Internship",
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/ifs/ifs_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Infotiv AB",
+  {
+    "name": "Infotiv AB",
     "businessField": "",
     "employees": "46",
     "website": "<a href=\"http://www.infotiv.se\" target=\"_blank\">www.infotiv.se/a>",
@@ -637,18 +656,19 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "description": "<p>Teknikkonsulter inom El & Elektronik, Testning, Projektledning, Konstruktion och Information. Infotiv bedriver, utöver produktutveckling för våra kunder, även forskning, prototyptillverkning och lågvolymtillverkning in-house och vi säljer även utbildningar inom våra samtliga av våra exper- tområden. Vi söker ingenjörer för anställning, exjobb, trainee och sommarjobb.</p>",
     "educations": [
       "Information Technology",
-      "Computer Science", 
+      "Computer Science",
       "Electrical Engineering"
     ],
     "positions": [
-      "Internship", "Full-time work", "MSc Thesis"
+      "Internship",
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/infotiv/infotiv_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Kits",
+  {
+    "name": "Kits",
     "businessField": "",
     "employees": "35",
     "website": "<a href=\"http://www.kits.se\" target=\"_blank\">www.kits.se/a>",
@@ -656,18 +676,18 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "description": "<p>KITS är ett it-konsultbolag baserat i Göteborg. Vi är en blandning av talanger och experter. Våra experter är de bästa konsulterna inom sina respektive teknik-/verksamhetsområden och våra talanger är på väg mot att bli experter. Vi har stort fokus på kompetensutveckling och kompetens- spridning inom våra teknik- och verksamhetsområden. Vi jobbar metodiskt och målinriktat med att hela tiden utveckla KITS till ett bättre bolag där det är högt i tak, processerna är agila och där det är kul på jobbet. Vi är grymma på arkitektur, mentorskap, systemutveckling, projektledning och metoder inom Java, JavaScript, .NET och Open source. Vår spetskompetens kommer bäst till nytta inom web/ mobilitet, telematik/Internet of things, säkerhet och integration. Vår vision är att bli norra Europas bästa bolag för engagerade och kreativa konsulter. Vår mission är att utveckla talanger till expert- er och låta experter förbli experter.</p>",
     "educations": [
       "Information Technology",
-      "Computer Science", 
+      "Computer Science",
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis"
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/kits/kits_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Kollmorgen Automation AB",
+  {
+    "name": "Kollmorgen Automation AB",
     "businessField": "",
     "employees": "65",
     "website": "<a href=\"http://www.kollmorgen.com/agv\" target=\"_blank\">www.kollmorgen.com/a>",
@@ -675,18 +695,19 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "description": "<p>Automatiska truckar (AGV:er) och mobila robotar förbättrar effektiviteten i tillverkning och lager utan stora investeringar. Med vår automationslösning NDC Solutions, som består av hårdvara, mjukvara och navigering, får man en beprövad plattform för att öka AGV-prestandan i ett brett urval av industrier i hela världen.</p>",
     "educations": [
       "Information Technology",
-      "Computer Science", 
+      "Computer Science",
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis", "Summer job"
+      "Full-time work",
+      "MSc Thesis",
+      "Summer job"
     ],
     "smallImage": "../img/kollmorgen/kollmorgen_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Netlight Consulting",
+  {
+    "name": "Netlight Consulting",
     "businessField": "",
     "employees": "468",
     "website": "<a href=\"http://www.netlight.com\" target=\"_blank\">www.netlight.com/a>",
@@ -697,14 +718,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "Summer job"
+      "Full-time work",
+      "Summer job"
     ],
     "smallImage": "../img/netlight/netlight_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Omegapoint Göteborg AB",
+  {
+    "name": "Omegapoint Göteborg AB",
     "businessField": "",
     "employees": "65",
     "website": "<a href=\"http://www.omegapoint.se\" target=\"_blank\">www.omegapoint.se/a>",
@@ -715,14 +736,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis"
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/omegapoint/omegapoint_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Rapid Images",
+  {
+    "name": "Rapid Images",
     "businessField": "",
     "employees": "70",
     "website": "<a href=\"http://www.rapidimages.se\" target=\"_blank\">www.rapidimages.se/a>",
@@ -733,14 +754,15 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis", "Summer job"
+      "Full-time work",
+      "MSc Thesis",
+      "Summer job"
     ],
     "smallImage": "../img/rapidimages/rapidimages_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Redpill Linpro AB",
+  {
+    "name": "Redpill Linpro AB",
     "businessField": "",
     "employees": "59",
     "website": "<a href=\"http://www.redpill-linpro.com\" target=\"_blank\">www.redpill-linpro.com/a>",
@@ -751,14 +773,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis"
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/redpill/redpill_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Saab AB",
+  {
+    "name": "Saab AB",
     "businessField": "",
     "employees": "16000",
     "website": "<a href=\"http://www.saabgroup.com\" target=\"_blank\">www.saabgroup.com/a>",
@@ -770,14 +792,15 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis", "Summer job"
+      "Full-time work",
+      "MSc Thesis",
+      "Summer job"
     ],
     "smallImage": "../img/saab/saab_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Scionova AB",
+  {
+    "name": "Scionova AB",
     "businessField": "",
     "employees": "9",
     "website": "<a href=\"http://www.scionova.com\" target=\"_blank\">www.scionova.com/a>",
@@ -788,14 +811,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis"
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/scionova/scionova_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Sigma AB",
+  {
+    "name": "Sigma AB",
     "businessField": "",
     "employees": "468",
     "website": "<a href=\"http://www.sigma.se\" target=\"_blank\">www.sigma.se/a>",
@@ -807,14 +830,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis"
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/sigma/sigma_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Sigmastocks",
+  {
+    "name": "Sigmastocks",
     "businessField": "",
     "employees": "11",
     "website": "<a href=\"http://www.sigmastocks.com\" target=\"_blank\">www.sigmastocks.com/a>",
@@ -825,14 +848,16 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis", "Summer job", "Part-time work"
+      "Full-time work",
+      "MSc Thesis",
+      "Summer job",
+      "Part-time work"
     ],
     "smallImage": "../img/sigmastocks/sigmastocks_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "SKF",
+  {
+    "name": "SKF",
     "businessField": "",
     "employees": "45000",
     "website": "<a href=\"http://www.skf.com\" target=\"_blank\">www.skf.com/a>",
@@ -844,14 +869,16 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis", "Summer job", "Internship"
+      "Full-time work",
+      "MSc Thesis",
+      "Summer job",
+      "Internship"
     ],
     "smallImage": "../img/skf/skf_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Squeed",
+  {
+    "name": "Squeed",
     "businessField": "",
     "employees": "74",
     "website": "<a href=\"http://www.squeed.com\" target=\"_blank\">www.squeed.com/a>",
@@ -862,14 +889,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis"
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/squeed/squeed_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Stratsys",
+  {
+    "name": "Stratsys",
     "businessField": "",
     "employees": "108",
     "website": "<a href=\"http://www.stratsys.com/sv/\" target=\"_blank\">www.stratsys.com/a>",
@@ -880,14 +907,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis"
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/stratsys/stratsys_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Sveriges Ingenjörer",
+  {
+    "name": "Sveriges Ingenjörer",
     "businessField": "",
     "employees": "100-199",
     "website": "<a href=\"http://www.sverigesingenjorer.se/student\" target=\"_blank\">www.sverigesingenjorer.se/a>",
@@ -904,9 +931,8 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "smallImage": "../img/sveing/sveing_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Syntronic AB",
+  {
+    "name": "Syntronic AB",
     "businessField": "",
     "employees": "1030",
     "website": "<a href=\"http://www.cyntronic.com\" target=\"_blank\">www.cyntronic.com/a>",
@@ -918,14 +944,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis"
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/syntronic/syntronic_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Tech Mahindra",
+  {
+    "name": "Tech Mahindra",
     "businessField": "",
     "employees": "66",
     "website": "<a href=\"http://www.techmahindra.com\" target=\"_blank\">www.techmahindra.com/a>",
@@ -937,14 +963,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "Full-time work", "Summer job"
+      "Full-time work",
+      "Summer job"
     ],
     "smallImage": "../img/techmahindra/techmahindra.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "The Techno Creatives + Navico",
+  {
+    "name": "The Techno Creatives + Navico",
     "businessField": "",
     "employees": "Navico: 2500, The Techno Creatives: 42",
     "website": "<a href=\"http://www.technocreatives.com, http://www.navico.com\" target=\"_blank\">www.technocreatives.com, www.navico.com/a>",
@@ -960,9 +986,8 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "smallImage": "../img/technonavico/technonavico_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Valtech",
+  {
+    "name": "Valtech",
     "businessField": "",
     "employees": "233",
     "website": "<a href=\"http://www.valtech.se\" target=\"_blank\">www.valtech.se/a>",
@@ -973,14 +998,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Internship", "MSc Thesis"
+      "Internship",
+      "MSc Thesis"
     ],
     "smallImage": "../img/valtech/valtech_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Veoneer Sweden AB",
+  {
+    "name": "Veoneer Sweden AB",
     "businessField": "",
     "employees": "7600",
     "website": "<a href=\"http://www.veoneer.com\" target=\"_blank\">www.veoneer.com/a>",
@@ -992,13 +1017,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "MSc Thesis", "Full-time work", "Summer job"
+      "MSc Thesis",
+      "Full-time work",
+      "Summer job"
     ],
     "smallImage": "../img/veoneer/veoneer_logo.png",
     "locationImage": ""
   },
-
-  {    
+  {
     "name": "Volvo Group",
     "businessField": "",
     "employees": "100000",
@@ -1011,14 +1037,15 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "MSc Thesis", "Summer job", "Internship"
+      "MSc Thesis",
+      "Summer job",
+      "Internship"
     ],
     "smallImage": "../img/volvo/volvo_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Xamera",
+  {
+    "name": "Xamera",
     "businessField": "",
     "employees": "42",
     "website": "<a href=\"http://www.xamera.se\" target=\"_blank\">www.xamera.se/a>",
@@ -1030,14 +1057,16 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Electrical Engineering"
     ],
     "positions": [
-      "MSc Thesis", "Summer job", "Full-time work", "Part-time work"
+      "MSc Thesis",
+      "Summer job",
+      "Full-time work",
+      "Part-time work"
     ],
     "smallImage": "../img/xamera/xamera_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "Zenuity",
+  {
+    "name": "Zenuity",
     "businessField": "",
     "employees": "580",
     "website": "<a href=\"http://www.zenuity.com\" target=\"_blank\">www.zenuity.com/a>",
@@ -1048,14 +1077,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis"
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/zenuity/zenuity_logo.png",
     "locationImage": ""
   },
-
-  {    
-  	"name": "ÅF Digital Solutions",
+  {
+    "name": "ÅF Digital Solutions",
     "businessField": "",
     "employees": "10000",
     "website": "<a href=\"http://www.afconsult.com\" target=\"_blank\">www.afconsult.com/a>",
@@ -1066,12 +1095,12 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Computer Science"
     ],
     "positions": [
-      "Full-time work", "MSc Thesis"
+      "Full-time work",
+      "MSc Thesis"
     ],
     "smallImage": "../img/af/af_logo.png",
     "locationImage": ""
   },
-
   {
     "name": "Palantir",
     "businessField": "",
@@ -1080,11 +1109,14 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
     "contact": "Inga Penkina<br><a href=\"mailto:ewatts@palantir.com\">ewatts@palantir.com</a><br> +1 (770) 364-6863",
     "description": "<p>The most important institutions in the world don't just protect public safety or provide vital goods and services — they also deal with astonishing amounts of data. At Palantir, we build software that lets these organizations safely integrate and analyze their data to combat terrorism, uncover fraud, develop new medicines, build safer airplanes, and more.</p>",
     "educations": [
-      "Computer Science", 
+      "Computer Science",
       "Information Technology"
     ],
     "positions": [
-      "Internship","Full-time job","MSc Thesis","Summer job"
+      "Internship",
+      "Full-time job",
+      "MSc Thesis",
+      "Summer job"
     ],
     "smallImage": "../img/palantir/palantir_logo.png",
     "locationImage": ""
@@ -1101,7 +1133,9 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Information Technology"
     ],
     "positions": [
-      "Internship","Summer job", "MSc Thesis"
+      "Internship",
+      "Summer job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/qualisys/qualisys_logo.png",
     "locationImage": ""
@@ -1118,732 +1152,12 @@ Carmenta has offices in Gothenburg (HQ) and Stockholm, Sweden, and subsidiaries 
       "Information Technology"
     ],
     "positions": [
-      "Internship","Summer job", "MSc Thesis"
+      "Internship",
+      "Summer job",
+      "MSc Thesis"
     ],
     "smallImage": "../img/qrtech/qrtech_logo.png",
     "locationImage": ""
   }
 ]
-//   {
-//   "name": "Aros Electronics",
-//   "businessField": "Electronics, Mechatronics, Embedded systems, <br> Electrical drive systems, Control systems, Electric power",
-//   "employees": "150",
-//   "website": "<a href=\"http://www.aros.se\" target=\"_blank\">www.aros.se</a>",
-//   "contact": "Magnus Wide<br><a href=\"mailto:magnus.wide@aros.se\">magnus.wide@aros.se</a><br>0317768224",
-//   "description": "<p>Aros Electronics AB provides totally integrated solutions including electrical motors, mechanics and control electronics to customers all over the world. Drawing strength from our in-house development and production, we are focusing on applications for custom unique electrical drive systems. Some of the applications where we deliver products are industrial robots, high speed doors, textile machinery, steering control for boats and trucks. We are developing mechatronic solutions with a multi-disciplinary approach, which allows for you as an employee to broaden your competence. <br><br> Aros is a great place for students to perform their master thesis projects because of the company’s welcoming attitude for new ideas. Aros offers a lot of interesting master thesis projects that can be found on our webpage. Some master thesis projects performed at Aros are analysis and implementation of regenerative breaking, design and evaluation of a DC/DC converter, but your own suggestions are very welcome! <br><br> Aros is located in Mölndal and a part of the Van de Wiele group, which opens up the possibilities for international work and commitments.</p>",
-//   "educations": [
-//     "Electrical Engineering",
-//     "Computer Science"
-//   ],
-//   "positions": [
-//     "Trainee", "Summer job", "Full-time job", "MSc Thesis"
-//   ],
-//   "smallImage": "../img/aros/aros_logo.png",
-//     "locationImage": "../img/montermaps/45.jpg"
-//   },
-//   {
-//     "name": "Bekk",
-//     "businessField": "IT consulting",
-//     "employees": "400",
-//     "website": "<a href=\"http://www.bekk.no\" target=\"_blank\">www.bekk.no</a>",
-//     "contact": "Fredrik Stenbro<br><a href=\"mailto:fredrik.stenbro@bekk.no\">fredrik.stenbro@bekk.no</a><br>+4793284658",
-//     "description": "<p>BEKK er et norsk selskap som lykkes på grunn av mennesker som brenner for faget sitt. <br><br>Vi jobber med strategi, design og teknologi og tror på tverrfaglige team. Hos oss får du muligheten til å utvikle løsninger som hjelper bedrifter med å nå sine mål innen digitalisering og nyskaping.</p>",
-//     "educations": [
-//       "Information Technology",
-//       "Computer Science"
-//     ],
-//     "positions": [
-//       "Summer job", "Full-time job", "MSc Thesis"
-//     ],
-//     "smallImage": "../img/bekk/bekk_logo.png",
-//     "locationImage": "../img/montermaps/8.jpg"
-//   },
-//   {
-//     "name": "Bombardier",
-//     "businessField": "Delivers advanced signalling solutions for the rail industry",
-//     "employees": "37 000",
-//     "website": "<a href=\"http://www.bombardier.com\" target=\"_blank\">www.bombardier.com</a>",
-//     "contact": "Sara Wallgren<br><a href=\"mailto:sara.wallgren@rail.bombardier.com\">sara.wallgren@rail.bombardier.com</a><br>0720120681",
-//     "description": "<p>Bombardier Transportation is a global leader in the rail industry. <br><br>We at Bombardier in Gothenburg represent the Rail Control Solution division - RCS. <br><br>Rail Control Solutions has a strong skill base of over 3,600 employees working globally, primarily in Research & Product Development, Engineering, Safety Assurance, Service and Maintenance. With customers and offices in more than 50 countries around the world including the United Kingdom, USA, China, Germany, the Netherlands, Switzerland, Italy, Spain, Sweden, Thailand, South Korea, India, and Australia, we are best placed to positively respond to customer demands for innovative, state-of-the-art and safe railway system solutions. <br><br>We are constantly looking for talented software developers, testers, and system engineers. <br><br>Come visit us - and learn more about what we do and what RCS can offer!</p>",
-//     "educations": [
-//       "Electrical Engineering",
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Trainee","Full-time job", "MSc Thesis","Summer job", "Internship"
-//     ],
-//     "smallImage": "../img/bombardier/bombardier_logo.png",
-//     "locationImage": "../img/montermaps/32.jpg"
-//   },
-//   {
-//     "name": "Burt",
-//     "businessField": "Big Data, Data Visualization and Analytics",
-//     "employees": "35",
-//     "website": "<a href=\"http://www.burtcorp.com\" target=\"_blank\">www.burtcorp.com</a>",
-//     "contact": "Andreas Holmström<br><a href=\"mailto:andreas@burtcorp.com\">andreas@burtcorp.com</a><br>0709703700",
-//     "description": "<p>Burt works with some of the world's largest media companies, such as CBS, News Corp, Bonnier and many others, helping them understand their customers and make their business more efficient. At Burt we have one leg in the Big Data pond, collecting data about users to do real-time segmentation and lifetime value analysis of any online content, and another in data integration and visualization, helping our customers consolidate information from hundreds of systems into one user interface with tools for specialised professional roles. <br><br>If you dream about making the world a better and happier place, by replacing huge manually maintained excel sheets full of errors with beautiful and perfectly accurate dashboards, or ponder thread safety in large distributed hosted environments in the shower, you should definitely come by and say hi! <br><br>We are an enthusiastic and reasonably social group of people who love spending time at our beautiful offices on Vallgatan. Feel free to check us out on Instagram, @burtcorp</p>",
-//     "educations": [
-//       "Information Technology",
-//       "Computer Science"
-//     ],
-//     "positions": [
-//       "Summer job", "Full-time job", "MSc Thesis","Internship"
-//     ],
-//     "smallImage": "../img/burt/burt_logo.png",
-//     "locationImage": "../img/montermaps/5.jpg"
-//   },
 
-
-
-//   {
-//     "name": "CEVT",
-//     "businessField": "Automotive, Research & Development",
-//     "employees": "2000",
-//     "website": "<a href=\"http://www.cevt.se\" target=\"_blank\">www.cevt.se</a>",
-//     "contact": "Jacob Krafft<br><a href=\"mailto:jacob.krafft@cevt.se\">jacob.krafft@cevt.se</a><br>0729802058",
-//     "description": "<p>As a student at CEVT you will get the opportunity to share your ides, help us find new ways of doing things - and have a lot of fun! Come meet us at DATE-IT to learn more about our Master Thesis projects and our Summer Internship. <br><br>CEVT is an innovation center for the future cars of the Geely Group with the purpose of being at the forefront of new developments in the automotive industry. The whole industry is now undergoing a transformation with new ways of thinking about the car as a product. CEVT is a fast growing, fast moving and exciting company where no day is like the other – where the challenges of tomorrow is on our working table today. <br><br>CEVT currently consists of some 2000 people with offices in Gothenburg and Trollhättan in Sweden. CEVT currently works on projects for the car brands Volvo Cars, Geely Auto and Lynk & Co. CEVT is a subsidiary of Zhejiang Geely Holding Group. For more information about CEVT, go to www.cevt.se <br><br>If you share our passion for engineering and innovation, and want to work in a global organisation that embraces diversity, CEVT could be the right place for you. </p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Full-time job", "MSc Thesis", "Summer job"
-//     ],
-//     "smallImage": "../img/cevt/cevt_logo.png",
-//     "locationImage": "../img/montermaps/38.jpg"
-//   },
-//   {
-//     "name": "Consat",
-//     "businessField": "Industry, IT, Energy, Automotive, Life Science <br> and ITS for Public Transportation",
-//     "employees": "200",
-//     "website": "<a href=\"http://www.consat.se\" target=\"_blank\">www.consat.se</a>",
-//     "contact": "Ragnar Hallgren<br><a href=\"mailto:ragnar.hallgren@consat.se\">ragnar.hallgren@consat.se</a><br>0313400080",
-//     "description": "<p>Consat startade 1986 och är idag ett av Sveriges ledande, privatägda ingenjörshus. Bolagsgruppen växer ständigt av egen kraft i takt med en ökande efterfrågan av våra tjänster och produkter. <br><br> Consat är ett starkt entreprenörsdrivet företag med platt organisation och korta beslutsvägar. Vi anställer medarbetare med driv, engagemang och passion för teknik. Consat erbjuder dig som medarbetare, goda utvecklingsmöjligheter, trevliga kollegor och möjligheten att tillämpa dina kunskaper branschöverskridande.<br><br>  Våra engagerade och duktiga ledare säkerställer attraktiva anställningsvillkor med individanpassade utvecklingsmöjligheter. Genom att satsa på långsiktiga relationer möjliggör vi uppdrag för dig som involverar arbete med innovativa, marknadsledande företag såväl ute hos kunden som internt på våra utvecklingskontor.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Full-time job",  "MSc Thesis"
-//     ],
-//     "smallImage": "../img/consat/consat_logo.png",
-//     "locationImage": "../img/montermaps/37.jpg"
-//   },
-//   {
-//     "name": "Consid",
-//     "businessField": "IT, Management & Digital Marketing",
-//     "employees": "510",
-//     "website": "<a href=\"http://www.consid.se\" target=\"_blank\">www.consid.se</a>",
-//     "contact": "Fredrik Ek<br><a href=\"mailto:fredrik.ek@consid.se\">fredrik.ek@consid.se</a><br>0703374428",
-//     "description": "<p>Consid is one of the fastest growing companies providing services within IT, Management and Digital Marketing in Sweden. We work with the latest technologies as well as assisting our clients in utilizing and making money through them. We make sure that our customers become the best in the world at what they do by taking advantage of the full potential of the digital world.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "MSc Thesis", "Trainee", "Internship", "Summer job", "Part-time job","Full-time job"
-//     ],
-//     "smallImage": "../img/consid/consid_logo.png",
-//     "locationImage": "../img/montermaps/24.jpg"
-//   },
-//   {
-//     "name": "CPAC Systems",
-//     "businessField": "Advanced Vehicle Electronics and Control Systems",
-//     "employees": "131",
-//     "website": "<a href=\"http://www.cpacsystems.se\" target=\"_blank\">www.cpacsystems.se</a>",
-//     "contact": "Anders Pihl<br><a href=\"mailto:career@cpacsystems.se\">career@cpacsystems.se</a><br>+46313521600",
-//     "description": "<p>We create products and features that differentiate our clients from their competitors (differentiating technology) and turn these into high-value products (industrialized innovation). <br><br> Working with system integration in safety critical control systems, we have a proven and impressive track record of developing and industrializing differentiating technology within vehicle automation, maneuvering, X-by-wire systems, autonomy, HMI and control of hybrid drivelines. <br><br> CPAC Systems is an independent company within the Volvo Group and our clients are global renowned brands within the commercial transport industry.</p>",
-//     "educations": [
-//       "Electrical Engineering",
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//      "MSc Thesis", "Internship", "Summer job", "Part-time job","Full-time job"
-//     ],
-//     "smallImage": "../img/cpac/cpac_logo.png",
-//     "locationImage": "../img/montermaps/16.jpg"
-//   },
-//   {
-//     "name": "Cybercom Sweden",
-//     "businessField": "IT and engineering",
-//     "employees": "1300",
-//     "website": "<a href=\"http://www.cybercom.com\" target=\"_blank\">www.cybercom.com</a>",
-//     "contact": "Lotta Arkstål<br><a href=\"mailto:lotta.arkstal@cybercom.com\">lotta.arkstal@cybercom.com</a><br>0768292808",
-//     "description": "<p>Cybercom is an innovative IT consulting company enabling companies and organisations to benefit from the opportunities of the connected world and to enhance their competitiveness. Our clients are mainly in telecoms, automotive and the public sector, as well as in commerce and the media. These are leading companies and authorities that require systems, applications, products and services to communicate with each other quickly, efficiently and securely – and in the right way.</p>",
-//     "educations": [
-//       "Electrical Engineering",
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Internship","Full-time job", "MSc Thesis"
-//     ],
-//     "smallImage": "../img/cybercom/cybercom_logo.png",
-//     "locationImage": "../img/montermaps/31.jpg"
-//   },
-//   {
-//     "name": "Cygni Väst",
-//     "businessField": "IT Consultancy, System Development",
-//     "employees": "20",
-//     "website": "<a href=\"http://www.cygni.se\" target=\"_blank\">www.cygni.se</a>",
-//     "contact": "Ann-Sofie Rolandsdotter<br><a href=\"mailto:ann-sofie.rolandsdotter@cygni.se\">ann-sofie.rolandsdotter@cygni.se</a><br>0723020869",
-//     "description": "<p>På konsultbolaget Cygni jobbar 110 av Stockholms och Göteborgs absolut skickligaste systemutvecklare. Bolaget grundades med visionen att skapa 'den bästa arbetsplatsen för en skicklig och ambitiös systemutvecklare'. Cygni har vunnit titeln Sveriges Bästa Arbetsplats fyra år i rad (2014-2017) och dessutom vunnit titeln Europas Bästa Arbetsplats tre gånger. Dessa utmärkelser baseras på stiftelsen Great Place To Works världsledande medarbetarundersökning som genomförs i över 50 länder. <br><br> Cygni jobbar med de flesta ledande mediabolagen i Sverige men även kunder inom finans, spel, telekom och retail. Bland Cygnis största kunder återfinns exempelvis Sveriges Television, Spotify, Com Hem, Scila, Svenska Spel, Expressen och finanskoncernen Bisnode. <br><br> Varje år anställer Cygni några nyexade inom ramen för ett talangprogram. Dessa talanger får utöver en personlig mentor även gå en rad skräddarsydda utbildningar, jobba parallellt med Cygnis seniorkonsulter i riktiga kundprojekt, ta relevanta certifieringar och snabbt bygga upp sin kompetens som professionella systemutvecklare. Det finns få bättre sätt att kickstarta sin karriär än att gå Cygnis talangprogram!</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Full-time job"
-//     ],
-//     "smallImage": "../img/cygni/cygni_logo.png",
-//     "locationImage": "../img/montermaps/17.jpg"
-//   },
-//   {
-//     "name": "Delphi Automotive Systems",
-//     "businessField": "Automotive Industry",
-//     "employees": "230",
-//     "website": "<a href=\"http://www.delphi.com\" target=\"_blank\">www.delphi.com</a>",
-//     "contact": "Daniel Henriksson<br><a href=\"mailto:daniel.henriksson@delphi.com\">daniel.henriksson@delphi.com</a><br>0704739609",
-//     "description": "<p>Tradition melds with tomorrow’s technology in Gothenburg. Delphi Sweden has decades of experience supporting the global automotive market with products ranging from software for infotainment and driver interfaces, active safety systems, wiring harnesses, to body electronics. With over 250 employees locally, Delphi Sweden is in an expansive phase and a recognized leader in the drive towards our vision of Safe, Green, and Connected. <br><br>At Electronics & Safety we offer exciting career opportunities in the fields of Software and Systems Engineering, Project Management, Sales, and Engineering Leadership, both locally and globally. You’ll be exposed to exciting innovative technologies, enthusiastic colleagues, and a multi-cultural, dynamic environment. <br><br>Did you know… <br>-The World's most powerful computing platform in the car industry, Audi's zFAS for the Audi A8, is developed by Delphi and shows the way in next generation in-vehicle server architecture? <br>-Our autonomous car Roadrunner made history as the first automated car to drive coast to coast in the US, a distance of over 3400 miles? <br>-Our CTO Jeff Owens recently gave a passionate speech at TEDx Detroit about being an engineer? <br>-Delphi is putting Las Vegas slot machine technology into cars with amazing 3D instrument clusters?",
-//     "educations": [
-//       "Computer Science",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "MSc Thesis", "Summer job", "Part-time job","Full-time job"
-//     ],
-//     "smallImage": "../img/delphi/delphi_logo.png",
-//     "locationImage": "../img/montermaps/39.jpg"
-//   },
-//   {
-//     "name": "DevPort",
-//     "businessField": "Electricity, Energy & Power, Pruduct Development, Data & IT, Manufacturing, Logistics, Quality",
-//     "employees": "210",
-//     "website": "<a href=\"http://www.devport.se\" target=\"_blank\">www.devport.se</a>",
-//     "contact": "Therese Nilsson<br><a href=\"mailto:therese.nilsson@devport.se\">therese.nilsson@devport.se</a><br>0709131919",
-//     "description": "<p>DevPort is an engineering consultant company specialized in the development of systems, mechanics, software and electronics for the industry sector and other customers with similar needs like automotive, medical and defense area. <br><br>We work with advanced technologies within several different industries and are established suppliers to many of Scandinavia’s leading export companies. The company holds a deep experience and understanding in the complete development process, ranging from analysis and concept design, through system implementation, and to quality assurance. Technical information and documentation for the aftermarket as well as production engineering is also included in our services. Assignments can be both onsite at customer or as a project commitment at our offices. <br><br>Our main focus relies on our great experience from the automotive sector within propulsion and chassis development, connectivity and active safety. Our goal is to be the best consultant partner within these areas.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Full-time job","MSc Thesis"
-//     ],
-//     "smallImage": "../img/devport/devport_logo.png",
-//     "locationImage": "../img/montermaps/15.jpg"
-//   },
-//   {
-//     "name": "Diadrom Systems",
-//     "businessField": "Embedded software, system engineering, software development, autotech",
-//     "employees": "55",
-//     "website": "<a href=\"http://www.diadrom.se\" target=\"_blank\">www.diadrom.se</a>",
-//     "contact": "Kent Tarrach<br><a href=\"mailto:kent.tarrach@diadrom.se\">kent.tarrach@diadrom.se</a><br>0735256698",
-//     "description": "<p>Diadrom is a leading software company within Diagnostics of Autotech, with our own products and via expert consulting. Accordingly, customer use us as a complement resource in their projects, where our expertise is highly valued (e.g., central systems, software download, configuration or remote and client base diagnostics systems). <br><br>The company was founded in 1999 and has a majority of the customer base in the automotive sector. Other customer sectors include industrial machinery, defense, security and public transport. Diadrom is traded on NASDAQ OMX First North (ticker DIAH). <br><br>For us at Diadrom, it is very important to have a nice and open relationship between all colleagues where everybody contributes and feels as home at Diadrom. We do spontaneous after works, game nights, joint lunches, “fika” and parties. Over the past years we have gone on conference trips throughout Europe.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Full-time job", "MSc Thesis"
-//     ],
-//     "smallImage": "../img/diadrom/diadrom_logo.png",
-//     "locationImage": "../img/montermaps/47.jpg"
-//   },
-//   {
-//     "name": "Emerson",
-//     "businessField": "Technology; Radar based level measuring",
-//     "employees": "360",
-//     "website": "<a href=\"http://www.emerson.com\" target=\"_blank\">www.emerson.com</a>",
-//     "contact": "Frida Svenningsson<br><a href=\"mailto:frida.svenningsson@emerson.com\">frida.svenningsson@emerson.com</a><br>0733870656",
-//     "description": "<p>Emerson, Rosemount Tank Radar AB, i Göteborg, är världsledande inom radarbaserad nivåmätning för tankfartyg, raffinaderier, tankterminaler och processindustri. Företaget har 360 anställda, omsätter ca 1,1 miljarder SEK där 98 procent går på export. <br><br> Vi satsar för framtiden och flyttade nyligen vår verksamhet till helt nybyggda och moderna lokaler i Mölnlycke företagspark. <br><br>Rosemount Tank Radar är en del av Emerson, en högteknologisk världsomspännande koncern med över 111 000 anställda och mer än 22,3 miljarder USD i omsättning. Läs mer om Rosemount Tank Radar AB på www.emerson.com/gothenburg</p>",
-//     "educations": [
-//       "Electrical Engineering",
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "MSc Thesis", "Summer job", "Part-time job","Full-time job"
-//     ],
-//     "smallImage": "../img/emerson/emerson_logo.png",
-//     "locationImage": "../img/montermaps/35.jpg"
-//   },
-//   {
-//     "name": "Endeavor",
-//     "businessField": "Affärs- och CRM-system",
-//     "employees": "30",
-//     "website": "<a href=\"http://www.endeavor.se\" target=\"_blank\">www.endeavor.se</a>",
-//     "contact": "Ulrica Gertmo<br><a href=\"mailto:ulrica.gertmo@endeavor.se\">ulrica.gertmo@endeavor.se</a><br>0735198836",
-//     "description": "<p>Endeavor looks for you who may not know everything, but is commited and likes challenges. You are also a solution-focused, professional and communicative team player who constantly wants to learn more. At Endeavor we strive to keep our employees engaged and motivated through giving responsibility, expecting curiosity and by encouraging the dare to fail to succeed. We work hard to make it fun to go to work and promote a healthy balance between work and leisure. <br><br> Being part of Endeavor means that you work with systematizing, streamlining and simplifying our customers' business processes in Microsoft Dynamics. With innovative services and products, we help our customers achieve higher productivity and increased profitability. Since the start in 2013, we have built up an organization with strong expertise and high growth. Today we are 29 dedicated colleagues with offices in Gothenburg, Stockholm and Jönköping. Are you your no. 30? Let’s meet up at DatE-IT and find out!</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Part-time job","Full-time job"
-//     ],
-//     "smallImage": "../img/endeavor/endeavor_logo.png",
-//     "locationImage": "../img/montermaps/10.jpg"
-//   },
-//   {
-//     "name": "Ericsson",
-//     "businessField": "Information and Communications Technology, software & hardware, research.",
-//     "employees": "120 000",
-//     "website": "<a href=\"http://www.ericsson.com\" target=\"_blank\">www.ericsson.com</a>",
-//     "contact": "Oliver Hammarstig<br><a href=\"mailto:oliver.hammarstig@ericsson.com\">oliver.hammarstig@ericsson.com</a><br>+46107121985",
-//     "description": "<p>Predicting the future is fun. Inventing it is powerful. We do both. <br><br>5G is coming, and Ericsson is the early leader in bringing it to market. With the commercial launch of 5G expected in 2020, and pre-commercial trials already happening now, there’s never been a better time for you to make your mark. The possibilities are endless across industries – from automotive and transport to agriculture, utilities, and more. <br><br>Ericsson is a truly global company built on innovation. You can find us in 180 countries all around the world but today we are at Date-IT. Come and talk to us and find out how you plus Ericsson makes for a powerful combination.</p>",
-//     "educations": [
-//       "Electrical Engineering",
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Full-time job", "Trainee", "Summer job",  "MSc Thesis"
-//     ],
-//     "smallImage": "../img/ericsson/ericsson_logo_1.png",
-//     "locationImage": "../img/montermaps/6.jpg"
-//   },
-//   {
-//     "name": "Findwise",
-//     "businessField": "IT consultancy services",
-//     "employees": "123",
-//     "website": "<a href=\"http://www.findwise.com\" target=\"_blank\">www.findwise.com</a>",
-//     "contact": "Maria Johansson<br><a href=\"mailto:maria.johansson@findwise.com\">maria.johansson@findwise.com</a><br>0736127811",
-//     "description": "<p>Talent attract talent. To find new talented people we must make the ones who are already working here thrive and feel inspired. How? Well, talented people must be respected as equals and be given the freedom to create and innovate. You don’t hire a talent to tell him or her how to do what they are talented at. We want our people to feel encouraged to act independently and bravely, that is how their talents best are put to use for Findwise and our clients. Tomorrow, simplicity will rule. Simplicity means easier, faster and smarter. We are experts in creating search driven solutions for various business needs. <br><br> Among our clients are SKF, SCA, Chalmers, SEB, Scania, Swedish Social Insurance Agency and Telenor. Our goal is to help them maximize the business value of their information assets. To make knowledgeable decisions easier and faster. Award winning Findwise, founded in 2005, is a growing IT consultancy with 100+ employees at offices in Sweden, Denmark, Norway, Finland and Poland. We offer platform independent consulting to create Findability solutions. We supply search technology expertise as well as consulting in related fields such as user experience, linguistics, information management, big data and security.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Part-time job","Full-time job","MSc Thesis"
-//     ],
-//     "smallImage": "../img/findwise/findwise_logo.png",
-//     "locationImage": "../img/montermaps/2.jpg"
-//   },
-//   {
-//     "name": "Fingerprint Cards",
-//     "businessField": "Biometric systems comprising sensors, algorithms, software and packaging technoligies.",
-//     "employees": "550",
-//     "website": "<a href=\"http://www.fingerprints.com\" target=\"_blank\">www.fingerprints.com</a>",
-//     "contact": "Martin Karlsson<br><a href=\"mailto:martin.karlsson@fingerprints.com\">martin.karlsson@fingerprints.com</a><br>0707643553",
-//     "description": "<p>Fingerprints develops biometric systems comprising sensors, algorithms, software and packaging technoligies. The success is based on product development at the cutting edge of technology, which results in world-leading products in terms of security, convenience and performance. The current product range consists largely of fingerprint sensors and customers are primarily manufacturers of smartphones and tablets, where the company is market leading.</p>",
-//     "educations": [
-//       "Electrical Engineering",
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Full-time job", "MSc Thesis","Summer job", "Part-time job"
-//     ],
-//     "smallImage": "../img/fingerprint/fingerprint_logo.png",
-//     "locationImage": "../img/montermaps/44.jpg"
-//   },
-//   {
-//     "name": "Greenbyte",
-//     "businessField": "Next generation analytics cloud platforms for renewable energy assets",
-//     "employees": "40",
-//     "website": "<a href=\"http://www.greenbyte.com\" target=\"_blank\">www.greenbyte.com</a>",
-//     "contact": "Jessica Gold<br><a href=\"mailto:jessica@greenbyte.com\">jessica@greenbyte.com</a><br>031146300",
-//     "description": "<p>Our ambition is to make renewable electricity cheaper for the consumer and more profitable for the owner by converting more wind and solar into electricity. <br><br>We are confident that continuously pushing to lower investment / MWh will make wind and solar energy abundant worldwide within the next 10-15 years and thereby offsetting dirty, less profitable sources of electricity. <br><br>We use our expertise in renewable energy, computer science, and interface design to create products that generate valuable and actionable insights for increased power output. <br><br>Our customers range from wind farm developers to owners and operators with assets such as wind turbines, solar PV sites, met mast and remote sensing devices. Their common need is to understand and make sense of large sets of data. <br><br>We look forward to everything that will happen in renewable energy in the next 10-15 years and have a strong commitment to staying at the forefront of the technology curve and to always bring the most useful software technologies to the industry.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Full-time job","Part-time job"
-//     ],
-//     "smallImage": "../img/greenbyte/greenbyte_logo.png",
-//     "locationImage": "../img/montermaps/41.jpg"
-//   },
-//   {
-//     "name": "i3tex",
-//     "businessField": "Automotive, Aerospace, Industry, Telecom and Medical Device",
-//     "employees": "200",
-//     "website": "<a href=\"http://www.i3tex.com\" target=\"_blank\">www.i3tex.com</a>",
-//     "contact": "Lena Bengtsson<br><a href=\"mailto:lena.bengtsson@i3tex.com\">lena.bengtsson@i3tex.com</a><br>0709387307",
-//     "description": "<p>i3tex is an unusually large but small engineering consultancy. We have the capacity for really comprehensive projects and at the same time we are always close to the people behind the projects. We specialise in product development and aim to develop future products for a better world. We believe in a future where creative technological solutions help us to live richer and more comfortable lives, with minimal environmental impact. <br><br> Would you like to put innovative ideas and visions into reality together with us – come give your input and ask your smartest questions – we promise we'll try to answer them!</p>",
-//     "educations": [
-//       "Electrical Engineering",
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "MSc Thesis","Full-time job"
-//     ],
-//     "smallImage": "../img/i3tex/i3tex_logo.png",
-//     "locationImage": "../img/montermaps/7.jpg"
-//   },
-//   {
-//     "name": "Intunio",
-//     "businessField": "Design and development of connected experiences, primarily in the areas of smart mobility, smart buildings/homes and medical technology.",
-//     "employees": "10",
-//     "website": "<a href=\"http://www.intunio.se\" target=\"_blank\">www.intunio.se</a>",
-//     "contact": "Mikael Halén<br><a href=\"mailto:mikael.halen@intunio.se\">mikael.halen@intunio.se</a><br>0766444996",
-//     "description": "<p>Intunio specialises in building intuitive interfaces for smart, mobile and connected devices. With decades of experience in combining strategy, design, and development we create meaningful, innovative, and lasting products. Our developers live for design and our designers dream about technology.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Full-time job", "MSc Thesis","Summer job", "Internship", "Part-time job"
-//     ],
-//     "smallImage": "../img/intunio/intunio_logo.png",
-//     "locationImage": "../img/montermaps/12.jpg"
-//   },
-//   {
-//     "name": "Jeppesen",
-//     "businessField": "Optimization solutions for airlines and train operators worldwide",
-//     "employees": "350",
-//     "website": "<a href=\"http://www.jeppesen.com\" target=\"_blank\">www.jeppesen.com</a>",
-//     "contact": "Cormac O'Brien<br><a href=\"mailto:cormac.obrien@jeppesen.com\">cormac.obrien@jeppesen.com</a><br>0739018217",
-//     "description": "<p>With 300 employees from over 30 countries at our office on Odinsgatan in central Göteborg, Jeppesen is one of the largest IT employers on the Swedish west coast. In Göteborg we develop optimization solutions for airlines and train operators worldwide, and we have the largest optimization research & development team in Sweden. <br><br>We solve some of the most intricate problems you can imagine – in one of the most exciting and dynamic industries you can find. We are passionate about making the complex simple! Jeppesen is a subsidiary of Boeing, the world’s leading aerospace company, employing more than 160 000 people in 70 countries.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Internship","Full-time job","MSc Thesis","Summer job"
-//     ],
-//     "smallImage": "../img/jeppesen/jeppesen_logo.png",
-//     "locationImage": "../img/montermaps/3.jpg"
-//   },
-//   {
-//     "name": "Knowit",
-//     "businessField": "IT",
-//     "employees": "1980",
-//     "website": "<a href=\"http://www.knowit.se\" target=\"_blank\">www.knowit.se</a>",
-//     "contact": "Sonia Sanghera<br><a href=\"mailto:sonia.sanghera@knowit.se\">sonia.sanghera@knowit.se</a><br>0703562142",
-//     "description": "<p>Knowit AB (publ) is a consultancy firm which creates unique client value by offering interdisciplinary deliveries from three business fields: Solutions, Experience and Insight. It is the capacity to combine competencies within IT, design, communication and management that sets us apart from other consultancy firms. Our culture is characterized by openness, understanding of the client’s business, high competence and a drive to constantly develop. For further information about at Knowit, please visit www.knowit.se</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "MSc Thesis","Full-time job","Trainee"
-//     ],
-//     "smallImage": "../img/knowit/knowit_logo.png",
-//     "locationImage": "../img/montermaps/42.jpg"
-//   },
-//   {
-//     "name": "Kollmorgen",
-//     "businessField": "Automated Guided Vehicles (AGV) och Mobila Robotar",
-//     "employees": "65",
-//     "website": "<a href=\"http://www.ndcsolutions.se\" target=\"_blank\">www.ndcsolutions.se</a>",
-//     "contact": "Patrik Silverby<br><a href=\"mailto:patrik.silverby@kollmorgen.com\">patrik.silverby@kollmorgen.com</a><br>0709938045",
-//     "description": "<p>Vill du vara med och utveckla framtidens mobila robotar och AGV:er? <br><br> Kollmorgen erbjuder möjligheten att arbeta med teknik i en kreativ och dynamisk miljö med goda möjligheter för personlig utveckling. Vi genomsyras av en entreprenöriell anda som ger anställda utrymme att komma med nya idéer och förslag som kan utveckla verksamheten och produkterna. <br><br> Kollmorgen är en världsledande leverantör av styr- och navigeringslösningar för mobila robotar och AGVer (Automated Guided Vehicle). Vår plattform, NDC Solutions, innehåller det du behöver för att automatisera ett fordon – hårdvara, mjukvara, navigering samt verktyg för diagnostik och underhåll. Vi har en installerad bas på 20.000 fordon som har levererats via vårt globala partnernätverk.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "MSc Thesis","Summer job"
-//     ],
-//     "smallImage": "../img/kollmorgen/kollmorgen_logo.png",
-//     "locationImage": "../img/montermaps/9.jpg"
-//   },
-//   {
-//     "name": "Netlight",
-//     "businessField": "Consultancy firm in IT and management",
-//     "employees": "900",
-//     "website": "<a href=\"http://www.netlight.com\" target=\"_blank\">www.netlight.com</a>",
-//     "contact": "Adrian Raj Moksness<br><a href=\"mailto:adrian.raj.moksness@netlight.com\">adrian.raj.moksness@netlight.com</a><br>004791629201",
-//     "description": "<p>Netlight is a European IT consultancy firm. As genuine consultants, we work together with our clients to solve a range of business-critical cases. We have experience working with EDGY projects within system, web and app-development, IT-management and UX. We are continuously looking for new talents who want to work with the latest technologies in business-critical projects with market-leading international companies as well as in innovative start-ups. <br><br> Netlight has received a number of awards over the years, such as the 5th Best Workplace in Europe, the marathon-Gasell in Dagens Industri, Årets Superföretag från Veckans Affärer, and Innovator of the Year from Universum. In 2014, our CEO Erik Ringertz was appointed CEO of the year. We are also the initiator to #TechEq, a collaboration between several technology companies working to increase gender equality in the technology industry. <br><br> We work in a flat network organization characterized by a high degree of commitment and responsibility. Our open, encouraging and unpretentious atmosphere facilitates great communication and collaboration throughout the company. Our thriving community offers rapid career development in an international environment. Find us on stand to hear more about opportunities in Oslo, Stockholm or other European cities. <br><br> Follow us on Instagram, Twitter and Facebook to experience the day-to-day life at Netlight.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Internship","Full-time job"
-//     ],
-//     "smallImage": "../img/netlight/netlight_logo.png",
-//     "locationImage": "../img/montermaps/46.jpg"
-//   },
-//   {
-//     "name": "Omegapoint",
-//     "businessField": "IT Consulting",
-//     "employees": "70",
-//     "website": "<a href=\"http://www.omegapoint.se\" target=\"_blank\">www.omegapoint.se</a>",
-//     "contact": "Kristina Lennermo<br><a href=\"mailto:kristina.lennermo@omegapoint.se\">kristina.lennermo@omegapoint.se</a><br>0706299816",
-//     "description": "<p>At Omegapoint nothing is more important than our co-workers and learning culture. Here you'll have a real chance to contribute and develop.<br><br> Do you want to work with IT, Application Development and/or Business Development together with passionate IT-Consultants and Security Experts? Are you intrigued by industries where technology makes a real difference? Do you think the life of a consultant seems exciting? Then we have something in common!<br><br> With us you will become part of a company defined by openness, development, and dedication. Knowledge and personal growth are our core values. We encourage curiosity and a desire to learn from each other. Every hour. Every day.<br><br> Omegapoint is growing in all fields and we are constantly looking for new, dedicated colleagues. Come and secure your development together with us!</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Trainee","Full-time job", "MSc Thesis"
-//     ],
-//     "smallImage": "../img/omegapoint/omegapoint_logo.png",
-//     "locationImage": "../img/montermaps/20.jpg"
-//   },
-//   {
-//     "name": "Opera",
-//     "businessField": "Web browsers and other consumer products",
-//     "employees": "500",
-//     "website": "<a href=\"http://www.opera.com\" target=\"_blank\">www.opera.com</a>",
-//     "contact": "Sara Lidström<br><a href=\"mailto:saral@opera.com\">saral@opera.com</a><br>0702298582",
-//     "description": "<p>At Opera, we make web browsers for computers, mobile phones, tablets and TVs. We also work on providing other consumer products. Our aim is to shape an open, connected world, giving users the best internet experience on any device and any platform. We want to enable more people, in more places, to experience what matters, when it matters most.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Full-time job","MSc Thesis","Summer job"
-//     ],
-//     "smallImage": "../img/opera/opera_logo.png",
-//     "locationImage": "../img/montermaps/43.jpg"
-//   },
-
-//   {
-//     "name": "Qlik",
-//     "businessField": "Data Analysis - Business Intelligence",
-//     "employees": "500",
-//     "website": "<a href=\"http://www.qlik.com\" target=\"_blank\">www.qlik.com</a>",
-//     "contact": "Heidrun Thorsteinsdottir<br><a href=\"mailto:hth@qlik.com\">hth@qlik.com</a><br>0708101298",
-//     "description": "<p>Qlik® delivers intuitive platform solutions for self-service data visualization, guided analytics applications, embedded analytics and reporting to approximately 45,000 customers worldwide. Companies of all sizes, across all industries and geographies, use Qlik solutions to visualize and explore information, generate insight and make better decisions. At Qlik, we optimize Business Intelligence (BI) by harnessing the collective intelligence of people across an organization. We focus on empowering people—by enabling everyone in an organization to see the whole story that lives within their data.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Full-time job", "MSc Thesis","Summer job", "Part-time job"
-//     ],
-//     "smallImage": "../img/qlik/qlik_logo.png",
-//     "locationImage": "../img/montermaps/34.jpg"
-//   },
-//   {
-//     "name": "Qmatic",
-//     "businessField": "Customer experience and customer flow management",
-//     "employees": "300",
-//     "website": "<a href=\"http://www.qmatic.com\" target=\"_blank\">www.qmatic.com</a>",
-//     "contact": "Henrik Lindberg<br><a href=\"mailto:henrik.lindberg@qmatic.com\">henrik.lindberg@qmatic.com</a><br>0701054691",
-//     "description": "<p>Qmatic is a leading company in maximizing customer experience. Our solutions and tools allows customers to choose between services, check-in for appointments, find the way or simply take a ticket to a queue. We look after the whole life cycle of our solutions; from innovation and development to manufacturing, sales, installation, maintenance and support. Our solutions enable integration of the virtual/on-line and real world to facilitate a seamless customer experience resulting in superior customer satisfaction. Qmatic is full of talented ambitious people with different backgrounds. We all share the same values and work towards the same goals. At Qmatic you will get a unique chance to work with a fast growing company where individuals truly can make a difference. Qmatic operates in over 120 countries through own subsidiaries and partner network. The group has a turnover of EUR 60 million.</p>",
-//     "educations": [
-//       "Electrical Engineering",
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Full-time job","MSc Thesis"
-//     ],
-//     "smallImage": "../img/q-matic/q-matic_logo.png",
-//     "locationImage": "../img/montermaps/25.jpg"
-//   },
-//   {
-//     "name": "Qualisys",
-//     "businessField": "Provider of motion capture technology",
-//     "employees": "38",
-//     "website": "<a href=\"http://www.qualisys.com\" target=\"_blank\">www.qualisys.com</a>",
-//     "contact": "Helen Rydén<br><a href=\"mailto:helen.ryden@qualisys.com\">helen.ryden@qualisys.com</a><br>0703607225",
-//     "description": "<p>Qualisys is a leading provider of motion capture technology and has a long history of supplying research, engineering and sports facilities with high-end camera systems and expertise in capturing and analyzing movements. Qualisys offers a wide range of products and services and has offices in Gothenburg, Chicago and Shanghai. <br><br> Our customers are found in the biomechanical research, sports biomechanics and medical sectors. Our systems are also used for engineering and specialized industrial purposes. <br><br> Qualisys is certified according to ISO 9001:2015 and compliant with Medical Device Directive 93/42/EEC, which demonstrates our commitment to provide highest possible quality products and services to our customers. The certifications reflect our ongoing investment in technology, process and people.</p>",
-//     "educations": [
-//       "Electrical Engineering",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Internship","Summer job", "MSc Thesis"
-//     ],
-//     "smallImage": "../img/qualisys/qualisys_logo.png",
-//     "locationImage": "../img/montermaps/36.jpg"
-//   },
-//   {
-//     "name": "RUAG Space",
-//     "businessField": "Space industry",
-//     "employees": "490",
-//     "website": "<a href=\"http://www.ruag.com\" target=\"_blank\">www.ruag.com</a>",
-//     "contact": "Angelica Stehr Åkerdahl<br><a href=\"mailto:angelica.akerdahl@ruag.com\">angelica.akerdahl@ruag.com</a><br>0317354495",
-//     "description": "<p>RUAG Space is Europe’s leading independent supplier of space products to the industry with 1 200 employees at twelve locations in Switzerland, Sweden, Finland, Austria, Germany and USA. <br><br> RUAG Space Sweden’s main products are computers, microwave electronics and antennas for satellites, adapters and separation systems for space launchers. The company is headquartered in Gothenburg, Sweden, with a unit for mechanical systems in Linköping, Sweden, and a unit for electronic systems in Tampere, Finland. RUAG Space AB has approx. 490 employees.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Trainee","Full-time job", "MSc Thesis","Summer job"
-//     ],
-//     "smallImage": "../img/ruag/ruag_logo.png",
-//     "locationImage": "../img/montermaps/4.jpg"
-//   },
-//   {
-//     "name": "Saab",
-//     "businessField": "Defence and Security",
-//     "employees": "15 500",
-//     "website": "<a href=\"http://www.saabgroup.com\" target=\"_blank\">www.saabgroup.com</a>",
-//     "contact": "Peter Wiberg<br><a href=\"mailto:peter.l.wiberg@saabgroup.com\">peter.l.wiberg@saabgroup.com</a><br>0734379412",
-//     "description": "<p>At Saab, we constantly look ahead and push boundaries for what is considered technically possible. We collaborate with colleagues around the world who all share our challenge – to make the world a safer place. <br><br> We are 15 500 open minded pioneers and we serve the global market with world-leading products, services and solutions ranging from military defence to civil security. Come join us! <br><br> As an employee at Saab you are offered unparelled development possibilities. Through our performance driven culture you can influence your own development. We invest in our leaders, we encourage internal mobility, we identify and nurture talents, and we provide international opportunity. What is your next step?</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Trainee","Full-time job", "MSc Thesis","Summer job"
-//     ],
-//     "smallImage": "../img/saab/saab_logo.png",
-//     "locationImage": "../img/montermaps/23.jpg"
-//   },
-//   {
-//     "name": "Scionova",
-//     "businessField": "Embedded Wireless",
-//     "employees": "9",
-//     "website": "<a href=\"http://www.scionova.se\" target=\"_blank\">www.scionova.se</a>",
-//     "contact": "Henrik Sjöström<br><a href=\"mailto:henrik.sjostrom@scionova.com\">henrik.sjostrom@scionova.com</a><br>0709694411",
-//     "description": "<p>Scionova is a development company offering services in embedded wireless system development. Our client portfolio ranges from great world-leading technology companies to smaller start-up companies. <br><br>With years of experience in designing and developing automotive, telecom and medical products employing wireless communication technologies; we help our clients through each phase of product life cycle of a wireless embedded system. <br><br>Scionova has a team of cherry-picked engineers who has a passion for wireless embedded systems backed with extensive experience in designing and developing embedded wireless systems.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Full-time job", "MSc Thesis"
-//     ],
-//     "smallImage": "../img/scionova/scionova_logo.png",
-//     "locationImage": "../img/montermaps/26.jpg"
-//   },
-//   {
-//     "name": "Sigma",
-//     "businessField": "Engineering, Consulting",
-//     "employees": "3 500",
-//     "website": "<a href=\"http://www.sigma.se\" target=\"_blank\">www.sigma.se</a>",
-//     "contact": "Nataly Duyko<br><a href=\"mailto:nataly.duyko@sigmatechnology.se\">nataly.duyko@sigmatechnology.se</a><br>07251940482",
-//     "description": "<p>Do you wish to work with the world’s latest technologies and the brands of tomorrow? Sigma is a leading Swedish consulting group that offers you challenging assignments, great culture and inspiring colleagues. We work with customers in many different industry sectors, both in Sweden and globally. <br><br>Our means are technological and strategic know-how with a constant passion for finding better solutions. We are characterized by our care for each other, our customers and our environment. At Sigma we love what we do and get things done. <br><br>Do you see your future career within such areas as software design, system & embedded development, product development, technical information, industrial design, testing or project management? - Let´s connect at DatE-IT!</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Full-time job", "MSc Thesis"
-//     ],
-//     "smallImage": "../img/sigma/sigma_logo.png",
-//     "locationImage": "../img/montermaps/48.jpg"
-//   },
-//   {
-//     "name": "SKF",
-//     "businessField": "Industry",
-//     "employees": "46 000",
-//     "website": "<a href=\"http://www.skf.com\" target=\"_blank\">www.skf.com</a>",
-//     "contact": "Jenny Roos<br><a href=\"mailto:jenny.roos@skf.com\">jenny.roos@skf.com</a><br>0313372262",
-//     "description": "<p>More than a century of leadership in the design and manufacture of bearings has given SKF a unique understanding of rotating equipment and how machine components and industrial processes are interrelated. This expertise, combined with decades of application experience in every major industry, has given SKF the ability to understand the “language” spoken by a machine’s moving components. <br><br>There is a wide variety of opportunities!</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Trainee","Full-time job", "MSc Thesis","Summer job", "Internship"
-//     ],
-//     "smallImage": "../img/skf/skf_logo.png",
-//     "locationImage": "../img/montermaps/33.jpg"
-//   },
-//   {
-//     "name": "Squeed",
-//     "businessField": "IT konsulter, Mjukvaruutveckling",
-//     "employees": "55",
-//     "website": "<a href=\"http://www.squeed.com\" target=\"_blank\">www.squeed.com</a>",
-//     "contact": "Tomas Trolltoft<br><a href=\"mailto:tomas.trolltoft@squeed.com\">tomas.trolltoft@squeed.com</a><br>0709723864",
-//     "description": "<p>Är du Squeeds nästa JavaOne Rockstar? <br>Eller kanske vår nästa Microsoft MVP? <br>Har du redan insett att kvalitet och test inte är en fas, roll eller aktivitet utan genomsyrar allt vi gör? <br>Har du ett agilt mindset? <br>Vill du ha några av Sveriges bästa utvecklare som kollegor? <br>Stämmer någon eller några av ovanstående påståenden in på Dig? Kul! Då vill vi samma sak. <br>Kom förbi vår monter och lär känna oss. <br><br>Vilka är Squeed? <br>Squeed fostrar framtidens superstjärnor, konsulter i dess rätta bemärkelse. <br>Vår företagskultur skapar möjligheter och utrymme för att växa som systemutvecklare och individ. Hos oss är det viktigare vem man är än vad man kan. <br>Vi vill ha dig som vill ta del utav vår kreativa och kompetenta miljö OCH samtidigt vill bidra till att utveckla och förädla den.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//      "Full-time job", "MSc Thesis"
-//     ],
-//     "smallImage": "../img/squeed/squeed_logo.png",
-//     "locationImage": "../img/montermaps/27.jpg"
-//   },
-//   {
-//     "name": "Syntronic",
-//     "businessField": "Global Design House within Embedded SW/HW, Algorithm and Wireless towards business areas Automotive, Telecom, Industrial, Medtech and Defense.",
-//     "employees": "800",
-//     "website": "<a href=\"http://www.syntronic.com\" target=\"_blank\">www.syntronic.com</a>",
-//     "contact": "Johan Lindström<br><a href=\"mailto:johl@syntronic.com\">johl@syntronic.com</a><br>+46101711350",
-//     "description": "<p>At Syntronic you get the opportunity to develop yourself together with dedicated employees. We work within several sectors with exciting and challenging projects in an international environment. Syntronic is a leading design house specializing in advanced product and systems development, production and aftermarket services. We adopt the latest technologies in electronics design and software development with a team of technically skilled staff around the world. <br><br>Among our customers and partners are some of the world's most technology intensive businesses and organizations in sectors such as telecom, defence, industrial, medtech and automotive. Our offices are located in Gävle, Göteborg, Linköping, Lund, Sandviken, Stockholm, Kuala Lumpur, Penang, Beijing, Chengdu, Shanghai, Jakarta and Ottawa.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Full-time job", "MSc Thesis"
-//     ],
-//     "smallImage": "../img/syntronic/syntronic_logo.png",
-//     "locationImage": "../img/montermaps/28.jpg"
-//   },
-//   {
-//     "name": "The Techno Creatives",
-//     "businessField": "Product development firm",
-//     "employees": "50",
-//     "website": "<a href=\"http://www.technocreatives.com/\" target=\"_blank\">www.technocreatives.com</a>",
-//     "contact": "Oskar Hagberg<br><a href=\"mailto:oskar@technocreatives.com\">oskar@technocreatives.com</a><br>0706363424",
-//     "description": "<p>We know how to SAVE or KILL large companies. <br><br>The Techno Creatives is a product development firm launching and developing products and ventures challenging the status quo in the industry. We take-on projects that has the possibility to disrupt complete markets by innovative thinking combining design, technology and business. Our teams includes world class serie-entrepreneurs, business leaders, corporate strategists, designers and developers with the courage to put products to the market that will impact every day life. We are true pioneers within every new industry we are challenging.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology"
-//     ],
-//     "positions": [
-//       "Full-time job", "MSc Thesis","Summer job"
-//     ],
-//     "smallImage": "../img/technocreatives/technocreatives_logo.png",
-//     "locationImage": "../img/montermaps/11.jpg"
-//   },
-//   {
-//     "name": "Volvo Cars",
-//     "businessField": "Research & Development, IT, Industry, Business",
-//     "employees": "32 000",
-//     "website": "<a href=\"http://www.volvocars.com\" target=\"_blank\">www.volvocars.com</a>",
-//     "contact": "Fredrik Hulth<br><a href=\"mailto:fredrik.hulth@volvocars.com\">fredrik.hulth@volvocars.com</a><br>0766210263",
-//     "description": "<p>The future belongs to those who are empowered by a great idea and have the ability to carry it out. At Volvo Cars, our vision is clear: 'To be the world's most progressive and desired premium car brand' by simplifying people's lives. We have bold targets when it comes to innovation, sales and customer satisfaction and we need talented people onboard. People with passion, energy, business sense and the drive to innovate. People that want to create the next generation Volvo cars in a global, dynamic and respectful environment. Join us on this exciting journey into the future.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Trainee","Full-time job", "MSc Thesis","Summer job"
-//     ],
-//     "smallImage": "../img/volvocars/volvocars_logo.png",
-//     "locationImage": "../img/montermaps/18.jpg"
-//   },
-//   {
-//     "name": "Volvo Group",
-//     "businessField": "Automotive",
-//     "employees": "95 000",
-//     "website": "<a href=\"http://www.volvogroup.com\" target=\"_blank\">www.volvogroup.com</a>",
-//     "contact": "Annie Tillmo<br><a href=\"mailto:annie.tillmo@consultant.volvo.com\">jannie.tillmo@consultant.volvo.com</a><br>0313236406",
-//     "description": "<p>The Volvo Group is one of the world’s leading manufacturers of trucks, buses, construction equipment and marine and industrial engines. The Group also provides complete solutions for financing and service. The Volvo Group, with its headquarters in Gothenburg, employs about 95,000 people, has production facilities in 18 countries and sells its products in more than 190 markets.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Trainee","Full-time job", "MSc Thesis","Summer job", "Internship", "Part-time job"
-//     ],
-//     "smallImage": "../img/volvo/volvo_logo.png",
-//     "locationImage": "../img/montermaps/29.jpg"
-//   },
-//   {
-//     "name": "ÅF",
-//     "businessField": "IT, Embedded, Systems Management",
-//     "employees": "9700",
-//     "website": "<a href=\"http://www.afconsult.com/\" target=\"_blank\">www.afconsult.com</a>",
-//     "contact": "Anna Strebel<br><a href=\"mailto:anna.strebel@afconsult.com\">anna.strebel@afconsult.com</a><br>0730429341",
-//     "description": "<p>ÅF is an engineering and consulting company and we are moving society forward by connecting with diverse talents. <br><br> Our pool of experience, with a unique range of technologies, creates solutions that are profitable, innovative and sustainable. <br><br> Many believe ÅF is all about technology. But we think our story is mainly about people – bold engineers, business experts, visionary leaders and other professionals working together so new insights and ideas can grow into smart solutions that move society forward.</p>",
-//     "educations": [
-//       "Computer Science",
-//       "Information Technology",
-//       "Electrical Engineering"
-//     ],
-//     "positions": [
-//       "Full-time job", "MSc Thesis"
-//     ],
-//     "smallImage": "../img/af/af_logo.png",
-//     "locationImage": "../img/montermaps/19.jpg"
-//   }
-//]
