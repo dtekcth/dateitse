@@ -3,8 +3,8 @@
     "name": "1928 Diagnostics",
     "businessField": "",
     "employees": "12",
-    "website": "<a href=\"http://www.academicwork.se\" target=\"_blank\">www.1928diagnostics.com</a>",
-    "contact": "<br><a href=\"mailto:info@1928diagnostics.com\">info@1928diagnostics.com</a><br>0736-61 90 22",
+    "website": "<a href=\"http://www.1928diagnostics.com\" target=\"_blank\">www.1928diagnostics.com</a>",
+    "contact": "<a href=\"mailto:info@1928diagnostics.com\">info@1928diagnostics.com</a><br>0736-61 90 22",
     "description": "<p>1928 Diagnostics är ett startup som utvecklar molntjänster för DNA-analys av bakterier för diag- nostik och spårning av antibiotikaresistenta bakterier. Våra användare är sjukvård och myndighet- er som med hjälp av oss kan ge bättre behandling till sina patienter, förhindra och stoppa utbrott samt bidra till minskad användning av antibiotika.</p>",
     "educations": [
       "Electrical Engineering",
@@ -22,8 +22,8 @@
     "name": "3bits",
     "businessField": "",
     "employees": "30",
-    "website": "<a href=\"www.3bits.se\" target=\"_blank\">www.3bits.se</a>",
-    "contact": "<br><a href=\"mailto:jobb@3bits.se\">jobb@3bits.se</a><br>0317571200",
+    "website": "<a href=\"https://www.3bits.se/\" target=\"_blank\">www.3bits.se</a>",
+    "contact": "<a href=\"mailto:jobb@3bits.se\">jobb@3bits.se</a><br>0317571200",
     "description": "<p>3bits grundades 2008, vi är 40 personer som brinner för e-handel och utvecklar tillsammans med våra kunder e-handelslösningar – allt från webb till logistik. Vi har fått förtroendet att lever- era olika lösningar under många år till flera av våra framgångsrika kunder som Lindex, Tingstad, Ragn-Sells och Mölnlycke Health Care. Vi arbetar in house på vårt kontor nära Centralstationen i Göteborg eftersom vi vet hur viktig närheten till teamet är både för gemenskap och effektivitet. Vi är ett teknikfokuserat företag som gillar innovation med Hackatondagar och R&D-tänk för att fortsätta att driva utvecklingen av e-handel framåt.</p>",
     "educations": [
       "Electrical Engineering",
@@ -41,8 +41,8 @@
     "name": "2050 Engineering",
     "businessField": "",
     "employees": "",
-    "website": "<a href=\"www.2050engineering.se\" target=\"_blank\">www.2050engineering.se</a>",
-    "contact": "<br><a href=\"mailto:jobb@3bits.se\">jobb@3bits.se</a><br>0317571200",
+    "website": "<a href=\"https://www.2050engineering.com/\" target=\"_blank\">www.2050engineering.se</a>",
+    "contact": "<a href=\"mailto:jobb@3bits.se\">jobb@3bits.se</a><br>0317571200",
     "description": "<p>2050 Engineering AB är ett konsultbolag inom inbyggd HW/SW, radar, mikrovågsteknik, antenner, AI, beräkning samt mekanik. Vi startade i maj 2018 och är idag 13 personer. Vi fortsätter att växa genom att anställa personer med rätt kompetens, rätt inställning och stort engagemang. I 2050 Engineering jobbar vi både med uppdrag hos kund samt interna projekt inom Qamcom Group. Många av projekten på kontoret innefattar inbyggt HW/SW, radar, antenner, signalbehandling och verifiering. Även systemering av säkerhetskritisk SW är en av våra inriktningar. 2050 Engineering är mycket måna om att de anställda utvecklas med sina arbetsuppgifter och vill därför ha en öppen dialog om vad nästa steg i den anställdes karriär är.</p>",
     "educations": [
       "Electrical Engineering",
@@ -60,8 +60,8 @@
     "name": "Arccore",
     "businessField": "",
     "employees": "",
-    "website": "<a href=\"www.arcore.com\" target=\"_blank\">www.arcore.com</a>",
-    "contact": "<br><a href=\"mailto:annie.friden@arccore.com\">annie.friden@arccore.com</a><br>0724008383",
+    "website": "<a href=\"https://www.arccore.com/\" target=\"_blank\">www.arccore.com</a>",
+    "contact": "<a href=\"mailto:annie.friden@arccore.com\">annie.friden@arccore.com</a><br>0724008383",
     "description": "<p>ARCCORE, founded in 2006 and headquartered in Sweden, is a global supplier of embedded soft- ware products for highly complex automotive software solutions focusing on the Autonomous Drive, Infotainment and Embedded Control market. Our products are based on renowned industry standards like AUTOSAR, Linux, Android and more and we are an active contributor to the global development of new standards. Our heart is in solving problems and being able to offer our customers solutions. Having a genuine passion for developing the smart cars of the future, we build our relationships - internally as well as externally - based on trust. ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik since 2018. At 24 locations worldwide, over 2,000 Vector employees support manufacturers and suppliers of the auto- motive industry and related industries with a professional platform of tools, software components and services for developing embedded systems.</p>",
     "educations": [
       "Electrical Engineering",
@@ -80,7 +80,7 @@
     "businessField": "",
     "employees": "",
     "website": "<a href=\"http://www.academicwork.se\" target=\"_blank\">www.academicwork.se</a>",
-    "contact": "<br><a href=\"mailto:sanne.pedersen@academicwork.se\">sanne.pedersen@academicwork.se</a><br>+46 31 352 33",
+    "contact": "<a href=\"mailto:sanne.pedersen@academicwork.se\">sanne.pedersen@academicwork.se</a><br>+46 31 352 33",
     "description": "<p>Vi vill vara din karriärpartner! Academic Work är Home of the Young Professionals. Vi ar- betar med personaluthyrning och rekrytering av akademiker i början av sina karriärer. Det är vår nisch, vårt expertområde och en målgrupp vi tror på. Academic Work finns i sex länder och förmedlar över 16 000 jobb per år. Vi vänder oss till dig som studerar och vill ha ett meriterande deltidsjobb eller är akademiker med upp till fem års arbetslivserfarenhet och söker heltidsjobb. Genom oss kan du få utvecklande och meriterande jobb inom våra affär- sområden IT, teknik och ekonomi, knyta viktiga kontakter inför framtiden och få en bra start på din karriär. Kom förbi oss och fråga om våra aktuella tjänster eller låt oss ge dig våra bästa CV-tips.</p>",
     "educations": [
       "Electrical Engineering",
@@ -132,7 +132,7 @@
       "MSc Thesis",
       "Part-time"
     ],
-    "smallImage": "../img/aptiv/aptiv_logo.png",
+    "smallImage": "../img/aptiv/aptiv_logo.jpg",
     "locationImage": ""
   },
   {
@@ -152,7 +152,7 @@
       "MSc Thesis",
       "Part-time"
     ],
-    "smallImage": "../img/appva/appva_logo.png",
+    "smallImage": "../img/appva/appva_logo.jpg",
     "locationImage": ""
   },
   {
@@ -271,8 +271,8 @@
     "name": "Chalmers Studentkår Rekrytering/Promoton",
     "businessField": "",
     "employees": "8",
-    "website": "<a href=\"http://www.chspromotion.se\" target=\"_blank\">www.chspromotion.se</a>",
-    "contact": "<br><a href=\"mailto:info@chalmersrekrytering.se, work@chspromotion.com\">work@chspromotion.com, info@chalmersrekrytering.se</a><br>070 090 06 38",
+    "website": "<a href=\"https://chalmersrekrytering.se/\" target=\"_blank\">chalmersrekrytering.se</a>,<br/><a href=\"http://www.chspromotion.se\" target=\"_blank\">chspromotion.se</a>",
+    "contact": "<a href=\"mailto:info@chalmersrekrytering.se\">info@chalmersrekrytering.se</a> <br/> <a href=\"mailto:work@chspromotion.com\">work@chspromotion.com</a><br>070 090 06 38",
     "description": "<p>Chalmers Studentkår Rekrytering är Chalmers Studentkårs egna rekryterings- och bemanningsföretag. Vi drivs av engagerade studenter från Chalmers och GU och arbetar för att du som Chalmerist ska få ut så mycket det bara går av din studietid. Vi hjälper er hitta meriterande extrajobb under studierna och rätt heltidsjobb för er när ni tar examen.  Chalmers Studentkår Promotion verkar för att knyta berikande kontakter mellan näringsliv och Chalmerister. Vi är det självklara valet för företag som vill marknadsföra sig på Chalmers. Utöver marknadsföring mot Chalmerister erbjuder vi fysiska möten. Från lunchföreläsning till cykelverkstad via en mingelkväll skapar vi fera möjligheter för företag att träffa, informera och inspirera studenter.</p>",
     "educations": [
       "Computer Science",
@@ -285,7 +285,7 @@
       "MSc Thesis",
       "Part-time job"
     ],
-    "smallImage": "../img/chalmersstudentkar/chalmersstudentkar_logo.png",
+    "smallImage": "../img/chalmersstudentkar/chalmersstudentkar_logo.jpg",
     "locationImage": ""
   },
   {
@@ -293,7 +293,7 @@
     "businessField": "",
     "employees": "6",
     "website": "<a href=\"http://www.ctk.se\" target=\"_blank\">www.ctk.se</a>",
-    "contact": "<br><a href=\"mailto:info@ctk.se\">info@ctk.se</a><br>031-772 8332",
+    "contact": "<a href=\"mailto:info@ctk.se\">info@ctk.se</a><br>031-772 8332",
     "description": "<p>Vi karakteriseras av engagemang, kreativitet och innovativt tänkande. Vår vision är att vara en plantskola för unga ingenjörer, framtida ledare och entreprenörer. Många kunder ser en stor fördel att anlita oss då vi ligger i framkant av teknisk utveckling och kunskap. Vi erbjuder kvali- fcerade och högkvalitativa konsulttjänster inom IT, teknik och verksamhetsutveckling mot både näringsliv och offentlig sektor.</p>",
     "educations": [
       "Computer Science",
@@ -311,7 +311,7 @@
     "businessField": "",
     "employees": "25",
     "website": "<a href=\"http://www.gaisler.com\" target=\"_blank\">www.gaisler.com</a>",
-    "contact": "<br><a href=\"mailto:career@gaisler.com\">career@gaisler.com</a><br>+46 31 7758650",
+    "contact": "<a href=\"mailto:career@gaisler.com\">career@gaisler.com</a><br>+46 31 7758650",
     "description": "<p>Cobham Gaisler, based in central Gothenburg, is a world leader in processors for aerospace applica- tions. The main products are the LEON line of processors and the GRLIB VHDL IP-library used for System-on-Chip solutions, targeting both ASICs and FPGAs. These are provided either as source code or as components developed in-house. In addition Cobham Gaisler develops hardware debuggers, com- pilers, simulators and open source software, such as OS and device drivers, targeting the LEON proces- sor.</p>",
     "educations": [
       "Computer Science",
@@ -502,7 +502,7 @@
     "businessField": "",
     "employees": "",
     "website": "<a href=\"http://www.emersonkarriar.se\" target=\"_blank\">www.emersonkarriar.se</a>",
-    "contact": "<br><a href=\"mailto:personnel.rtr@emerson.com\">personnel.rtr@emerson.com</a><br>031-3370000",
+    "contact": "<a href=\"mailto:personnel.rtr@emerson.com\">personnel.rtr@emerson.com</a><br>031-3370000",
     "description": "<p>Emersons levererar högteknologiska lösningar som på ett konkret sätt gör världen säkrare och mer hållbar för människa och miljö. Vi hjälper våra kunder att ta rätt beslut, vara smartare och hitta kompletta lösningar. Vi är stolta över att vara världsledande i vår bransch. På vårt Innovation Centre i Mölnlycke är varje medarbetare en del av en utvecklingsintensiv och innovativ miljö där alla har en tydlig bild av hur man i sitt eget arbete bidrar till företagets framgång.</p>",
     "educations": [
       "Information Technology",
@@ -521,7 +521,7 @@
     "businessField": "",
     "employees": "12",
     "website": "<a href=\"http://www.endeavor.se\" target=\"_blank\">www.endeavor.se</a>",
-    "contact": "<br><a href=\"mailto:work@endeavor.se\">work@endeavor.se</a><br>031-40 68 80",
+    "contact": "<a href=\"mailto:work@endeavor.se\">work@endeavor.se</a><br>031-40 68 80",
     "description": "<p>At Endeavor we strive to simplify and streamline our customers business processes by imple- menting smart digital solutions. Our innovative services and products are a safe way towards higher productivity and increased proftability in industries as manufacturing, professional ser- vices, retail and public. We are part of the CRM Partners Group. From our offces across Europe, 500 of the most tal- ented and experienced people in our industry combine Microsoft technology, change manage- ment and data to deliver customer experience platforms that make you loved by your customers.</p>",
     "educations": [
       "Information Technology",
@@ -560,7 +560,7 @@
     "businessField": "",
     "employees": "70",
     "website": "<a href=\"http://www.greenbyte.com\" target=\"_blank\">www.greenbyte.com</a>",
-    "contact": "<br><a href=\"mailto:jessica@greenbyte.com\">jessica@greenbyte.com</a><br>031146300",
+    "contact": "<a href=\"mailto:jessica@greenbyte.com\">jessica@greenbyte.com</a><br>031146300",
     "description": "<p>Are you humble, adaptable and passionate? Do you want your everyday work to be meaningful? At Greenbyte we dream of a better world. And then we wake up and make it happen! Greenbyte supports the renewable energy revolution by providing the world’s owners and operators of wind and solar with cloud-based solutions to drive revenue, by reducing costs and increasing energy output—in short, helping them blow their com- petition out of the water. Our team, based here in Gothenburg, is made up of hard-working, fun-loving people from all over the world. We have been growing exponentially for the past two years—more than quadrupling the team and revenues—and we are not done, far from it! At Greenbyte we have a vibrant culture, and love doing everything as a team—whether it is celebrating new gigawatts installed, unleashing our creativity over hackathons, strengthening our bond at company offsites or sparking some friendly competition in the game room—Greenbyte is where it’s at! Excited yet? Check us out at www.greenbyte.com/career.</p>",
     "educations": [
       "Information Technology",
@@ -577,7 +577,7 @@
     "name": "HiQ",
     "businessField": "",
     "employees": "1600",
-    "website": "<a href=\"http://www.hiq.se\" target=\"_blank\">www.hiq.se/a>",
+    "website": "<a href=\"http://www.hiq.se\" target=\"_blank\">www.hiq.se</a>",
     "contact": "Sofie Johansson<br><a href=\"mailto:sofie.johansson@hiq.se\">sofie.johansson@hiq.se</a><br>0709-669455",
     "description": "<p>Vårt uppdrag är att göra saker bättre – någonting som förenklar och förbättrar människors liv. Vi gillar utmaningar och är inte rädda för att testa ny mark. Våra värderingar; Resultat, ansvar, enkelhet och glädje är vår personlighet och bidrar starkt till vår konkurrenskraft. Vi anställer personer med rätt attityd och kompetens och tror på att skapande och erfarenheter går hand i hand. Därför investerar vi tid i kompetensutveckling och inspiration. Att vara en del av HiQ-kul- turen innebär att ständigt fylla på med energi för att kunna skapa.</p>",
     "educations": [
@@ -595,7 +595,7 @@
     "name": "Hogia",
     "businessField": "",
     "employees": "650",
-    "website": "<a href=\"http://www.hogia.se\" target=\"_blank\">www.hogia.se/a>",
+    "website": "<a href=\"http://www.hogia.se\" target=\"_blank\">www.hogia.se</a>",
     "contact": "Linda Falk<br><a href=\"mailto:Linda.falk@hogia.se\">Linda.falk@hogia.se</a><br>072 145 06 85",
     "description": "<p>Hogia headquarters is located in Stenungsund, 50 kilometres north of Gothenburg. This is where we develop, test, sell and support all of our products. Our core business is to continuously entertain and develop our systems and to provide our customers with the help and support they need to be able to grow in the future. We have nearly 40 years of experience in software development. The company has a very healthy balance sheet and no loans. The Hogia Group experienced its 27th consecutive year of profit in 2017 and the annual turnover currently stands at € 57.5 million.</p>",
     "educations": [
@@ -614,8 +614,8 @@
     "name": "HRM EDAG",
     "businessField": "",
     "employees": "58",
-    "website": "<a href=\"http://www.hrmedag.se\" target=\"_blank\">www.hrmedag.se/a>",
-    "contact": "<br><a href=\"mailto:career@hrmedag.se\">career@hrmedag.se</a><br>+46 70 720 30 696",
+    "website": "<a href=\"http://www.hrmedag.se\" target=\"_blank\">www.hrmedag.se</a>",
+    "contact": "<a href=\"mailto:career@hrmedag.se\">career@hrmedag.se</a><br>+46 70 720 30 696",
     "description": "<p>HRM EDAG är ett av de ledande företagen när det gäller tekniska ingenjörstjänster för fordonsindustrin och vi har ett stort behov av fer ingenjörer. Vi utmanar mobilitetsbegreppet varje dag och hjälper våra kunder att bygga en mer hållbar och digitaliserad framtid. Vi arbetar med elektronik & mjukvaruutveckling inom e-Mobility, Autonomous Drive och Connectivity. Att vara en del av DatE-IT mässan ger oss möjlighet att dela vår passion för teknikutveckling med nästa generations intelligenta ingenjörer. Vi ger duktiga ingenjörer de verktyg och erfarenheter som behövs för att vara trendsättare inom fordon- sindustrin. Vi vill dela med oss av vår kompetens och komma i kontakt med morgondagens innovatörer och ge dem möjlighet att svara på frågan: Vad är smart mobilitet för mig?</p>",
     "educations": [
       "Information Technology",
@@ -625,14 +625,14 @@
     "positions": [
       "Full-time work"
     ],
-    "smallImage": "../img/hrm_logo/hrm_logo.png",
+    "smallImage": "../img/hrm/hrm_logo.png",
     "locationImage": ""
   },
   {
     "name": "IFS",
     "businessField": "",
     "employees": "",
-    "website": "<a href=\"http://www.ifsworld.com\" target=\"_blank\">wwww.ifsworld.com/a>",
+    "website": "<a href=\"http://www.ifsworld.com\" target=\"_blank\">wwww.ifsworld.com</a>",
     "contact": "Jenny Henriksson<br><a href=\"mailto:jenny.henriksson@ifsworld.com\">jenny.henriksson@ifsworld.com</a><br>0733453779",
     "description": "<p>At IFS, you will work in a growing, global enterprise software company where informal hierarchies promote simplicity and trust with responsibility. We strive to deepen our ex- pertise by taking on challenging and varying work assignments in a collaborative environ- ment together with committed colleagues. With professionalism and a strong customer focus in everything we do, from Product Development to Sales and Consultancy, we are proud to serve world-class customers all over the globe with our leading products. Find out more at IFSworld.com.</p>",
     "educations": [
@@ -651,7 +651,7 @@
     "name": "Infotiv AB",
     "businessField": "",
     "employees": "46",
-    "website": "<a href=\"http://www.infotiv.se\" target=\"_blank\">www.infotiv.se/a>",
+    "website": "<a href=\"http://www.infotiv.se\" target=\"_blank\">www.infotiv.se</a>",
     "contact": "Pierre Ekwall<br><a href=\"mailto:pierre.ekwall@infotiv.se\">pierre.ekwall@infotiv.se</a><br>0733513924",
     "description": "<p>Teknikkonsulter inom El & Elektronik, Testning, Projektledning, Konstruktion och Information. Infotiv bedriver, utöver produktutveckling för våra kunder, även forskning, prototyptillverkning och lågvolymtillverkning in-house och vi säljer även utbildningar inom våra samtliga av våra exper- tområden. Vi söker ingenjörer för anställning, exjobb, trainee och sommarjobb.</p>",
     "educations": [
@@ -664,15 +664,15 @@
       "Full-time work",
       "MSc Thesis"
     ],
-    "smallImage": "../img/infotiv/infotiv_logo.png",
+    "smallImage": "../img/infotiv/infotiv_logo.jpg",
     "locationImage": ""
   },
   {
     "name": "Kits",
     "businessField": "",
     "employees": "35",
-    "website": "<a href=\"http://www.kits.se\" target=\"_blank\">www.kits.se/a>",
-    "contact": "<br><a href=\"mailto:pierre.ekwall@infotiv.se\">hoi-man.lui@kits.se</a><br>0738131813",
+    "website": "<a href=\"http://www.kits.se\" target=\"_blank\">www.kits.se</a>",
+    "contact": "<a href=\"mailto:pierre.ekwall@infotiv.se\">hoi-man.lui@kits.se</a><br>0738131813",
     "description": "<p>KITS är ett it-konsultbolag baserat i Göteborg. Vi är en blandning av talanger och experter. Våra experter är de bästa konsulterna inom sina respektive teknik-/verksamhetsområden och våra talanger är på väg mot att bli experter. Vi har stort fokus på kompetensutveckling och kompetens- spridning inom våra teknik- och verksamhetsområden. Vi jobbar metodiskt och målinriktat med att hela tiden utveckla KITS till ett bättre bolag där det är högt i tak, processerna är agila och där det är kul på jobbet. Vi är grymma på arkitektur, mentorskap, systemutveckling, projektledning och metoder inom Java, JavaScript, .NET och Open source. Vår spetskompetens kommer bäst till nytta inom web/ mobilitet, telematik/Internet of things, säkerhet och integration. Vår vision är att bli norra Europas bästa bolag för engagerade och kreativa konsulter. Vår mission är att utveckla talanger till expert- er och låta experter förbli experter.</p>",
     "educations": [
       "Information Technology",
@@ -690,8 +690,8 @@
     "name": "Kollmorgen Automation AB",
     "businessField": "",
     "employees": "65",
-    "website": "<a href=\"http://www.kollmorgen.com/agv\" target=\"_blank\">www.kollmorgen.com/a>",
-    "contact": "<br><a href=\"mailto:career.agv@kollmorgen.com\">career.agv@kollmorgen.com</a><br>",
+    "website": "<a href=\"http://www.kollmorgen.com</agv\" target=\"_blank\">www.kollmorgen.com</a>",
+    "contact": "<a href=\"mailto:career.agv@kollmorgen.com\">career.agv@kollmorgen.com</a><br>",
     "description": "<p>Automatiska truckar (AGV:er) och mobila robotar förbättrar effektiviteten i tillverkning och lager utan stora investeringar. Med vår automationslösning NDC Solutions, som består av hårdvara, mjukvara och navigering, får man en beprövad plattform för att öka AGV-prestandan i ett brett urval av industrier i hela världen.</p>",
     "educations": [
       "Information Technology",
@@ -710,8 +710,8 @@
     "name": "Netlight Consulting",
     "businessField": "",
     "employees": "468",
-    "website": "<a href=\"http://www.netlight.com\" target=\"_blank\">www.netlight.com/a>",
-    "contact": "<br><a href=\"mailto:ebba.enberger@netlight.com\">ebba.enberger@netlight.com</a><br>",
+    "website": "<a href=\"http://www.netlight.com\" target=\"_blank\">www.netlight.com</a>",
+    "contact": "<a href=\"mailto:ebba.enberger@netlight.com\">ebba.enberger@netlight.com</a><br>",
     "description": "<p>Digitalization is about the people. Netlight offers a unique community and career development in an international setting. Our flat organization is characterized by high engagement along with companywide cooperation. As a top-ranked IT and Management consultancy company, we work with some of the most significant companies within the forefront of digitalization, employing more than 1000 people. We have several times received awards as a top employer, as well as for our growth, continued profitability and our engagement for equality within the IT industry.</p>",
     "educations": [
       "Information Technology",
@@ -728,8 +728,8 @@
     "name": "Omegapoint Göteborg AB",
     "businessField": "",
     "employees": "65",
-    "website": "<a href=\"http://www.omegapoint.se\" target=\"_blank\">www.omegapoint.se/a>",
-    "contact": "<br><a href=\"mailto:kristina.lennermo@omegapoint.se\">kristina.lennermo@omegapoint.se</a><br>0706 299816",
+    "website": "<a href=\"http://www.omegapoint.se\" target=\"_blank\">www.omegapoint.se</a>",
+    "contact": "<a href=\"mailto:kristina.lennermo@omegapoint.se\">kristina.lennermo@omegapoint.se</a><br>0706 299816",
     "description": "<p>Omegapoint is an IT Consultant Company. Our main objective is safe development. Our custom- ers can be found in many different industries and our assignments can be inhouse as well as at our customers’ offices. At Omegapoint nothing is more important than our co-workers and learn- ing culture. Here you will have a real chance to contribute and develop. Do you want to work with IT, Application Development and/or Business Development together with passionate IT-Consultants and Security Experts? Are you intrigued by industries where technology makes a real difference? Do you think the life of a consultant seems exciting? Then we have something in common! With us you will become part of a company defined by openness, development, and dedication. Knowledge and personal growth are our core values. We encourage curiosity and a desire to learn from each other. Every hour. Every day. Omega- point is growing in all fields and we are constantly looking for new, dedicatedcolleagues. Come and secure your development together with us!</p>",
     "educations": [
       "Information Technology",
@@ -746,8 +746,8 @@
     "name": "Rapid Images",
     "businessField": "",
     "employees": "70",
-    "website": "<a href=\"http://www.rapidimages.se\" target=\"_blank\">www.rapidimages.se/a>",
-    "contact": "<br><a href=\"mailto:jforslund@rapidimages.se\">jforslund@rapidimages.se</a><br>0734063437",
+    "website": "<a href=\"http://www.rapidimages.se\" target=\"_blank\">www.rapidimages.se</a>",
+    "contact": "<a href=\"mailto:jforslund@rapidimages.se\">jforslund@rapidimages.se</a><br>0734063437",
     "description": "<p>Computer graphics, web development and automatization is what RapidImages is all about. We create platforms which generates 360-images, realistic renders and AR-models We carry out both development and graphics production projects, which enables knowledge sharing and collaboration between our programmers and 3D artists. Our goal is to bring products to life, and our work can be seen when browsing the websites of for example IKEA, Volvo or H&M. Currently, one of our most exciting challenges is happening in the transfer of data between real- time graphics and offline-rendering. Come talk to us if you are interested in learning more!</p>",
     "educations": [
       "Information Technology",
@@ -765,7 +765,7 @@
     "name": "Redpill Linpro AB",
     "businessField": "",
     "employees": "59",
-    "website": "<a href=\"http://www.redpill-linpro.com\" target=\"_blank\">www.redpill-linpro.com/a>",
+    "website": "<a href=\"http://www.redpill-linpro.com\" target=\"_blank\">www.redpill-linpro.com</a>",
     "contact": "Henrik Hallgren<br><a href=\"mailto:henrik@redpill-linpro.com\">henrik@redpill-linpro.com</a><br>0708-243036",
     "description": "<p>Redpill Linpro are helping customers to build the IT foundation for their digital transformation in the areas API & Integration, Automation, DevOps, Agile IT Operations and Digital Workplace. As the leading open source service provider in the Nordics we always has a focus on openness. We are working with following and are also partners with them :Java, Alfresco, Mulesoft, WSO2, Redhat , Varnish , PostgreSQL.</p>",
     "educations": [
@@ -776,15 +776,15 @@
       "Full-time work",
       "MSc Thesis"
     ],
-    "smallImage": "../img/redpill/redpill_logo.png",
+    "smallImage": "../img/redpill/redpill_logo.jpg",
     "locationImage": ""
   },
   {
     "name": "Saab AB",
     "businessField": "",
     "employees": "16000",
-    "website": "<a href=\"http://www.saabgroup.com\" target=\"_blank\">www.saabgroup.com/a>",
-    "contact": "<br><a href=\"mailto:info@saabgroup.com\">info@saabgroup.com</a><br>013180000",
+    "website": "<a href=\"http://www.saabgroup.com\" target=\"_blank\">www.saabgroup.com</a>",
+    "contact": "<a href=\"mailto:info@saabgroup.com\">info@saabgroup.com</a><br>013180000",
     "description": "<p>Saab levererar världsledande produkter, tjänster och lösningar för militär och civil säkerhet för den globala marknaden. Med verksamhet på alla kontinenter utvecklar, anpassar och förbättrar vi teknologi för att möta våra kunders förändrade behov.</p>",
     "educations": [
       "Information Technology",
@@ -803,8 +803,8 @@
     "name": "Scionova AB",
     "businessField": "",
     "employees": "9",
-    "website": "<a href=\"http://www.scionova.com\" target=\"_blank\">www.scionova.com/a>",
-    "contact": "<br><a href=\"mailto:Henrik.sjostrom@scionova.com\">Henrik.sjostrom@scionova.com</a><br>070 96 94 411",
+    "website": "<a href=\"http://www.scionova.com\" target=\"_blank\">www.scionova.com</a>",
+    "contact": "<a href=\"mailto:Henrik.sjostrom@scionova.com\">Henrik.sjostrom@scionova.com</a><br>070 96 94 411",
     "description": "<p>We are experts in Connectivity, specializing in three main areas; Automotive, Smart home and Medtech. Our long experience in designing and developing wireless communication technology makes us a safe choice. The team, our professional family of committed and passionate engi- neers, are very experienced with a broad and deep knowledge of connectivity development. Our clients are global technology leaders as well as small innovative companies.</p>",
     "educations": [
       "Information Technology",
@@ -821,8 +821,8 @@
     "name": "Sigma AB",
     "businessField": "",
     "employees": "468",
-    "website": "<a href=\"http://www.sigma.se\" target=\"_blank\">www.sigma.se/a>",
-    "contact": "<br><a href=\"mailto:studentwest@sigma.se\">studentwest@sigma.se</a><br>+46 700 02 15 67",
+    "website": "<a href=\"http://www.sigma.se\" target=\"_blank\">www.sigma.se</a>",
+    "contact": "<a href=\"mailto:studentwest@sigma.se\">studentwest@sigma.se</a><br>+46 700 02 15 67",
     "description": "<p>Sigma är en av Sveriges ledande konsultgrupper och vi erbjuder dig nya utmaningar, inspire- rande företagskultur och trevliga kollegor. Kunderna finns främst inom branscher som fordon, telekom, kraft-och energi samt övrig verkstadsindustri med verksamhet i både Sverige och övriga länder. Våra styrkor är ett tekniskt och strategiskt kunnande med en passion för att hitta bättre lösningar. Vi kännetecknas av omtanke om varandra, våra kunder och vår omvärld. Kom och prata med oss om du är intresserad av att jobba inom: Produktutveckling, inbyggda system, design & UX, produktinformation, beräkning & simulering, kraftelektronik, subsea & energi, test- och kvalitetssäkring och projektledning.</p>",
     "educations": [
       "Information Technology",
@@ -840,8 +840,8 @@
     "name": "Sigmastocks",
     "businessField": "",
     "employees": "11",
-    "website": "<a href=\"http://www.sigmastocks.com\" target=\"_blank\">www.sigmastocks.com/a>",
-    "contact": "<br><a href=\"mailto:emil@sigmastocks.com\">emil@sigmastocks.com</a><br>0704947023",
+    "website": "<a href=\"http://www.sigmastocks.com\" target=\"_blank\">www.sigmastocks.com</a>",
+    "contact": "<a href=\"mailto:emil@sigmastocks.com\">emil@sigmastocks.com</a><br>0704947023",
     "description": "<p>Named one of Sweden’s most promising startup by the 33-list (the list that also acclaimed Spo- tify 2009-2011), Sigmastocks have shaken up the financial sector since it’s inception in 2014. We challenge managed equity funds and want to change the financial sector by having flat rates.We process financial data, develop web services and also work with quantitative analysis and opti- mization, to develop algorithms that are trying to outperform market indexes. That means we can help people to directly save in stocks while cutting costs compared to investing in equity funds.</p>",
     "educations": [
       "Information Technology",
@@ -860,7 +860,7 @@
     "name": "SKF",
     "businessField": "",
     "employees": "45000",
-    "website": "<a href=\"http://www.skf.com\" target=\"_blank\">www.skf.com/a>",
+    "website": "<a href=\"http://www.skf.com\" target=\"_blank\">www.skf.com</a>",
     "contact": "Jenny Roos<br><a href=\"mailto:jenny.roos@skf.com\">jenny.roos@skf.com</a><br>031-3372262",
     "description": "<p>SKF startade 1907 med en innovation som förändrade världen och våra lösningar fortsätter göra skillnad än idag. Det handlar om att minska friktionen och få saker att rotera effektivare vilket ger våra kunder minskat underhåll på maskiner, förbättrad säkerhet, energibesparing och lägre kost- nader. Våra lösningar finns verkligen överallt. Tillsammans med 45 000 kollegor i 130 länder har du alla möjligheter att få världen att snurra mer effektivt. Vi kallar det ingenjörskonst.</p>",
     "educations": [
@@ -881,8 +881,8 @@
     "name": "Squeed",
     "businessField": "",
     "employees": "74",
-    "website": "<a href=\"http://www.squeed.com\" target=\"_blank\">www.squeed.com/a>",
-    "contact": "<br><a href=\"mailto:peter.lindh@squeed.com\">peter.lindh@squeed.com</a><br>0708618511",
+    "website": "<a href=\"http://www.squeed.com\" target=\"_blank\">www.squeed.com</a>",
+    "contact": "<a href=\"mailto:peter.lindh@squeed.com\">peter.lindh@squeed.com</a><br>0708618511",
     "description": "<p>Squeed är mjukvarubolaget som gör skillnad. För dig, för kunden och för hela branschen! Vi satsar stort på anställdas kompetensutveckling och det märks. När andra bolag skickar folk på konferenser som deltagare åker Squeeders dit för att tala. Squeeders jobbar med systemutveck- ling, arkitekturfrågor och agila metoder. Vi är ute som konsulter och bygger det våra kunder vill ha men arbetar också med att ta fram nya tjänster och produkter. Vi har skapat en innovationskraft där varje medarbetare hjälper till med att ta fram nya affärsidéer i form av produkter och tjänster. Denna innovationskraft leder och utvecklar individen och företaget. Squeed är djupt engager- ade i communityn kring mjukvaruutveckling och driver Javaforum, nforum, Frontendforum, Agila testare, devForum mm. Vi finns i Göteborg, Stockholm och Oslo där vi behöver fler ambitiösa utvecklare som vill vara med att uppnå ”Achieve the Amazing”.</p>",
     "educations": [
       "Information Technology",
@@ -899,8 +899,8 @@
     "name": "Stratsys",
     "businessField": "",
     "employees": "108",
-    "website": "<a href=\"http://www.stratsys.com/sv/\" target=\"_blank\">www.stratsys.com/a>",
-    "contact": "<br><a href=\"mailto:Emma.kavsjo@stratsys.se\">Emma.kavsjo@stratsys.se</a><br>0767-671600",
+    "website": "<a href=\"http://www.stratsys.com/sv/\" target=\"_blank\">www.stratsys.com</a>",
+    "contact": "<a href=\"mailto:Emma.kavsjo@stratsys.se\">Emma.kavsjo@stratsys.se</a><br>0767-671600",
     "description": "<p>Stratsys är ett entreprenöriellt tillväxtbolag som digitaliserar arbetslivet med vår plattform för enklare planering, genomförande och uppföljning på jobbet. Idag hjälper vi internationella företag och inte mindre än hälften av Sveriges kommuner och landsting med att effektivisera sitt arbeta med vår molnbaserade produkt. Våra 165 medarbetare finns i Stockholm, Göteborg, Malmö och Norrköping. Hos oss blir du del av ett engagerat team i en dynamisk och utvecklande miljö, som har fokus på att skapa fantastiska resultat och ser till att vi har riktigt kul tillsammans under tiden! av ett engagerat team i en dynamisk och utvecklande miljö, som har fokus på att skapa fantas- tiska resultat och ser till att vi har riktigt kul tillsammans under tiden!</p>",
     "educations": [
       "Information Technology",
@@ -917,8 +917,8 @@
     "name": "Sveriges Ingenjörer",
     "businessField": "",
     "employees": "100-199",
-    "website": "<a href=\"http://www.sverigesingenjorer.se/student\" target=\"_blank\">www.sverigesingenjorer.se/a>",
-    "contact": "<br><a href=\"mailto:student@sverigesingenjorer.se\">student@sverigesingenjorer.se</a><br>08- 613 80 00",
+    "website": "<a href=\"http://www.sverigesingenjorer.se/student\" target=\"_blank\">www.sverigesingenjorer.se</a>",
+    "contact": "<a href=\"mailto:student@sverigesingenjorer.se\">student@sverigesingenjorer.se</a><br>08- 613 80 00",
     "description": "<p>Sveriges Ingenjörer välkomnar dig till vårt unika nätverk med 150 000 ingenjörsmedlemmar. Som medlem erbjuder vi dig träning och stöd inför skarpt läge med allt från cv-granskning och karriärcoachning till hjälp med intervjuteknik. Du tar även del av landets bästa lönestatistik, digitaltidningen Ny Teknik samt aktiviteter som hålls på ditt lärosäte. Dessutom har du möjlighet att teckna förmånliga försäkringar och du har tillgång till experthjälp om något skulle gå snett på sommar eller extrajobbet. Välkommen att börja ditt liv som ingenjör med oss!</p>",
     "educations": [
       "Information Technology",
@@ -935,7 +935,7 @@
     "name": "Syntronic AB",
     "businessField": "",
     "employees": "1030",
-    "website": "<a href=\"http://www.cyntronic.com\" target=\"_blank\">www.cyntronic.com/a>",
+    "website": "<a href=\"http://www.syntronic.com\" target=\"_blank\">www.syntronic.com</a>",
     "contact": "Johan Lindström<br><a href=\"mailto:johl@syntronic.com\">johl@syntronic.com</a><br>010-1711350",
     "description": "<p>Syntronic is a global design house with more than 30 years of experience from working with development, production and aftermarket services and all related support during product life cycle of embedded systems. Our customers are global leaders in businesses such as telecom, auto- motive, medtech, industry and defence. We also have the capability to help our customers with integration, verification and production test development.</p>",
     "educations": [
@@ -954,8 +954,8 @@
     "name": "Tech Mahindra",
     "businessField": "",
     "employees": "66",
-    "website": "<a href=\"http://www.techmahindra.com\" target=\"_blank\">www.techmahindra.com/a>",
-    "contact": "<br><a href=\"mailto:prashant.gosi@techmahindra.com\">prashant.gosi@techmahindra.com</a><br>+47 40 24 33 99",
+    "website": "<a href=\"http://www.techmahindra.com\" target=\"_blank\">www.techmahindra.com</a>",
+    "contact": "<a href=\"mailto:prashant.gosi@techmahindra.com\">prashant.gosi@techmahindra.com</a><br>+47 40 24 33 99",
     "description": "<p>Welcome to Tech Mahindra, one of the top 15 (#1 non U.S.) leading Digital companies shaping the Digital Future. We are a Global IT Digital Transformation Company with a group of dedicated IT Business Leaders, Developers and Engineers working in Application Maintenance and Sup- port, Projects and Infrastructure Services for one of the leading brands in the Automotive sec- tor in Sweden. We have the best of two worlds - a strong local Delivery Team coupled with the wider Global presence in almost 90+ Countries. In 2006, Tech Mahindra started its operation in Sweden. We are growing and glad that more and more passionate people are joining us, shap- ing the future for our Company as well as contributing for a better tomorrow.</p>",
     "educations": [
       "Information Technology",
@@ -966,15 +966,15 @@
       "Full-time work",
       "Summer job"
     ],
-    "smallImage": "../img/techmahindra/techmahindra.png",
+    "smallImage": "../img/techmahindra/techmahindra_logo.jpg",
     "locationImage": ""
   },
   {
     "name": "The Techno Creatives + Navico",
     "businessField": "",
     "employees": "Navico: 2500, The Techno Creatives: 42",
-    "website": "<a href=\"http://www.technocreatives.com, http://www.navico.com\" target=\"_blank\">www.technocreatives.com, www.navico.com/a>",
-    "contact": "<br><a href=\"mailto:dateit@technocreatives.com, gustav.sohtell@navico.com\">dateit@technocreatives.com, gustav.sohtell@navico.com</a><br>",
+    "website": "<a href=\"http://www.technocreatives.com\" target=\"_blank\">www.technocreatives.com</a>,<br/> <a href=\"http://www.navico.com\" target=\"_blank\">www.navico.com</a>",
+    "contact": "<a href=\"mailto:dateit@technocreatives.com\">dateit@technocreatives.com</a><br><a href=\"mailto:gustav.sohtell@navico.com\">gustav.sohtell@navico.com</a>",
     "description": "<p>The Techno Creatives is a creative tech house building virtual roller coasters, analogue smart- watches, interaction solutions in autonomous cars, smart wheelchairs, VR and AR for global trade shows. All of our designers and developers work on projects in-house, and we have a nice mix of client projects and own ventures. We operate in the English language and have people working here from more than 10 different countries. Navico makes software for navigation and control of leisure boats. We sell products under the brands SIMRAD, Lowrance and B&G and is the world’s largest manufacturer of leisure boat marine electronics. The Navico Gothenburg office has a high pace of innovation, with advanced software solutions and intuitive user experiences. Both companies work with many platforms and programming languages. Java, Kotlin, Swift, C++/C, Python, Javascript, Typescript, React (native), Qt/QML to name a few.</p>",
     "educations": [
       "Information Technology",
@@ -990,8 +990,8 @@
     "name": "Valtech",
     "businessField": "",
     "employees": "233",
-    "website": "<a href=\"http://www.valtech.se\" target=\"_blank\">www.valtech.se/a>",
-    "contact": "<br><a href=\"mailto:linda.svedin@valtech.se\">linda.svedin@valtech.se</a><br>070-165 33 58",
+    "website": "<a href=\"http://www.valtech.se\" target=\"_blank\">www.valtech.se</a>",
+    "contact": "<a href=\"mailto:linda.svedin@valtech.se\">linda.svedin@valtech.se</a><br>070-165 33 58",
     "description": "<p>Valtech är en digital partner som förenar kreativitet, teknik och lättrörliga arbetssätt. I Sverige är vi just nu ca 270 personer. Du hittar oss i Stockholm och Göteborg. Valtech har sedan etablerin- gen 1999 haft en stadig tillväxt. Under tiden har vi lyckats behålla det lilla företagets känsla i en allt större organisation med snabba beslutsvägar, platt organisation, liten overhead samt lyhörd- het för kundens önskemål och medarbetarnas initiativ. Det är så vi jobbar helt enkelt. Hurdana är vi då, vi som jobbar på Valtech? Som individer är vi nog ganska olika - vår erfarenhet är inte nödvändigtvis att homogena grupper presterar bäst. Och i grupp arbetar vi nästan alltid. Kompe- tensmässigt är spridningen också stor; en utvecklare på Valtech kanske är passionerat intresse- rad av testdriven utveckling, medan strategen kanske inte kan sluta tänka på vilken kanalstrategi kunden bör välja, men att båda är viktiga aspekter är vi överens om. Även om vi på Valtech är olika som människor är det desto mer som förenar oss. Först och främst är vi passionerade i det vi gör. Vi delar alla en stark känsla av de stora möjligheter som finns, och kommer att finnas, i det område där teknik och digitala upplevelser möts. Och vi har alla olika kompetensmässiga pusselbitar för att för att realisera dessa möjligheter.</p>",
     "educations": [
       "Information Technology",
@@ -1008,8 +1008,8 @@
     "name": "Veoneer Sweden AB",
     "businessField": "",
     "employees": "7600",
-    "website": "<a href=\"http://www.veoneer.com\" target=\"_blank\">www.veoneer.com/a>",
-    "contact": "<br><a href=\"mailto:anna.segerbom.external@veoneer.com\">anna.segerbom.external@veoneer.com</a><br>0733-614680",
+    "website": "<a href=\"http://www.veoneer.com\" target=\"_blank\">www.veoneer.com</a>",
+    "contact": "<a href=\"mailto:anna.segerbom.external@veoneer.com\">anna.segerbom.external@veoneer.com</a><br>0733-614680",
     "description": "<p>Veoneer was founded in 2018, born from the worldwide leader in automotive safety, Autoliv. We continue on the same path in developing cutting-edge technology within the automotive indus- try and future cars. Our international, agile and highly collaborative teams aim to accelerate the growth within the area of Autonomous Driving and be the leader in Advanced Driver Assistance Systems. We empower our people and are dedicated to their professional development and growth. With 7600 employees in 13 countries, our rapidly growing team has the goal to lead the ongoing revolution in the automotive safety industry and then be the pioneer for what comes next.</p>",
     "educations": [
       "Information Technology",
@@ -1028,8 +1028,8 @@
     "name": "Volvo Group",
     "businessField": "",
     "employees": "100000",
-    "website": "<a href=\"http://www.volvogroup.se\" target=\"_blank\">www.volvogroup.se/a>",
-    "contact": "<br><a href=\"mailto:http://www.facebook.com/volvogroup\">www.facebook.com/volvogroup</a><br>",
+    "website": "<a href=\"http://www.volvogroup.se\" target=\"_blank\">www.volvogroup.se</a>",
+    "contact": "<a href=\"mailto:http://www.facebook.com/volvogroup\">www.facebook.com/volvogroup</a><br>",
     "description": "<p>The Volvo Group was founded based on the idea that technology should serve the needs of people. Our customers use our trucks, buses, construction equipment, engines and services to drive growth and sustainable development throughout society. We believe that the Trans- portation business in general and Volvo Group in particular, is where you want to be right now and in the years to come. This field is undergoing major technological paradigm shifts that will completely change the way we live. There have never been more exciting times working with transport solutions. Today we are about 100.000 employees in 190 markets and we all share the mission – Driving prosperity through transport solutions.</p>",
     "educations": [
       "Information Technology",
@@ -1048,8 +1048,8 @@
     "name": "Xamera",
     "businessField": "",
     "employees": "42",
-    "website": "<a href=\"http://www.xamera.se\" target=\"_blank\">www.xamera.se/a>",
-    "contact": "<br><a href=\"mailto:malin@xamera.se, sofie@xamera.se\">malin@xamera.se, sofie@xamera.se</a><br>",
+    "website": "<a href=\"http://www.xamera.se\" target=\"_blank\">www.xamera.se</a>",
+    "contact": "<a href=\"mailto:malin@xamera.se, sofie@xamera.se\">malin@xamera.se, sofie@xamera.se</a><br>",
     "description": "<p>Xamera är karriärföretaget som specialiserar sig på att du ska hitta helt rätt i karriären inom IT- och tekniksektorn. Hos Xamera finns ett urval av spännande karriärmöjligheter för alla Young Xperts, allt sommarjobb, relevanta extrajobb, exjobb och självklart också en hel del spännande heltidsjobb efter examen. Som student hjälper vi dig oavsett vart du befinner dig i din karriär! I Göteborg rekryterar vi för ett 20-tal företag, alla inom IT-och tekniksektorn, allt från mindre start- ups till stora konsultbolag. Vi har också karriärmöjligheter i Linköping och Örebro för er som vill åt det hållet efter examen!.</p>",
     "educations": [
       "Information Technology",
@@ -1069,7 +1069,7 @@
     "name": "Zenuity",
     "businessField": "",
     "employees": "580",
-    "website": "<a href=\"http://www.zenuity.com\" target=\"_blank\">www.zenuity.com/a>",
+    "website": "<a href=\"http://www.zenuity.com\" target=\"_blank\">www.zenuity.com</a>",
     "contact": "Louise Bichler<br><a href=\"mailto:louise.bichler@zenuity.com\">louise.bichler@zenuity.com</a><br>0731 25 80 66",
     "description": "<p>Med Volvo Cars och Veoneer i ryggen är Zenuity sedan april 2017 ett modernt mjukvaruföretag med visionen att rädda människors liv och skapa en säkrare biltrafik genom att göra självkörande bilar till verklighet. Med hög energi, stort engagemang och enorm passion är vi dedikerade till att omvandla bilin- dustrin och transformera transportbranschens framtid. Zenuity använder en disruptiv och modern affär- smodell för att producera världsledande produkter inom viktiga teknikområden. Med 580 anställda över hela världen och med en unik tillväxthastighet rekryterar vi topptalanger till våra siter i Göteborg, Detroit, München, Shanghai, Santa Clara och Linköping.</p>",
     "educations": [
@@ -1087,8 +1087,8 @@
     "name": "ÅF Digital Solutions",
     "businessField": "",
     "employees": "10000",
-    "website": "<a href=\"http://www.afconsult.com\" target=\"_blank\">www.afconsult.com/a>",
-    "contact": "<br><a href=\"mailto:frida.svelander@afconsult.com\">frida.svelander@afconsult.com</a><br>0761435702",
+    "website": "<a href=\"http://www.afconsult.com\" target=\"_blank\">www.afconsult.com</a>",
+    "contact": "<a href=\"mailto:frida.svelander@afconsult.com\">frida.svelander@afconsult.com</a><br>0761435702",
     "description": "<p>ÅF är ett ingenjörs- och designföretag med verksamhet inom energi, industri och infrastruktur. Vi skapar hållbara lösningar för kommande generationer genom att förena människor och teknik. Vår bas är i Europa och våra affärer och kunder finns över hela världen.</p>",
     "educations": [
       "Information Technology",
@@ -1126,7 +1126,7 @@
     "businessField": "",
     "employees": "38",
     "website": "<a href=\"http://www.qualisys.com\" target=\"_blank\">www.qualisys.com</a>",
-    "contact": "<br><a href=\"mailto:helen.ryden@qualisys.com\">helen.ryden@qualisys.com</a><br>0703607225",
+    "contact": "<a href=\"mailto:helen.ryden@qualisys.com\">helen.ryden@qualisys.com</a><br>0703607225",
     "description": "<p>Qualisys is a leading provider of motion capture technology and has a long history of supplying research, engineering and sports facilities with high-end camera systems and expertise in capturing and analyzing movements. Qualisys offers a wide range of products and services and has offices in Gothenburg, Chicago and Shanghai. <br><br> Our customers are found in the biomechanical research, sports biomechanics and medical sectors. Our systems are also used for engineering and specialized industrial purposes. <br><br> Qualisys is certified according to ISO 9001:2015 and compliant with Medical Device Directive 93/42/EEC, which demonstrates our commitment to provide highest possible quality products and services to our customers. The certifications reflect our ongoing investment in technology, process and people.</p>",
     "educations": [
       "Electrical Engineering",
@@ -1145,7 +1145,7 @@
     "businessField": "",
     "employees": "38",
     "website": "<a href=\"http://www.qrtech.se\" target=\"_blank\">www.qrtech.se</a>",
-    "contact": "<br><a href=\"mailto:info@qrtech.se\">info@qrtech.se</a><br>0317737600",
+    "contact": "<a href=\"mailto:info@qrtech.se\">info@qrtech.se</a><br>0317737600",
     "description": "<p>QRTECH AB helps our customers develop future products by providing state of the art engineering competences within the fields of software, electronics and power electronics. We also conduct research in strategic areas and interact with customers through the whole process from concept studies to complete product development projects as well as product maintenance throughout the entire lifecycle. QRTECH´s clients operate in all areas that require advanced expertise, from small companies to multi-nationals. Our success is based on commitment and the fact that we genuinely care about our customers. The automotive industry is QRTECH´s dominating customer segment and a strong reason for our high standards in terms of development processes and tools based on the high expectations of the industry. The products we develop for our clients are often technically challenging and need to function effectively in demanding environments. We also invest in research related to technologies that can help reduce future emissions and lead to a sustainable society, such as hybrid/electrical vehicles and inductive charging. We work with green tech projects aiming to increasing the use of renewable energy sources. QRTECH has a culture characterized by a genuine and almost nerdy interest in technology. Many of the employees develop electronics and software in their leisure time. We therefore organize “Open Lab” where employees can come and use our labs for their private projects. Curiosity is a word that suits the majority of QRTECH`s employees; we simply want to understand how things work. We believe that experts attract experts and by taking on challenging assignments QRTECH becomes a stimulating place to work. We employ the most technically skilled PhDs and engineers in the industry with the determination to succeed and to do a great job. Through a mix of in-house product development projects utilizing our well-equipped laboratories and engineering services at customer sites, we can offer a range of possibilities for our employees. We offer freedom under responsibility and we encourage our employees to take initiatives. At QRTECH you can influence your professional and personal development. We have an open working atmosphere where we collaborate and share knowledge to support each other in finding solutions. Find out more and read about us at www.qrtech.se</p>",
     "educations": [
       "Electrical Engineering",
@@ -1160,4 +1160,3 @@
     "locationImage": ""
   }
 ]
-
