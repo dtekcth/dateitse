@@ -41,7 +41,7 @@
     "businessField": "",
     "employees": "",
     "website": "<a href=\"https://www.2050engineering.com/\" target=\"_blank\">www.2050engineering.se</a>",
-    "contact": "<a href=\"mailto:jobb@3bits.se\">jobb@3bits.se</a><br>0317571200",
+    "contact": "Magnus Janson<a href=\"mailto:\">magnus.janson@2050engineering.se</a><br>0736-61 90 22",
     "description": "<p>2050 Engineering AB är ett konsultbolag inom inbyggd HW/SW, radar, mikrovågsteknik, antenner, AI, beräkning samt mekanik. Vi startade i maj 2018 och är idag 13 personer. Vi fortsätter att växa genom att anställa personer med rätt kompetens, rätt inställning och stort engagemang. I 2050 Engineering jobbar vi både med uppdrag hos kund samt interna projekt inom Qamcom Group. Många av projekten på kontoret innefattar inbyggt HW/SW, radar, antenner, signalbehandling och verifiering. Även systemering av säkerhetskritisk SW är en av våra inriktningar. 2050 Engineering är mycket måna om att de anställda utvecklas med sina arbetsuppgifter och vill därför ha en öppen dialog om vad nästa steg i den anställdes karriär är.</p>",
     "educations": [
       "Electrical Engineering",
@@ -60,8 +60,8 @@
     "businessField": "",
     "employees": "",
     "website": "<a href=\"https://www.arccore.com/\" target=\"_blank\">www.arccore.com</a>",
-    "contact": "<a href=\"mailto:annie.friden@arccore.com\">annie.friden@arccore.com</a><br>0724008383",
-    "description": "<p>ARCCORE, founded in 2006 and headquartered in Sweden, is a global supplier of embedded software products for highly complex automotive software solutions focusing on the Autonomous Drive, Infotainment and Embedded Control market. Our products are based on renowned industry standards like AUTOSAR, Linux, Android and more and we are an active contributor to the global development of new standards. Our heart is in solving problems and being able to offer our customers solutions. Having a genuine passion for developing the smart cars of the future, we build our relationships - internally as well as externally - based on trust. ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik since 2018. At 24 locations worldwide, over 2,000 Vector employees support manufacturers and suppliers of the auto- motive industry and related industries with a professional platform of tools, software components and services for developing embedded systems.</p>",
+    "contact": "Annie Friden<a href=\"mailto:annie.friden@arccore.com\">annie.friden@arccore.com</a><br>0724008383",
+    "description": "<p>ARCCORE, founded in 2006 and headquartered in Sweden, is a global supplier of embedded software products for highly complex automotive software solutions focusing on the Autonomous Drive, Infotainment and Embedded Control market. Our products are based on renowned industry standards like AUTOSAR, Linux, Android and more and we are an active contributor to the global development of new standards. Our heart is in solving problems and being able to offer our customers solutions. Having a genuine passion for developing the smart cars of the future, we build our relationships - internally as well as externally - based on trust. ARCCORE is a fully owned subsidiary of German headquartered Vector Informatik since 2018. At 24 locations worldwide, over 2,000 Vector employees support manufacturers and suppliers of the automotive industry and related industries with a professional platform of tools, software components and services for developing embedded systems.</p>",
     "educations": [
       "Electrical Engineering",
       "Computer Science",
@@ -79,7 +79,7 @@
     "businessField": "",
     "employees": "",
     "website": "<a href=\"http://www.academicwork.se\" target=\"_blank\">www.academicwork.se</a>",
-    "contact": "<a href=\"mailto:sanne.pedersen@academicwork.se\">sanne.pedersen@academicwork.se</a><br>+46 31 352 33",
+    "contact": "Sanne Pedersen<a href=\"mailto:sanne.pedersen@academicwork.se\">sanne.pedersen@academicwork.se</a><br>+46 31 352 33",
     "description": "<p>Vi vill vara din karriärpartner! Academic Work är Home of the Young Professionals. Vi arbetar med personaluthyrning och rekrytering av akademiker i början av sina karriärer. Det är vår nisch, vårt expertområde och en målgrupp vi tror på. Academic Work finns i sex länder och förmedlar över 16 000 jobb per år. Vi vänder oss till dig som studerar och vill ha ett meriterande deltidsjobb eller är akademiker med upp till fem års arbetslivserfarenhet och söker heltidsjobb. Genom oss kan du få utvecklande och meriterande jobb inom våra affärsområden IT, teknik och ekonomi, knyta viktiga kontakter inför framtiden och få en bra start på din karriär. Kom förbi oss och fråga om våra aktuella tjänster eller låt oss ge dig våra bästa CV-tips.</p>",
     "educations": [
       "Electrical Engineering",
@@ -215,8 +215,8 @@
     "businessField": "Software Development",
     "employees": "80",
     "website": "<a href=\"http://www.canea.se\" target=\"_blank\">www.canea.se</a>",
-    "contact": "Marie Almgren<br><a href=\"mailto:sara.pettersson@canea.se\">sara.pettersson@canea.se</a><br>0727379076",
-    "description": "<p>Vi lever i en snabbt föränderlig värld där det ständigt ställs nya krav på en organisation. CANEAs filosofi är att ge de strategier, system, arbetssätt och kompetens som både skapar förutsättningar och säker- ställer bästa resultat – som verkligen varar. Vår affärsidé är att konkret realisera den förbättringspotential som finns i alla verksamheter och skapa driv i förändringsarbetet. Vi gör detta genom att analysera, ut- veckla och införa strategier, system och kompetens hos våra kunder. Det leder till mätbara resultat i form av ökad effektivitet och nöjdare intressenter. Vi levererar konsulttjänster, IT-lösningar och utbildningar inom fyra huvudområden: Strategi, Organisation & Effektivisering, Projektledning och Ledningssystem. Vår egenutvecklade IT-lösning CANEA ONE är ett verksamhetssystem med integrerad hantering av strategier, projekt, processer, ärenden och dokument. Helt enkelt effektiv verksamhetsledning. CANEA ONE länkar ihop strategin med den dagliga verksamheten. Ett modulärt system där varje del är skapad för att ge rätt stöd i verksamheten. Vi på CANEA levererar varaktiga resultat genom att kombinera konsulttjänster, IT-lösningar och utbildningar</p>",
+    "contact": "Sara Pettersson<br><a href=\"mailto:sara.pettersson@canea.se\">sara.pettersson@canea.se</a><br>0727379076",
+    "description": "<p>Vi lever i en snabbt föränderlig värld där det ständigt ställs nya krav på en organisation. CANEAs filosofi är att ge de strategier, system, arbetssätt och kompetens som både skapar förutsättningar och säkerställer bästa resultat – som verkligen varar. Vår affärsidé är att konkret realisera den förbättringspotential som finns i alla verksamheter och skapa driv i förändringsarbetet. Vi gör detta genom att analysera, utveckla och införa strategier, system och kompetens hos våra kunder. Det leder till mätbara resultat i form av ökad effektivitet och nöjdare intressenter. Vi levererar konsulttjänster, IT-lösningar och utbildningar inom fyra huvudområden: Strategi, Organisation & Effektivisering, Projektledning och Ledningssystem. Vår egenutvecklade IT-lösning CANEA ONE är ett verksamhetssystem med integrerad hantering av strategier, projekt, processer, ärenden och dokument. Helt enkelt effektiv verksamhetsledning. CANEA ONE länkar ihop strategin med den dagliga verksamheten. Ett modulärt system där varje del är skapad för att ge rätt stöd i verksamheten. Vi på CANEA levererar varaktiga resultat genom att kombinera konsulttjänster, IT-lösningar och utbildningar</p>",
     "educations": [
       "Computer Science",
       "Information Technology"
@@ -231,9 +231,9 @@
   {
     "name": "Capgemini",
     "businessField": "",
-    "employees": "1353",
+    "employees": "200 000",
     "website": "<a href=\"http://www.capgemini.se\" target=\"_blank\">www.capgemini.se</a>",
-    "contact": "Marie Almgren<br><a href=\"mailto:maria.lidgren@capgemini.com,\">maria.lidgren@capgemini.com</a><br> 0735 320949",
+    "contact": "Marie Lidgren<br><a href=\"mailto:maria.lidgren@capgemini.com,\">maria.lidgren@capgemini.com</a><br> 0735 320949",
     "description": "<p>A global leader in consulting, technology services, and digital transformation, Capgemini is at the forefront of innovation to address the entire breadth of clients’ opportunities in the evolving world of cloud, digital, and platforms. Building on its strong 50-year heritage and deep industry-specific expertise, Capgemini enables organizations to realize their business ambitions through an array of services from strategy to operations. Capgemini is driven by the conviction that the business value of technology comes from and through people. It is a multicultural company of 200,000 team members in over 40 countries. The Group reported 2017 global revenues of EUR 12.8 billion. Visit us at www.capgemini.com. People matter, results count.</p>",
     "educations": [
       "Computer Science",
@@ -241,8 +241,7 @@
     ],
     "positions": [
       "Full-time job",
-      "MSc Thesis",
-      "Internship"
+      "Trainee"
     ],
     "smallImage": "../img/capgemini/capgemini_logo.png",
     "locationImage": ""
@@ -311,7 +310,7 @@
     "employees": "25",
     "website": "<a href=\"http://www.gaisler.com\" target=\"_blank\">www.gaisler.com</a>",
     "contact": "<a href=\"mailto:career@gaisler.com\">career@gaisler.com</a><br>+46 31 7758650",
-    "description": "<p>Cobham Gaisler, based in central Gothenburg, is a world leader in processors for aerospace applica- tions. The main products are the LEON line of processors and the GRLIB VHDL IP-library used for System-on-Chip solutions, targeting both ASICs and FPGAs. These are provided either as source code or as components developed in-house. In addition Cobham Gaisler develops hardware debuggers, com- pilers, simulators and open source software, such as OS and device drivers, targeting the LEON proces- sor.</p>",
+    "description": "<p>Cobham Gaisler, based in central Gothenburg, is a world leader in processors for aerospace applica- tions. The main products are the LEON line of processors and the GRLIB VHDL IP-library used for System-on-Chip solutions, targeting both ASICs and FPGAs. These are provided either as source code or as components developed in-house. In addition Cobham Gaisler develops hardware debuggers, compilers, simulators and open source software, such as OS and device drivers, targeting the LEON processor.</p>",
     "educations": [
       "Computer Science",
       "Electrical Engineering"
@@ -350,7 +349,7 @@
     "employees": "25",
     "website": "<a href=\"http://www.conmore.se\" target=\"_blank\">www.conmore.se</a>",
     "contact": "Malin Hage<br><a href=\"mailto:malin.hage@conmore.se\">malin.hage@conmore.se</a><br>0708-10 54 06",
-    "description": "<p>Conmore sätter medarbetarna i centrum. Vi är det trygga konsultbolaget som är kända för vår kompe- tens, vårt engagemang och för vår familjära känsla i företaget. Vi vill att våra medarbetare ska trivas och må bra, därför jobbar vi enbart med fasta anställningar. Som konsult hos oss har du full lön även om du inte är ute på uppdrag. Conmore har mer än 25 års erfarenhet utav produktutveckling som förenklar människans vardag. På Conmore får du jobba med intressanta arbetsuppgifter och den senaste teknologin.</p>",
+    "description": "<p>Conmore sätter medarbetarna i centrum. Vi är det trygga konsultbolaget som är kända för vår kompetens, vårt engagemang och för vår familjära känsla i företaget. Vi vill att våra medarbetare ska trivas och må bra, därför jobbar vi enbart med fasta anställningar. Som konsult hos oss har du full lön även om du inte är ute på uppdrag. Conmore har mer än 25 års erfarenhet utav produktutveckling som förenklar människans vardag. På Conmore får du jobba med intressanta arbetsuppgifter och den senaste teknologin.</p>",
     "educations": [
       "Information Technology",
       "Computer Science",
@@ -407,7 +406,7 @@
     "employees": "128",
     "website": "<a href=\"http://www.cpacsystems.se\" target=\"_blank\">www.cpacsystems.se</a>",
     "contact": "Annika Muskantor<br><a href=\"mailto:annika.muskantor@cpacsystems.se\">annika.muskantor@cpacsystems.se</a><br>0705864004",
-    "description": "<p>Välkommen till vår värld. CPAC Systems utvecklar framtidens teknologi inom automation, styrning, X-by-wiresys- tems, HMI, hybridutveckling, connectivity/telematik och vi gör det på vårt sätt. Att vi vågar vara annorlunda gör att vi hittar andra lösningar som gör livet lättare för användaren av våra produkter. För lastbilschauffören, grävmaski- nisten och asfaltsläggaren. För busschauffören, sopbilsåkaren och båtägaren. På vårt kontor föds idéer som blir till verklighet, vi är ingenjörer som älskar vårt jobb och som har en gemensam vision om att göra saker lite snab- bare, lite bättre och framför allt lite annorlunda. Vi är stolta över vår kultur, att vi är inkluderande, att vi ger varandra ansvar och en möjlighet att växa även på ett personligt plan. Att vi har kul ihop. Både när vi utvecklar, testar och lanserar våra produkter och när vi kör ett svettigt pass på gymmet.</p>",
+    "description": "<p>Välkommen till vår värld. CPAC Systems utvecklar framtidens teknologi inom automation, styrning, X-by-wiresys- tems, HMI, hybridutveckling, connectivity/telematik och vi gör det på vårt sätt. Att vi vågar vara annorlunda gör att vi hittar andra lösningar som gör livet lättare för användaren av våra produkter. För lastbilschauffören, grävmaskinisten och asfaltsläggaren. För busschauffören, sopbilsåkaren och båtägaren. På vårt kontor föds idéer som blir till verklighet, vi är ingenjörer som älskar vårt jobb och som har en gemensam vision om att göra saker lite snab- bare, lite bättre och framför allt lite annorlunda. Vi är stolta över vår kultur, att vi är inkluderande, att vi ger varandra ansvar och en möjlighet att växa även på ett personligt plan. Att vi har kul ihop. Både när vi utvecklar, testar och lanserar våra produkter och när vi kör ett svettigt pass på gymmet.</p>",
     "educations": [
       "Information Technology",
       "Computer Science",
@@ -464,7 +463,7 @@
     "employees": "1400",
     "website": "<a href=\"http://www.dfind.se/it\" target=\"_blank\">www.dfind.se/it</a>",
     "contact": "Henrietta Bolander<br><a href=\"mailto:henrietta.bolander@dfind.se\">henrietta.bolander@dfind.se</a><br>0724518797",
-    "description": "<p>Dfnd IT är ett rekryterings- och konsultbolag inom IT som skapar utvecklingsmöj- ligheter för organisationer, företag och människor. Alla som arbetar hos oss är specialister på IT-kompetens. Vi tror att engagemang och enkelhet är vägen till en bra framtid för våra kandidater och våra kunder. En framtid där vi kan hjälpa fer att lyckas. Kom och prata med oss så ser vi vad vi kan hjälpa just dig med.</p>",
+    "description": "<p>Dfind IT är ett rekryterings- och konsultbolag inom IT som skapar utvecklingsmöj- ligheter för organisationer, företag och människor. Alla som arbetar hos oss är specialister på IT-kompetens. Vi tror att engagemang och enkelhet är vägen till en bra framtid för våra kandidater och våra kunder. En framtid där vi kan hjälpa fer att lyckas. Kom och prata med oss så ser vi vad vi kan hjälpa just dig med.</p>",
     "educations": [
       "Information Technology",
       "Computer Science"
@@ -521,7 +520,7 @@
     "employees": "12",
     "website": "<a href=\"http://www.endeavor.se\" target=\"_blank\">www.endeavor.se</a>",
     "contact": "<a href=\"mailto:work@endeavor.se\">work@endeavor.se</a><br>031-40 68 80",
-    "description": "<p>At Endeavor we strive to simplify and streamline our customers business processes by imple- menting smart digital solutions. Our innovative services and products are a safe way towards higher productivity and increased proftability in industries as manufacturing, professional ser- vices, retail and public. We are part of the CRM Partners Group. From our offces across Europe, 500 of the most tal- ented and experienced people in our industry combine Microsoft technology, change manage- ment and data to deliver customer experience platforms that make you loved by your customers.</p>",
+    "description": "<p>At Endeavor we strive to simplify and streamline our customers business processes by imple- menting smart digital solutions. Our innovative services and products are a safe way towards higher productivity and increased proftability in industries as manufacturing, professional ser- vices, retail and public. We are part of the CRM Partners Group. From our offces across Europe, 500 of the most talented and experienced people in our industry combine Microsoft technology, change manage- ment and data to deliver customer experience platforms that make you loved by your customers.</p>",
     "educations": [
       "Information Technology",
       "Computer Science"
@@ -539,7 +538,7 @@
     "employees": "15505",
     "website": "<a href=\"http://www.ericsson.com\" target=\"_blank\">www.ericsson.com</a>",
     "contact": "Lisa Boberg<br><a href=\"mailto:\"></a><br>+46 737-45 70 92",
-    "description": "<p>Ericsson is one of the leading providers of Information and Communication Technology to service providers, with about 40% of the world’s mobile traffc carried through our net- works. We enable the full value of connectivity by creating game-changing technology and services that are easy to use, adopt and scale, making our customers successful in a fully connected world. For more than 140 years, our ideas, technology and people have transformed lives and changed industries and society.</p>",
+    "description": "<p>Ericsson is one of the leading providers of Information and Communication Technology to service providers, with about 40% of the world’s mobile traffc carried through our networks. We enable the full value of connectivity by creating game-changing technology and services that are easy to use, adopt and scale, making our customers successful in a fully connected world. For more than 140 years, our ideas, technology and people have transformed lives and changed industries and society.</p>",
     "educations": [
       "Information Technology",
       "Computer Science",
@@ -671,7 +670,7 @@
     "businessField": "",
     "employees": "35",
     "website": "<a href=\"http://www.kits.se\" target=\"_blank\">www.kits.se</a>",
-    "contact": "<a href=\"mailto:pierre.ekwall@infotiv.se\">hoi-man.lui@kits.se</a><br>0738131813",
+    "contact": "<a href=\"mailto:hoi-man.lui@kits.se\">hoi-man.lui@kits.se</a><br>0738131813",
     "description": "<p>KITS är ett it-konsultbolag baserat i Göteborg. Vi är en blandning av talanger och experter. Våra experter är de bästa konsulterna inom sina respektive teknik-/verksamhetsområden och våra talanger är på väg mot att bli experter. Vi har stort fokus på kompetensutveckling och kompetens- spridning inom våra teknik- och verksamhetsområden. Vi jobbar metodiskt och målinriktat med att hela tiden utveckla KITS till ett bättre bolag där det är högt i tak, processerna är agila och där det är kul på jobbet. Vi är grymma på arkitektur, mentorskap, systemutveckling, projektledning och metoder inom Java, JavaScript, .NET och Open source. Vår spetskompetens kommer bäst till nytta inom web/ mobilitet, telematik/Internet of things, säkerhet och integration. Vår vision är att bli norra Europas bästa bolag för engagerade och kreativa konsulter. Vår mission är att utveckla talanger till expert- er och låta experter förbli experter.</p>",
     "educations": [
       "Information Technology",
