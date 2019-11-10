@@ -1,0 +1,17 @@
+
+body {
+  padding-top: 4em;
+}
+
+.navbar {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.navbar a {
+  color: #FFF;
+}
+
+.navbar a:hover, .navbar a:active, .navbar a:focus {
+  color: #CCC;
+  text-decoration: underline;
+}
